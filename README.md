@@ -1,7 +1,7 @@
 
 
 
-## ⚜Mi nuevo canal de YouTube⚜
+## ⚜Canal de YouTube⚜
 
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
