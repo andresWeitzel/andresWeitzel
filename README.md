@@ -10,7 +10,7 @@
  
 <br />
 
-## <img width="80" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />Proyectos <img width="80" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />
+## <img width="85" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />Proyectos <img width="80" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />
 
 ### <img width="60" height="40"  src="https://i.pinimg.com/originals/1f/2d/f8/1f2df8fad7e9bfcb18d9d553f8fc259b.gif" /> Web 
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://andresweitzel.github.io/)<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
