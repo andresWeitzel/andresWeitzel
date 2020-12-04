@@ -1,7 +1,7 @@
 
 
 
-## <img width="100px"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />Mi Canal<img width="100px"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />
+## <img width="80px"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />Mi Canal<img width="80px"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> 
