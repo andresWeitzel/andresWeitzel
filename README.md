@@ -1,7 +1,7 @@
 
 
 
- <img width="82px" src="https://registration.sta-edu.com/images/loader_img.gif" /> ## Canal de YouTube 
+## <img width="82px" src="https://registration.sta-edu.com/images/loader_img.gif" />Canal de YouTube 
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> 
@@ -10,7 +10,7 @@
  
 <br />
 
-## <img width="22px" src="https://a4.vnda.com.br/selodecontrole/images/spinner.gif?1603387499195" /> Proyectos
+## <img width="82px" src="https://registration.sta-edu.com/images/loader_img.gif" /> Proyectos
 
 ### <img width="82px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/afb8cb36197347.5713616457ee5.gif" />  Web <img width="82px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/afb8cb36197347.5713616457ee5.gif" />
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://andresweitzel.github.io/)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
