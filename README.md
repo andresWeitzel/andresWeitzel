@@ -28,7 +28,7 @@
 
 <br />
 
-###  <img width="50px"  src="https://www.tradejini.com/assets/images/api/api.gif" /> Core/Rest
+###  <img width="30px"  src="https://www.tradejini.com/assets/images/api/api.gif" /> Core/Rest
 #### - [Colaboracion en un proyecto sobre el Covid-19 en PHP-CORE](https://github.com/andresWeitzel/medmask)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
