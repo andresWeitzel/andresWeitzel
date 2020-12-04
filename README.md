@@ -16,7 +16,7 @@
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://andresweitzel.github.io/)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <br />
 
-### Aplicaciones de Escritorio
+### <img width="50px"  src="https://i.pinimg.com/originals/8a/d9/b9/8ad9b949a011b673bed8a02d6bfc69b1.gif" /> Aplicaciones de Escritorio
 #### - [Desarrollo de una GUI en JAVA SE con Ant aplicando JDBC con Mysql](https://github.com/andresWeitzel/Farmaco_NTZ184)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <br />
