@@ -12,7 +12,7 @@
 
 ## <img width="80px"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />Proyectos <img width="80px"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />
 
-### <img width="80px"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" /> Web 
+### <img width="80px"  src="https://www.lanceseguro.com.br/imagens/loading.gif" /> Web 
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://andresweitzel.github.io/)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <br />
 
