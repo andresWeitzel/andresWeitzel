@@ -21,7 +21,7 @@
 
 <br />
 
-### <img width="50px"  src="https://miro.medium.com/max/1600/1*a6X94xx-nFIRIcmtgdoBMQ.gif" />  Sistemas Embebidos
+### <img width="50px"  src="https://i.gifer.com/7qcy.gif" />  Sistemas Embebidos
 #### - [Desarrollo de un sistema de Control de nivel de agua con Arduino](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 #### - [Desarrollo de un sistema de Control de Sensado de Temperatura/Humedad con un microcontrolador ESP8266](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
