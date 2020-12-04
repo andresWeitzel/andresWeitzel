@@ -1,6 +1,6 @@
 
 
-<!-Canal de Youtube-->
+<!--Canal de Youtube-->
 
 ## <img width="90" height="60"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />Youtube<img width="90" height="60" src="https://recifeinventarios.com.br/resource/img/loader.gif" />
 <br />
@@ -9,7 +9,7 @@
 
   ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /> 
  
-<br />
+<!--Fin Canal de Youtube-->
 
 ## <img width="85" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />Proyectos <img width="80" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />
 
