@@ -48,7 +48,7 @@
 
 <!--Seccion Core-Rest-->
 
-###  <img width="60" src="https://thumbs.gfycat.com/DifferentClutteredGuppy-size_restricted.gif" /> Core/Rest
+###  <img width="30" src="https://hackernoon.com/hn-images/1*CkynRe-J1FVnUAk7JmOTdQ.gif" /> Core/Rest
 #### - [Colaboracion en un proyecto sobre el Covid-19 en PHP-CORE](https://github.com/andresWeitzel/medmask)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!--Fin Seccion Core-Rest-->
