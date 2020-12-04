@@ -1,7 +1,7 @@
 
 
 
-## <img width="150px"  src="https://www.nihonxp.com/wp-content/uploads/2020/05/78e826ca1b9351214dfdd5e47f7e2024.gif" />Canal de YouTube  <img width="150px"  src="https://www.nihonxp.com/wp-content/uploads/2020/05/78e826ca1b9351214dfdd5e47f7e2024.gif" />
+## <img width="100px"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />Canal de YouTube  
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> 
