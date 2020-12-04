@@ -1,7 +1,7 @@
 
 
 
-## <img width="22px" src="https://cdn.dribbble.com/users/108183/screenshots/2301400/spinnervlll.gif" /> Canal de YouTube 
+## <img width="22px" src="https://registration.sta-edu.com/images/loader_img.gif" /> Canal de YouTube 
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> 
