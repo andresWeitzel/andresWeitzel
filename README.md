@@ -10,9 +10,9 @@
  
 <br />
 
-## <img width="80px"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />Proyectos <img width="80px"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />
+## <img width="100px"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />Proyectos <img width="100px"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />
 
-### <img width="82px" src="https://giphy.com/gifs/l378dJlRt7fvGHyfK/fullscreen" />  Web <img width="82px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/afb8cb36197347.5713616457ee5.gif" />
+### <img width="80px"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" /> Web 
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://andresweitzel.github.io/)<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <br />
 
