@@ -1,12 +1,12 @@
 
 
 
-## <img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /> Canal de YouTube <img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" />
+## <img width="22px" src="https://a4.vnda.com.br/selodecontrole/images/spinner.gif?1603387499195" /> Canal de YouTube 
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> 
 
- *⬅* ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** 🆓✔
+ *⬅* ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** 🆓✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /> 
  
 <br />
 
