@@ -1,7 +1,7 @@
 
 
 
-## Canal de YouTube<img   width="72px" src="https://techcrunch.com/wp-content/uploads/2019/11/audio-mixcloud.gif?w=990&crop=1" />
+## Canal de YouTube<img   width="72px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" />
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> 
