@@ -24,7 +24,7 @@
 
 <br />
 
-### <img width="45" height="40"  src="https://rawdigital.com.br/wp-content/uploads/2019/10/seo-consultoria-porto-alegre.gif" /> Aplicaciones Web 
+### <img width="30"   src="https://rawdigital.com.br/wp-content/uploads/2019/10/seo-consultoria-porto-alegre.gif" /> Aplicaciones Web 
 
 <!--Fin Seccion Web-->
 
