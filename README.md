@@ -24,7 +24,8 @@
 
 <br />
 
-### <img width="30"   src="https://rawdigital.com.br/wp-content/uploads/2019/10/seo-consultoria-porto-alegre.gif" /> Aplicaciones Web 
+<!--### <img width="30"  src="https://i.pinimg.com/originals/66/cb/31/66cb3143aefef7fb9c534712bd2c890d.gif" /> Aplicaciones de Escritorio-->
+### <img width="30"   src="https://i.pinimg.com/originals/66/cb/31/66cb3143aefef7fb9c534712bd2c890d.gif" /> Aplicaciones Web 
 
 <!--Fin Seccion Web-->
 
@@ -32,7 +33,6 @@
 
 <!--Seccion Desktop App-->
 
-<!--### <img width="30"  src="https://i.pinimg.com/originals/66/cb/31/66cb3143aefef7fb9c534712bd2c890d.gif" /> Aplicaciones de Escritorio-->
 ### <img width="30"  src="https://www.touchmediaads.com/myimg/b1.3.gif" /> Aplicaciones de Escritorio
 #### - [Desarrollo de una GUI en JAVA SE con Ant aplicando JDBC con Mysql](https://github.com/andresWeitzel/Farmaco_NTZ184)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
