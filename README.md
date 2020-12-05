@@ -24,7 +24,7 @@
 
 <br />
 
-### <img width="50" height="30"  src="https://www.lexpo.com.br/wp-content/uploads/2018/09/criacao-de-site.gif" /> Aplicaciones Web 
+### <img width="50" height="30"  src="https://rawdigital.com.br/wp-content/uploads/2019/10/seo-consultoria-porto-alegre.gif" /> Aplicaciones Web 
 
 <!--Fin Seccion Web-->
 
