@@ -2,7 +2,7 @@
 
 <!--CANAL DE YOUTUBE-->
 
-## <img width="68" height="46"  src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" /> Youtube <img width="68" height="46" src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />
+## <img width="68" height="46"  src="https://www.blokton.com.br/images/loading.gif" /> Youtube <img width="68" height="46" src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />
 
 <br />
 
