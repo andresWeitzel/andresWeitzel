@@ -15,7 +15,7 @@
 
 <!--PROYECTOS-->
 
-## <img width="88" height="60"  src="https://i.imgur.com/GCNyjJY.gif" />Proyectos <img width="80" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />
+## <img width="70" height="50"  src="https://i.imgur.com/GCNyjJY.gif" />Proyectos <img width="80" height="60"  src="https://suap.ifpb.edu.br/static/bi/loading.gif" />
 
 <!--Seccion Web-->
 
