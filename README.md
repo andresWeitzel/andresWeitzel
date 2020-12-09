@@ -2,10 +2,10 @@
 
 <!--CANAL DE YOUTUBE-->
 
-## <img width="77" height="55"  src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />Youtube<img width="77" height="55" src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />
+## <img width="72" height="50"  src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />Youtube<img width="72" height="50" src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
+<img align="left" alt="andresWeitzel | YouTube" width="77" height="55" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
 
   ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /> 
  
@@ -15,7 +15,7 @@
 
 <!--PROYECTOS-->
 
-## <img width="65" height="50"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="65" height="50"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />
+## <img width="61" height="45"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="61" height="45"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />
 
 <!--Seccion Web-->
 
