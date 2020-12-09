@@ -29,7 +29,7 @@
 <br />
 
 <!--### <img width="30"  src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" /> Aplicaciones de Escritorio-->
-### <img width="35"   src="https://i.pinimg.com/originals/66/cb/31/66cb3143aefef7fb9c534712bd2c890d.gif" /> Aplicaciones Web 
+### <img width="35"   src="https://support.invisionapp.com/hc/user_images/rRgNCly-NWqgQv5_RNyvFw.gif" /> Aplicaciones Web 
 
 <!--Fin Seccion Web-->
 
