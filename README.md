@@ -21,7 +21,7 @@
 
 <!--Seccion Web-->
 
-### <img width="40" height="35"  src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" /> Sitios Web 
+### <img width="40" height="35"  src="https://lh3.googleusercontent.com/proxy/uhwrnDTZ48py9cMC2EFw-wKr3jSl6xTTW5nDe2N95ejYLLdNRqjibVYitceki_DlsKK5ybWA96p-pt7grQf9H40N1uYI3ZwrtpSBXGAg_w" /> Sitios Web 
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://andresweitzel.github.io/)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 #### - [Desarrollo y Diseño de un Sitio Web acerca de Test IT aplicando JS Nativo y Bootstrap](https://gestion-test-it.netlify.app/)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
