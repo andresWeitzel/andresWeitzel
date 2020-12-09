@@ -22,7 +22,8 @@
 <!--Seccion Web-->
 
 <!--### <img width="40" height="35"  src="https://www.cobimoveis.com.br/assets/img/gif/p-load.gif" /> Sitios Web -->
-### <img width="40" height="35"  src="https://menarosa.org/wp-content/uploads/2018/12/pending-loop.gif" /> Sitios Web 
+<!--### <img width="40" height="35"  src="https://menarosa.org/wp-content/uploads/2018/12/pending-loop.gif" /> Sitios Web -->
+### <img width="40" height="35"  src="https://media.giphy.com/media/Phv0mZli5ascE/giphy.gif" /> Sitios Web 
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://andresweitzel.github.io/)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 #### - [Desarrollo y Diseño de un Sitio Web acerca de Test IT aplicando JS Nativo y Bootstrap](https://gestion-test-it.netlify.app/)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
