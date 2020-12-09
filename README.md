@@ -35,9 +35,11 @@
 
 <br />
 
+<!--### <img width="35"  src="https://www.checkonn.com/criarsite.gif" /> Aplicaciones de Escritorio-->
+
 <!--Seccion Desktop App-->
 
-### <img width="35"  src="https://www.checkonn.com/criarsite.gif" /> Aplicaciones de Escritorio
+### <img width="35"  src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Triakisoctahedron.gif" /> Aplicaciones de Escritorio
 #### - [Desarrollo de una GUI en JAVA SE con Ant aplicando JDBC con Mysql](https://github.com/andresWeitzel/Farmaco_NTZ184)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <!--Fin Seccion Desktop App-->
