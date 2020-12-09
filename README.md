@@ -2,12 +2,12 @@
 
 <!--CANAL DE YOUTUBE-->
 
-## <img width="68" height="46"  src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" /> Youtube <img width="68" height="46"src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />
+## <img width="68" height="46"  src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" /> Youtube <img width="68" height="46" src="https://toyama.com.br/wp-content/themes/toyama/imgs/loading.gif" />
 
 <br />
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="80" height="70" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
+<img align="left" alt="andresWeitzel | YouTube" width="80" height="73" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
 
   ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /> 
  
