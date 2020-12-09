@@ -2,7 +2,7 @@
 
 <!--CANAL DE YOUTUBE-->
 
-## <img width="96" height="60"  src="https://recifeinventarios.com.br/resource/img/loader.gif" />Youtube<img width="90" height="60" src="https://recifeinventarios.com.br/resource/img/loader.gif" />
+## <img width="96" height="60"  src="https://cursosavancar.com.br/wp-content/themes/new-avancar/loader.gif" />Youtube<img width="90" height="60" src="https://recifeinventarios.com.br/resource/img/loader.gif" />
 <br />
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="72px" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
