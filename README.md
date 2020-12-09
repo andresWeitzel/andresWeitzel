@@ -17,7 +17,7 @@
 
 <!--PROYECTOS-->
 
-## <img width="60" height="43"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="60" height="43"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />
+## <img width="60" height="50"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="60" height="50"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />
 
 <!--Seccion Web-->
 
