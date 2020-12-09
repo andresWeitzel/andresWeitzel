@@ -15,7 +15,7 @@
 
 <!--PROYECTOS-->
 
-## <img width="70" height="50"  src="https://i.imgur.com/GCNyjJY.gif" />Proyectos <img width="70" height="50"  src="https://i.imgur.com/GCNyjJY.gif" />
+## <img width="70" height="50"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="70" height="50"  src="https://i.imgur.com/GCNyjJY.gif" />
 
 <!--Seccion Web-->
 
