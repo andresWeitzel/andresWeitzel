@@ -28,8 +28,8 @@
 
 <br />
 
-<!--### <img width="30"  src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/b40d1bd232c8d4125a6e831600624dfc-1590004611/Sabiorealm_v2/make-animated-logo-loader-for-your-website.gif" /> Aplicaciones de Escritorio-->
-### <img width="35"   src="https://avancar.gov.br/avancar-web/images/loading.gif" /> Aplicaciones Web 
+
+### <img width="35"   src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/b40d1bd232c8d4125a6e831600624dfc-1590004611/Sabiorealm_v2/make-animated-logo-loader-for-your-website.gif" /> Aplicaciones Web 
 
 <!--Fin Seccion Web-->
 
