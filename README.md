@@ -2,14 +2,15 @@
 
 <!--CANAL DE YOUTUBE-->
 
-## <img width="65" height="55"  src="https://www.blokton.com.br/images/loading.gif" /> Youtube <img width="65" height="55"  src="https://www.blokton.com.br/images/loading.gif" />
+## <img width="61" height="53"  src="https://www.blokton.com.br/images/loading.gif" /> Youtube <img width="61" height="53"  src="https://www.blokton.com.br/images/loading.gif" />
 
 <br />
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="80" height="73" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
 
-  ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /> 
+<a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
+ ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /></a>  
  
 <!--FIN CANAL DE YOUTUBE-->
 
@@ -17,7 +18,7 @@
 
 <!--PROYECTOS-->
 
-## <img width="60" height="50"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="60" height="50"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />
+## <img width="57" height="47"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="57" height="47"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />
 
 <!--Seccion Web-->
 
