@@ -10,6 +10,7 @@
 <img align="left" alt="andresWeitzel | YouTube" width="80" height="73" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
+ 
  ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /></a>  
  
 <!--FIN CANAL DE YOUTUBE-->
