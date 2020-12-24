@@ -2,16 +2,16 @@
 
 <!--CANAL DE YOUTUBE-->
 
-## <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="61" height="53"  src="https://www.blokton.com.br/images/loading.gif" />
+## <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
 
 <br />
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="80" height="73" src="https://media.giphy.com/media/XeS5pJEO8PrCr0rYQI/giphy.gif" /></a> 
+<img align="left" alt="andresWeitzel | YouTube" width="90" height="83" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLogo.gif" /></a> 
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
  
- ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔<img width="22px" src="https://www.ahiva.info/Gifs-Animados/Informatica/Wifi/Wifi-10.gif" /></a>  
+ ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
  
 <!--FIN CANAL DE YOUTUBE-->
 
