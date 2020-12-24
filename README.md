@@ -19,7 +19,7 @@
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
-## <img width="57" height="47"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="57" height="47"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif />
+## <img width="57" height="47"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="57" height="47" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />
 
 
 
