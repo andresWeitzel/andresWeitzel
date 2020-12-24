@@ -1,6 +1,6 @@
 
 
-<!--CANAL DE YOUTUBE-->
+<!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
 
 ## <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
 
@@ -13,61 +13,70 @@
  
  ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
  
-<!--FIN CANAL DE YOUTUBE-->
+<!-----------------------------------------FIN CANAL DE YOUTUBE------------------------------------------------------->
 
 </br>
 
-<!--PROYECTOS-->
+<!-----------------------------------------PROYECTOS------------------------------------------------------->
 
-## <img width="57" height="47"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />Proyectos <img width="57" height="47"  src="https://steamuserimages-a.akamaihd.net/ugc/915793643567262416/61D85F670D4D9221745B7A844EBD595BFA150EB6/" />
+## <img width="57" height="47"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="57" height="47"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif />
 
-<!--Seccion Web-->
 
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+<!--SITIOS WEB-->
 <!--### <img width="40" height="35"  src="https://www.cobimoveis.com.br/assets/img/gif/p-load.gif" /> Sitios Web -->
 <!--### <img width="40" height="35"  src="https://menarosa.org/wp-content/uploads/2018/12/pending-loop.gif" /> Sitios Web -->
-### <img width="40" height="35"  src="https://img1.picmix.com/output/stamp/normal/2/7/5/8/1438572_71473.gif" /> Sitios Web 
+### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web 
 #### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 #### - [Desarrollo y Diseño de un Sitio Web acerca de Test IT aplicando JS Nativo y Bootstrap](https://github.com/andresWeitzel/SitioWebTest_IT)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<!--FIN SITIOS WEB-->
 
 <br />
 
-
-### <img width="35"   src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/b40d1bd232c8d4125a6e831600624dfc-1590004611/Sabiorealm_v2/make-animated-logo-loader-for-your-website.gif" /> Aplicaciones Web 
+<!--APLICACIONES WEB-->
+### <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/abstractAplications.gif" /> Aplicaciones Web 
 #### - [Aplicación Web para denuncias, ayuda e información acerca de violencia de género, discriminación, etc, aplicando Angular y Bootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!--FIN APLICACIONES WEB-->
 
-<!--Fin Seccion Web-->
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <br />
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DESKTOP APP>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <!--### <img width="35"  src="https://www.checkonn.com/criarsite.gif" /> Aplicaciones de Escritorio-->
-
-<!--Seccion Desktop App-->
-
-### <img width="35"  src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Triakisoctahedron.gif" /> Aplicaciones de Escritorio
+### <img width="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cubeAplications.gif" /> Aplicaciones de Escritorio
 #### - [Desarrollo de una GUI acerca del Control de Primates en JAVA SE Swing con Ant aplicando JDBC con Mysql](https://github.com/andresWeitzel/Farmaco_NTZ184)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 #### - [Desarrollo de una GUI para la Gestión de Gastos en JAVA SE Swing con Maven aplicando JDBC con Mysql](https://github.com/andresWeitzel/Gestor_Gastos_Personales)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<!--Fin Seccion Desktop App-->
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN DESKTOP APP>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <br />
 
-<!--Seccion Sistemas Embebidos-->
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 ### <img width="30"  src="https://solarstik.com/wp-content/uploads/2017/06/circuit_animation.gif" />  Sistemas Embebidos
 #### - [Desarrollo de un Sistema de Control de Nivel de Agua con Arduino](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 #### - [Desarrollo de un Sistema de Control de Sensado de Temperatura/Humedad con el Micro ESP8266](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-<!--Fin Seccion Sistemas Embebidos-->
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <br />
 
-<!--Seccion Core-Rest-->
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN CORE REST>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 ###  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" /> Core/Rest
 #### - [Colaboracion en un proyecto sobre el Covid-19 en PHP-CORE](https://github.com/andresWeitzel/medmask)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<!--Fin Seccion Core-Rest-->
 
-<!--FIN PROYECTOS-->
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN CORE REST>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+<!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
