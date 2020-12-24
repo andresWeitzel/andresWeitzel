@@ -2,7 +2,7 @@
 
 <!--CANAL DE YOUTUBE-->
 
-## <img width="61" height="53"  src="https://www.blokton.com.br/images/loading.gif" /> Youtube <img width="61" height="53"  src="https://www.blokton.com.br/images/loading.gif" />
+## <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="61" height="53"  src="https://www.blokton.com.br/images/loading.gif" />
 
 <br />
 
