@@ -91,5 +91,5 @@
 
 <br />
 
-### - Otros qué quedaron pendientes de Pulir se irán Agregando
+#### - [Otros qué quedaron pendientes de Pulir se irán Agregando]
 <!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
