@@ -93,7 +93,7 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-###  <img width="30" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/db.gif" /> DATABASES
+###  <img width="25" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/db.gif" /> Bases de Datos
 #### - [Modelado, Diseño y Gestión de una db con el Motor Mysql](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
