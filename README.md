@@ -8,7 +8,7 @@
 
 </br>
 
-<div style="display: inline-block">
+<div style="display: inline">
 <img width="50" height="50" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
 </div>
 
