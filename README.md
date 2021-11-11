@@ -2,24 +2,24 @@
 
 <!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
 
-## <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="61" height="53"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
+## <img width="60" height="50"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="60" height="50"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
 
 <br />
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="90" height="83" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLogo.gif" /></a> 
+<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLogo.gif" /></a> 
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
  
- ***(AUTOMATIZACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
+ ***(PROGRAMACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
  
 <!-----------------------------------------FIN CANAL DE YOUTUBE------------------------------------------------------->
 
-</br>
+</br></br>
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
-## <img width="57" height="47"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="57" height="47" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />
+## <img width="55" height="45"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="55" height="45" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />
 
 
 
@@ -30,7 +30,7 @@
 <!--### <img width="40" height="35"  src="https://menarosa.org/wp-content/uploads/2018/12/pending-loop.gif" /> Sitios Web -->
 
 ### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web 
-#### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io)
+##### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io)
 <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 #### - [Desarrollo y Diseño de un sitio web acerca de Test en el Área IT utilizando Bootstrap, JS Nativo y consumo de la API FullCalendar](https://github.com/andresWeitzel/SitioWebTest_IT)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
