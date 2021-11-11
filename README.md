@@ -3,7 +3,7 @@
 
 * Programador Web Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y otras áreas.
-* Mi primer programa fue en C programando el PIC16F84A.
+* Mi primer programa fue en C programando el microcontrolador PIC16F84A.
 
 
 </br>
