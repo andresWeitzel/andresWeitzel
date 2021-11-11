@@ -13,7 +13,9 @@
 </br>
  
 <div>
-<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
+ 
+![andresWeitzel Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andresWeitzel&theme=default&width="50%"&align="right")  
 </div>
 
 
