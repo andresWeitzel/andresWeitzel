@@ -14,9 +14,9 @@
 ![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
 
 
-<div> 
+
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
-</div> 
+
  
 
 ### Lenguajes y Tecnologías
