@@ -27,7 +27,10 @@
 
 <!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
 
-## <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Mi Canal <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
+<!-- ## <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Mi Canal <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> -->
+
+
+## Mi Canal
 
 <br />
 
@@ -50,8 +53,9 @@
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
-## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />
+<!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 
+## Mi Canal
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
