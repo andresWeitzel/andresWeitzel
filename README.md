@@ -1,4 +1,6 @@
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&theme=tokyonight&layout=compact)](https://github.com/andresWeitzel/github-readme-stats)
+
 
 <!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
 
