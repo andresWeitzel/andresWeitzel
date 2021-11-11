@@ -8,14 +8,20 @@
 
 </br>
 
+![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="center")
+
+</br>
+
+
+
+### Lenguajes y Tecnologías
+
 <div>
 <img width="50%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
 </div>
 
-
 </br>
 
-### Lenguajes y Tecnologías
 <div style="display: inline-block;">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
