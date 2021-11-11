@@ -1,5 +1,5 @@
 
-### Perfil
+## Perfil
 
 * Programador Web Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y otras áreas.
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&theme=tokyonight&layout=compact)](https://github.com/andresWeitzel/github-readme-stats)
 
-## Lenguajes y Tecnologías
+#### Lenguajes y Tecnologías
 <div style="display: inline-block;">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -22,9 +22,12 @@
 </div>
 
 
+<br />
+
+
 <!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
 
-## <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
+## <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Mi Canal <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
 
 <br />
 
