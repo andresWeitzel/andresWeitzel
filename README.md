@@ -9,11 +9,11 @@
 
 </br>
 
-<div>
-![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
-</div>
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=default&link=https://www.github.com/andresWeitzel/">   
+![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
+
+
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&theme=tokyonight&layout=compact)](https://github.com/andresWeitzel/github-readme-stats)
