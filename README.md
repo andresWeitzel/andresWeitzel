@@ -14,7 +14,7 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -22,7 +22,9 @@
 </div>
 
 
-<br />
+</br>
+
+</br>
 
 
 <!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
@@ -32,7 +34,7 @@
 
 ## Mi Canal
 
-<br />
+</br>
 
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLogo.gif" /></a> 
@@ -55,7 +57,7 @@
 
 <!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 
-## Mi Canal
+## Proyectos
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
