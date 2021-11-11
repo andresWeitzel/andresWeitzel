@@ -10,7 +10,8 @@
 </br>
 
 <div> 
-![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
+ 
+![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=tokyonight&months=12&align="left")
 </div> 
 
 <div> 
