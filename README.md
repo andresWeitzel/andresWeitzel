@@ -14,7 +14,7 @@
 
 
 ---
-## Lenguajes y Tecnologías:
+## Lenguajes y Tecnologías
 
 </br>
 
@@ -53,7 +53,7 @@
 <!-- ## <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Mi Canal <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> -->
 
 ---
-## Mi Canal:
+## Mi Canal
 
 </br>
 
@@ -78,7 +78,7 @@
 
 <!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 ---
-## Proyectos:
+## Proyectos
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
