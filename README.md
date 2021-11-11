@@ -2,7 +2,7 @@
 
 <!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
 
-## <img width="60" height="50"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="60" height="50"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
+## <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Youtube <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" />
 
 <br />
 
@@ -19,7 +19,7 @@
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
-## <img width="55" height="45"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="55" height="45" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />
+## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />
 
 
 
@@ -30,7 +30,7 @@
 <!--### <img width="40" height="35"  src="https://menarosa.org/wp-content/uploads/2018/12/pending-loop.gif" /> Sitios Web -->
 
 ### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web 
-##### - [Diseño de un Sitio Web de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io)
+#### - [Diseño de un Sitio Web acerca de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io)
 <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 #### - [Desarrollo y Diseño de un sitio web acerca de Test en el Área IT utilizando Bootstrap, JS Nativo y consumo de la API FullCalendar](https://github.com/andresWeitzel/SitioWebTest_IT)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
