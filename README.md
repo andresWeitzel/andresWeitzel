@@ -9,7 +9,7 @@
 
 </br>
 
-![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=tokyonight&months=12&align="left")
+![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=tokyonight&layout=compact&months=12&align="left")
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&theme=tokyonight&layout=compact)](https://github.com/andresWeitzel/github-readme-stats)
