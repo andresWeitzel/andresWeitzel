@@ -10,10 +10,6 @@
 </br>
 
  
- 
-![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
-
-
 <div>
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
 </div>
@@ -40,6 +36,9 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
 </div>
+
+ 
+![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
 
 
 </br>
