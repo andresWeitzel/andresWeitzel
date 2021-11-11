@@ -7,6 +7,11 @@
 * Contribuyo y Apoyo al Movimiento del Software Libre.
 
 
+<div>
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
+</div>
+
+
 </br>
 
 ### Lenguajes y Tecnologías
@@ -31,21 +36,7 @@
 
 </br>
 
-### Estadísticas
-![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
 
-</br>
- 
-<div>
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
-</div>
-
-
-
-
-</br>
-
-</br>
 
 
 <!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
