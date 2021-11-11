@@ -15,13 +15,17 @@
  
 <!-----------------------------------------FIN CANAL DE YOUTUBE------------------------------------------------------->
 
-</br></br></br>
+</br>
+
+</br>
+
+</br>
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
 ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />
 
-
+</br>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
