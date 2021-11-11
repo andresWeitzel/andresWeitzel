@@ -16,8 +16,6 @@
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&theme=tokyonight&layout=compact)](https://github.com/andresWeitzel/github-readme-stats)
-
 ### Lenguajes y Tecnologías
 <div style="display: inline-block;">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
