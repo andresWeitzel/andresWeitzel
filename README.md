@@ -1,7 +1,7 @@
 
-# Perfil
+# Mi Perfil
 
-* Desarrollador Web Full Stack.
+* Desarrollador Web Java Full Stack.
 * Mi primer programa fue en C programando el Microcontrolador PIC16F84A.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
 * Contribuyo y Apoyo al Movimiento del Software Libre.
