@@ -33,7 +33,6 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
 </div>
 
@@ -85,8 +84,8 @@
 <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img width="40" height="40" src="https://www.microchip.com/content/dam/mchp/mrt-dam/ic-images/tqfp/44-lead-t4x/PIC16F877A-T4X-Regular.jpg" />
-  <img width="40" height="40" src="https://www.luisllamas.es/wp-content/uploads/2018/06/esp8266-nodemcu.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/terminal_icon_131942.png" />
