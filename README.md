@@ -2,8 +2,8 @@
 # Mi Perfil
 
 * Desarrollador Web Java Full Stack.
-* Mi primer programa fue en C programando el Microcontrolador PIC16F84A.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
+* Mi primer programa fue en C programando el Microcontrolador PIC16F84A.
 * Contribuyo y Apoyo al Movimiento del Software Libre.
 
 </br>
@@ -133,13 +133,44 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-<!--SITIOS WEB-->
-<!--### <img width="40" height="35"  src="https://www.cobimoveis.com.br/assets/img/gif/p-load.gif" /> Sitios Web -->
-<!--### <img width="40" height="35"  src="https://menarosa.org/wp-content/uploads/2018/12/pending-loop.gif" /> Sitios Web -->
+
 
 ### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web 
+
+
+
 #### - [Diseño de un Sitio Web acerca de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io)
-<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+
+<div width="87" height="80">
+
+![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png)
+  
+<div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" />
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>-->
 
 #### - [Desarrollo y Diseño de un sitio web acerca de Test en el Área IT utilizando Bootstrap, JS Nativo y consumo de la API FullCalendar](https://github.com/andresWeitzel/SitioWebTest_IT)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
