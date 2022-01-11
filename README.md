@@ -142,9 +142,10 @@
 #### - [Diseño de un Sitio Web acerca de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io)
 
 
-<div width="87" height="80">
 
-![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png)
+<p align="center">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
+</p>
   
 <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" />
