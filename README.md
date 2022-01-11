@@ -409,8 +409,7 @@
 
  #### { Colaboración en un Proyecto sobre el Covid-19 Área Core/rest en PHP-CORE }
 <p align="left">
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png
-" width="350"  title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" width="350"  title="hover text">
 </p>
 
  *  Link Proyecto: https://github.com/andresWeitzel/medmask
@@ -420,7 +419,6 @@
     <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
-  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
