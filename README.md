@@ -130,7 +130,8 @@
 <!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 ---
 ## Proyectos y Desarrollos
- *Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE 
+
+*Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
