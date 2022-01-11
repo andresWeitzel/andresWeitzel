@@ -305,9 +305,9 @@
   
   </br>
 
- #### { Aplicación de Escritorio Java SE con Swing, Maven y Mysql para la Gestión de Gastos Personales  }
+ #### { Aplicación de Escritorio Java SE con Swing, Maven, Analytics y Mysql para la Gestión de Gastos Personales  }
 <p align="left">
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(330).png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(330).png" width="350" hight="350"  title="hover text">
 </p>
 
  *  Link Proyecto: https://github.com/andresWeitzel/Gestor_Gastos_Personales
