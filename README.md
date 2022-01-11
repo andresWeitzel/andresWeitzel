@@ -144,7 +144,7 @@
 
 
 | Descripción | Tecnologías | Imagen |
-| ------------- | ------------- |
+| ------------- | ------------- |------------- |
 | [Diseño de un Sitio Web acerca de Robótica usando Bootstrap](https://github.com/andresWeitzel/andresWeitzel.github.io) |
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" />
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
