@@ -130,7 +130,7 @@
 <!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 ---
 ## Proyectos y Desarrollos
-#### ( Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE )
+#### *Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
@@ -276,8 +276,28 @@
   </br>
   
   </br>
+
+ #### { Aplicación de Escritorio Java SE con Swing, Ant y Mysql para el Control de Farmacos en Primates  }
+<p align="left">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" width="350" title="hover text">
+</p>
+
+ *  Link Proyecto: https://github.com/andresWeitzel/Farmaco_NTZ184
+ *  Tecnologías Empleadas 
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </div>
   
-#### - [GUI para Seguimiento y Control de Primates en JAVA SE Swing con Ant aplicando JDBC con Mysql](https://github.com/andresWeitzel/Farmaco_NTZ184)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  
+  </br>
+  
+  </br>
+  
+  
 #### - [Gestor de Gastos para la Gestión de Gastos Personales en JAVA SE Swing con Maven aplicando JDBC con Mysql](https://github.com/andresWeitzel/Gestor_Gastos_Personales)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
