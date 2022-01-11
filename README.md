@@ -335,10 +335,30 @@
  
 
 
+
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 ### <img width="30"  src="https://solarstik.com/wp-content/uploads/2017/06/circuit_animation.gif" />  Sistemas Embebidos
-#### - [Desarrollo de un Sistema de Control de Nivel de Agua con Arduino](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+  </br>
+
+ #### { Sistema de Control de Nivel de Agua con Arduino Mega 2560 , Sensores y Módulos }
+<p align="left">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="350"  title="hover text">
+</p>
+
+ *  Link Proyecto: https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
+ *  Tecnologías Empleadas 
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </div>
+ 
+  </br>
+  
+ </br>
+
 
 #### - [Desarrollo de un Sistema de Control de Sensado de Temperatura/Humedad con el Micro ESP8266](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
