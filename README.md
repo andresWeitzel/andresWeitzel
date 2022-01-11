@@ -8,7 +8,9 @@
 
 </br>
 
+<div style="display: inline-block;">
 ![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
+</div>
 
 </br>
 
@@ -18,7 +20,7 @@
 
 </br>
 
-<div>
+<div style="display: inline-block;">
 <img width="70%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
 </div>
 
@@ -128,7 +130,7 @@
 
 <!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 ---
-## Proyectos Personales
+## Proyectos y Desarrollos
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
