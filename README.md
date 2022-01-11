@@ -182,9 +182,12 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
  </div>
   
-  </br>
   
-  </br>
+</br>
+  
+</br>
+
+</br>
 
 
 
@@ -245,9 +248,12 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-<br/>
+</br>
+  
+</br>
 
-<br/>
+</br>
+
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DESKTOP APP>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
@@ -296,17 +302,37 @@
   
   </br>
   
+  
   </br>
+
+ #### { Aplicación de Escritorio Java SE con Swing, Maven y Mysql para la Gestión de Gastos Personales  }
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(330).png" width="350" title="hover text">
+</p>
+
+ *  Link Proyecto: https://github.com/andresWeitzel/Gestor_Gastos_Personales
+ *  Tecnologías Empleadas 
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </div>
   
-  
-#### - [Gestor de Gastos para la Gestión de Gastos Personales en JAVA SE Swing con Maven aplicando JDBC con Mysql](https://github.com/andresWeitzel/Gestor_Gastos_Personales)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN DESKTOP APP>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-<br />
+
+
+ </br>
+ 
+ </br>
+  
+ </br>
+  
+ 
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
