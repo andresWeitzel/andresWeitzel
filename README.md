@@ -239,6 +239,7 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
   
@@ -280,6 +281,7 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
@@ -301,6 +303,7 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
   
@@ -322,6 +325,7 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
@@ -420,6 +424,7 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
  
@@ -442,7 +447,26 @@
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 ###  <img width="20" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/db.gif" /> Bases de Datos
-#### - [Modelado, Diseño y Gestión de una db de Indumentaria con el SGBD Mysql](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+ </br>
+
+ #### { Modelado, Diseño y Gestión de una Base de Datos de Indumentaria con el SGBD Mysql }
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" width="350"  title="hover text">
+</p>
+
+ *  Link Proyecto: https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
+ *  Tecnologías Empleadas 
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </div>
+ 
+
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
