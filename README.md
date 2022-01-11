@@ -380,9 +380,9 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
-  <img width="40" height="40" src="https://www.segurilatam.com/wp-content/uploads/sites/5/2020/05/internet-of-things.jpg" />
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
-  <img width="40" height="40" src="https://dmtyylqvwgyxw.cloudfront.net/instances/132/uploads/images/custom_image/image/371/normal_e7801888-75ee-472e-92d1-be20b8d25cae.png?v=1541506208" />
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/3175/3175966.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
  
