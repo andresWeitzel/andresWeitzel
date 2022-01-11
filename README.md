@@ -141,13 +141,13 @@
 
 
 
- *  Sitio Web de Robótica
+ ####  Sitio Web de Robótica
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
 </p>
 
  *  Link Proyecto: https://github.com/andresWeitzel/andresWeitzel.github.io)
- *  Tecnologías Empleadas :
+ *  Tecnologías Empleadas 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -156,24 +156,7 @@
  </div>
   
   
-  
-  
-<p align="left">
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
-</p>
-  
-<div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" />
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
-</div>
-</div>
-
+  </br>
 
 
 
