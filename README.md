@@ -8,9 +8,8 @@
 
 </br>
 
-<div style="display: inline-block;">
 ![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
-</div>
+
 
 </br>
 
