@@ -351,7 +351,7 @@
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
  
