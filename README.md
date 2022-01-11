@@ -141,14 +141,13 @@
 
 
 
-
+ *  Sitio Web de Robótica
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
 </p>
 
- *  Sitio Web de Robótica https://github.com/andresWeitzel/andresWeitzel.github.io)
- *  Tecnologías Empleadas
- 
+ *  Link Proyecto: https://github.com/andresWeitzel/andresWeitzel.github.io)
+ *  Tecnologías Empleadas :
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
