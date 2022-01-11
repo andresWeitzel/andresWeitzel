@@ -137,17 +137,18 @@
 
 ### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web 
 
+</br>
+
 
 
 <div>
   
+ * [ Sitio Web de Robótica ](https://github.com/andresWeitzel/andresWeitzel.github.io) 
+ 
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
 </p>
 
-  
- * [ Sitio Web de Robótica ](https://github.com/andresWeitzel/andresWeitzel.github.io) 
- 
   </br>
   
  *  Stack
