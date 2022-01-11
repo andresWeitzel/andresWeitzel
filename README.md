@@ -189,6 +189,10 @@
 
 </br>
 
+</br>
+  
+</br>
+
 
 
 
@@ -238,10 +242,6 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
   
-  
-  </br>
-  
-  </br>
 
 
 <!--FIN APLICACIONES WEB-->
@@ -253,6 +253,11 @@
 </br>
 
 </br>
+
+</br>
+  
+</br>
+
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DESKTOP APP>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
@@ -327,10 +332,14 @@
 
 
  </br>
- 
- </br>
   
- </br>
+</br>
+
+</br>
+
+</br>
+  
+</br>
   
  
 
@@ -352,8 +361,30 @@
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
+ 
+  </br>
+  
+ </br>
+
+ #### { Sistema de Sensado de Temperatura/Humedad con el Micro ESP8266 y el Sensor DHT11}
+<p align="left">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="350"  title="hover text">
+</p>
+
+ *  Link Proyecto: https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
+ *  Tecnologías Empleadas 
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </div>
+ 
  
   </br>
   
@@ -365,7 +396,15 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-<br />
+</br>
+  
+</br>
+
+</br>
+
+</br>
+  
+</br>
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN CORE REST>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
@@ -376,7 +415,15 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN CORE REST>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-<br />
+</br>
+  
+</br>
+
+</br>
+
+</br>
+  
+</br>
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
@@ -388,9 +435,6 @@
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 
-<br />
-<br />
-<br />
 
 
 <!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
