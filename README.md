@@ -131,7 +131,7 @@
 ---
 ## Proyectos y Desarrollos
 
-*Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE 
+#### *Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE*
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
@@ -278,7 +278,7 @@
   
   </br>
 
- #### { Aplicación de Escritorio Java SE con Swing, Ant y Mysql para el Control de Farmacos en Primates  }
+ #### { Aplicación de Escritorio Java SE con Swing, Ant y Mysql para el Control de Fármacos en Chimpancés  }
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" width="350" title="hover text">
 </p>
