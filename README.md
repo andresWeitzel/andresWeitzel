@@ -141,12 +141,12 @@
 
 
 
- ####  Sitio Web de Robótica
+ #### { Sitio Web de Robótica }
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/andresWeitzel.github.io)
+ *  Link Proyecto: https://github.com/andresWeitzel/andresWeitzel.github.io
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -157,24 +157,31 @@
   
   
   </br>
+  
+  </br>
+
+
+#### { Sitio web Tests IT }
+<p align="left">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="350" title="hover text">
+</p>
+
+*  Link Proyecto: https://github.com/andresWeitzel/SitioWebTest_IT
+*  Tecnologías Empleadas 
+ <div style="display: inline-block;">
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1451/PNG/128/jsfolder_99356.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ </div>
+  
+  </br>
+  
+  </br>
 
 
 
-
-
-
-
-
-
-
-
-
-<!--<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>-->
-
-#### - [Desarrollo y Diseño de un sitio web acerca de Test en el Área IT utilizando Bootstrap, JS Nativo y consumo de la API FullCalendar](https://github.com/andresWeitzel/SitioWebTest_IT)<code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<br />
 
 <!--APLICACIONES WEB-->
 ### <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/abstractAplications.gif" /> Aplicaciones Web 
