@@ -146,34 +146,49 @@
 </br>
 
 
+<div align="center">
+<p align="center">
+  
+ ### { Sitio Web acerca de Robótica }
 
- #### { Sitio Web de Robótica }
-<p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
-</p>
 
- *  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
- *  Tecnologías Empleadas 
+ ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
+ ####  Tecnologías Empleadas 
+  
+</p>  
+   
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+ </div>
  </div>
   
   
   </br>
   
   </br>
+  
+  </br>
 
 
-#### { Sitio web Tests IT }
-<p align="left">
+
+
+<div align="center">
+<p align="center">
+  
+### { Sitio web Tests IT }
+
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="350" title="hover text">
-</p>
-
-*  Link : https://github.com/andresWeitzel/SitioWebTest_IT
-*  Tecnologías Empleadas 
+ 
+ ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
+ ####  Tecnologías Empleadas 
+  
+</p>  
+ 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -182,7 +197,10 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
+ 
+  </div>
  </div>
+  
   
   
 </br>
@@ -235,6 +253,8 @@
   
 </br>
 
+</br>
+
 
 
 
@@ -242,7 +262,7 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación Web Java EE con Jsp, Servlets, Maven y Mysql para la Gestión de Productos IOT }
+ ### { Aplicación Web Java EE para la Gestión de Productos IOT }
   
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="350" title="hover text">
