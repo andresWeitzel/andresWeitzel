@@ -133,7 +133,7 @@
 ---
 ## Proyectos y Desarrollos
 
-### Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE*
+#### Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE*
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
@@ -204,6 +204,9 @@
 </br>
 
  #### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
+ 
+<div align="center">
+  
 <p align="left">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="350" title="hover text">
 </p>
@@ -220,6 +223,9 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
  </div>
+  
+ </div>
+
   
 </br>
   
