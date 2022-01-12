@@ -20,7 +20,7 @@
 </br>
 
 <div style="display: inline-block;">
-<img width="50%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
+<img width="50" height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
 </div>
 
 </br>
@@ -88,6 +88,8 @@
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -131,7 +133,7 @@
 ---
 ## Proyectos y Desarrollos
 
-#### *Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE*
+### Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE*
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
@@ -150,7 +152,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/andresWeitzel.github.io
+ *  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -170,7 +172,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="350" title="hover text">
 </p>
 
-*  Link Proyecto: https://github.com/andresWeitzel/SitioWebTest_IT
+*  Link : https://github.com/andresWeitzel/SitioWebTest_IT
 *  Tecnologías Empleadas 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -206,7 +208,7 @@
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="350" title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/WebAppAngularBootstrap
+ *  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -223,12 +225,13 @@
   
 </br>
 
- #### { Aplicación Web Java EE con Jsp, Servlets, Maven y Mysql para la Gestión de Productos IOT }
+ #### { Aplicación Web Java EE con Jsp, Servlets, Maven y Mysql 
+ #### para la Gestión de Productos IOT }
 <p align="left">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="350" title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/IotProductosJsp_app
+ *  Link : https://github.com/andresWeitzel/IotProductosJsp_app
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -269,12 +272,13 @@
 
 </br>
 
- #### { Aplicación de Escritorio Java SE con Swing, Maven, Analytics y Mysql para la Gestión de Empleados }
+ #### { Aplicación de Escritorio Java SE con Swing, Maven, Analytics 
+ #### y Mysql para la Gestión de Empleados }
 <p align="left">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png" width="350" title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/Gestor_de_Empleados
+ *  Link : https://github.com/andresWeitzel/Gestor_de_Empleados
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -291,12 +295,13 @@
   
   </br>
 
- #### { Aplicación de Escritorio Java SE con Swing, Ant y Mysql para el Control de Fármacos en Chimpancés  }
+ #### { Aplicación de Escritorio Java SE con Swing, Ant y Mysql 
+ #### para el Control de Fármacos en Chimpancés }
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" width="350" title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/Farmaco_NTZ184
+ *  Link : https://github.com/andresWeitzel/Farmaco_NTZ184
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -313,12 +318,13 @@
   
   </br>
 
- #### { Aplicación de Escritorio Java SE con Swing, Maven, Analytics y Mysql para la Gestión de Gastos Personales  }
+ #### { Aplicación de Escritorio Java SE con Swing, Maven, Analytics 
+ #### y Mysql para la Gestión de Gastos Personales  }
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png" width="350"  title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/Gestor_Gastos_Personales
+ *  Link : https://github.com/andresWeitzel/Gestor_Gastos_Personales
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
@@ -355,12 +361,13 @@
 
   </br>
 
- #### { Sistema de Control de Nivel de Agua con Arduino Mega 2560 , Sensores y Módulos }
+ #### { Sistema de Control de Nivel de Agua con Arduino
+ #### Mega 2560 , Sensores y Módulos }
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="350"  title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
+ *  Link : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
@@ -373,12 +380,13 @@
   
  </br>
 
- #### { Sistema de Sensado de Temperatura/Humedad con el Micro ESP8266 y el Sensor DHT11}
+ #### { Sistema de Sensado de Temperatura/Humedad con el 
+ #### Micro ESP8266 y el Sensor DHT11}
 <p align="left">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="350"  title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
+ *  Link : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
@@ -411,12 +419,13 @@
 
  </br>
 
- #### { Colaboración en un Proyecto sobre el Covid-19 Área Core/rest en PHP-CORE }
+ #### { Colaboración en un Proyecto sobre el Covid-19 Área 
+ #### Core/Rest en PHP-CORE }
 <p align="left">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" width="350"  title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/medmask
+ *  Link : https://github.com/andresWeitzel/medmask
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" />
@@ -451,12 +460,13 @@
 
  </br>
 
- #### { Modelado, Diseño y Gestión de una Base de Datos de Indumentaria con el SGBD Mysql }
+ #### { Modelado, Diseño y Gestión de una Base de Datos de
+ #### Indumentaria con el SGBD Mysql }
 <p align="left">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" width="350"  title="hover text">
 </p>
 
- *  Link Proyecto: https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
+ *  Link : https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
  *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   
