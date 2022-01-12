@@ -207,12 +207,12 @@
   
 <p align="center">
   
- #### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
+ ### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
  
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="350" title="hover text">
 
- #### *  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
- #### *  Tecnologías Empleadas 
+ ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
+ ####  Tecnologías Empleadas 
   
  </p>
   
