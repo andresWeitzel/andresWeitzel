@@ -131,8 +131,12 @@
 
 <!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 ---
+<div align="center">
+
 ## Proyectos y Desarrollos
 
+</div>
+  
 #### ( Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE ).
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
@@ -459,7 +463,7 @@
 <div align="center">
 <p align="center">
  
- ### { Sistema de Control de Nivel de Agua con Arduino Mega 2560 y Sensores}
+ ### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
   
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="400"  title="hover text">
 
@@ -489,7 +493,7 @@
 <div align="center">
 <p align="center">
 
- ### { Sistema de Sensado de Temp/Hum con el Micro ESP8266 y el Sensor DHT11}
+ ### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="400"  title="hover text">
 
@@ -540,7 +544,7 @@
 <div align="center">
 <p align="center">
 
- ### { Colaboración en un Proyecto sobre el Covid-19 Área Core/Rest en PHP }
+ ### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Rest en PHP  }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" width="400"  title="hover text">
 
@@ -594,7 +598,7 @@
 <p align="center">
 
 
- ### { Modelado, Diseño y Gestión de una DB de Indumentaria  }
+ ### {  Modelado, Diseño y Gestión de una DB de Indumentaria  }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" width="400"  title="hover text">
 
