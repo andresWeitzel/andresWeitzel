@@ -203,16 +203,19 @@
 
 </br>
 
- #### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
- 
 <div align="center">
   
-<p align="left">
+<p align="center">
+  
+ #### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
+ 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="350" title="hover text">
-</p>
 
  *  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
  *  Tecnologías Empleadas 
+  
+ </p>
+  
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
