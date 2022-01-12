@@ -144,8 +144,7 @@
 
 <div align="center">
 
-### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web 
-
+### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> 
 
 </div>  
   
@@ -224,8 +223,14 @@
 
 
 <!--APLICACIONES WEB-->
-### <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/abstractAplications.gif" /> Aplicaciones Web 
 
+<div align="center">
+
+### <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/abstractAplications.gif" /> Aplicaciones Web <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/abstractAplications.gif" />
+
+</div>  
+  
+  
 </br>
 
 <div align="center">
