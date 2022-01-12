@@ -204,7 +204,6 @@
 </br>
 
 <div align="center">
-  
 <p align="center">
   
  ### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
@@ -225,23 +224,35 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
+   
  </div>
-  
  </div>
+
+
 
   
 </br>
   
 </br>
 
- #### { Aplicación Web Java EE con Jsp, Servlets, Maven y Mysql 
- #### para la Gestión de Productos IOT }
-<p align="left">
+
+
+
+
+<div align="center">
+<p align="center">
+  
+ ### { Aplicación Web Java EE con Jsp, Servlets, Maven y Mysql para la Gestión de Productos IOT }
+  
+
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="350" title="hover text">
-</p>
-
- *  Link : https://github.com/andresWeitzel/IotProductosJsp_app
- *  Tecnologías Empleadas 
+ 
+ ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
+ ####  Tecnologías Empleadas
+  
+ </p>
+ 
+  
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
@@ -253,6 +264,8 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   
+ </div>
  </div>
   
 
