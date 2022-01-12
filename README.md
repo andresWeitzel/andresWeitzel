@@ -188,7 +188,7 @@
   
 ### { Sitio web Tests IT }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="350" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="400" title="hover text">
  
  ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
  ####  Tecnologías Empleadas 
@@ -238,7 +238,7 @@
   
  ### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
  
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="400" title="hover text">
 
  ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
  ####  Tecnologías Empleadas 
@@ -277,7 +277,7 @@
  ### { Aplicación Web Java EE para la Gestión de Productos IOT }
   
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="400" title="hover text">
  
  ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
  ####  Tecnologías Empleadas
@@ -320,20 +320,29 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DESKTOP APP>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
-<!--### <img width="35"  src="https://www.checkonn.com/criarsite.gif" /> Aplicaciones de Escritorio-->
-### <img width="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cubeAplications.gif" /> Aplicaciones de Escritorio
+<div align="center">
+
+### <img width="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cubeAplications.gif" /> Aplicaciones de Escritorio <img width="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cubeAplications.gif" />
+
+</div>  
+
 
 
 </br>
 
- #### { Aplicación de Escritorio Java SE con Swing, Maven, Analytics 
- #### y Mysql para la Gestión de Empleados }
-<p align="left">
+<div align="center">
+<p align="center">
+
+ ### { Aplicación de Escritorio Java SE para la Gestión de Empleados }
+
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png" width="350" title="hover text">
+ 
+ ####  Link : https://github.com/andresWeitzel/Gestor_de_Empleados
+ ####  Tecnologías Empleadas
+  
+  
 </p>
 
- *  Link : https://github.com/andresWeitzel/Gestor_de_Empleados
- *  Tecnologías Empleadas 
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
@@ -342,21 +351,32 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- </div>
+ 
+  </div>
+  </div>
   
   
-  </br>
   
-  </br>
+ </br>
+  
+ </br>
+ 
+ 
+ 
 
- #### { Aplicación de Escritorio Java SE con Swing, Ant y Mysql 
- #### para el Control de Fármacos en Chimpancés }
-<p align="left">
+<div align="center">
+<p align="center">
+  
+ ### { Aplicación de Escritorio Java SE para el Control de Fármacos en Chimpancés }
+
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" width="350" title="hover text">
+  
+ #### Link : https://github.com/andresWeitzel/Farmaco_NTZ184
+ #### Tecnologías Empleadas 
+  
 </p>
 
- *  Link : https://github.com/andresWeitzel/Farmaco_NTZ184
- *  Tecnologías Empleadas 
+
  <div style="display: inline-block;">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_ant_logo_icon_169591.png" />
@@ -365,12 +385,15 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
+ </div>
+  
   
   
   </br>
-  
-  
+
   </br>
+  
+  
 
  #### { Aplicación de Escritorio Java SE con Swing, Maven, Analytics 
  #### y Mysql para la Gestión de Gastos Personales  }
