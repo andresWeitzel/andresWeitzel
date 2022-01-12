@@ -141,8 +141,15 @@
 
 </br>
 
+
+<div align="center">
+
 ### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/design.gif" /> Sitios Web 
 
+
+</div>  
+  
+  
 </br>
 
 
@@ -151,7 +158,7 @@
   
  ### { Sitio Web acerca de Robótica }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="350" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="400" title="hover text">
 
  ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
  ####  Tecnologías Empleadas 
