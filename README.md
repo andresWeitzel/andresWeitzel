@@ -25,6 +25,9 @@
 <div style="display: inline-block;">
   
 ![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
+![Full-year calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
+  
+  
   
 </div>
 
