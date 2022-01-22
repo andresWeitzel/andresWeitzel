@@ -38,12 +38,17 @@
 
 
 
-
   
 </br>
 
 ---
 ## Lenguajes y Tecnologías
+
+<div style="display: inline-block;">
+  
+![Most-Used-languages](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.languages.details.svg)
+  
+</div>
 
 </br>
 
