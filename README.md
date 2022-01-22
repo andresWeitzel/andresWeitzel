@@ -24,7 +24,8 @@
 
 <div style="display: inline-block;">
   
-![Metrics](https://metrics.lecoq.io/andresWeitzel)
+![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
+  
 </div>
 
 </br>
