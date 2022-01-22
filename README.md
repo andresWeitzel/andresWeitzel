@@ -11,10 +11,22 @@
 <div style="display: inline-block;">
   
 ![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
-![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
-  
 
 </div>
+
+
+</br>
+
+
+<div style="display: inline-block;">
+  
+![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+  
+</div>
+
+
+
+
 
 
   
