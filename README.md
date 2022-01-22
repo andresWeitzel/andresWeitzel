@@ -15,15 +15,6 @@
 </div>
 
 
-</br>
-
-
-<div style="display: inline-block;">
-  
-![Activities-Charts](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.habits.charts.svg)
-
-</div>
-
 
 </br>
 
@@ -36,6 +27,14 @@
 
 
 
+</br>
+
+
+<div style="display: inline-block;">
+  
+![Activities-Charts](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.habits.charts.svg)
+
+</div>
 
 
   
