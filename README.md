@@ -8,7 +8,13 @@
 
 </br>
 
-![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
+<div style="display: inline-block;">
+  
+![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
+![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+  
+
+</div>
 
 
   
@@ -16,20 +22,6 @@
 
 ---
 ## Lenguajes y Tecnologías
-
-
-
-
-</br>
-
-<div style="display: inline-block;">
-  
-![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
-![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
-  
-  
-  
-</div>
 
 </br>
 
