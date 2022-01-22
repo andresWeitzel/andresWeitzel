@@ -21,7 +21,7 @@
 
 <div style="display: inline-block;">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&theme=dark)](https://github.com/andresWeitzel/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&theme=dark&show_icons=true)](https://github.com/andresWeitzel/)
   
 </div>
 
