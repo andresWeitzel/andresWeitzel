@@ -20,7 +20,9 @@
 </br>
 
 <div style="display: inline-block;">
-<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact&langs_count=16&theme=tokyonight&link=https://www.github.com/andresWeitzel/">   
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresWeitzel&layout=compact)](https://github.com/andresWeitzel/github-readme-stats)
+
 </div>
 
 </br>
