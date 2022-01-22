@@ -1,5 +1,11 @@
-
+<div style="display: inline-block;">
+  
 # Mi Perfil
+  
+<img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/a.gif" />
+
+</div>
+
 
 * Desarrollador Web Java Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
