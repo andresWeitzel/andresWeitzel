@@ -11,6 +11,10 @@
 <div style="display: inline-block;">
   
 ![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
+![Activities-Charts](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.plugin.habits.charts.svg)
+  
+  
+  
 
 </div>
 
