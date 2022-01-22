@@ -1,8 +1,7 @@
-<div style="display: inline-block;">
+
 
 <img width="100" height="40" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
 
-</div>
 
   
 # Mi Perfil
