@@ -13,6 +13,13 @@
 
 </br>
 
+<div style="display: inline-block;">
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andresWeitzel)](https://github.com/andresWeitzel)
+
+</div>
+  
+</br>
 
 ---
 ## Lenguajes y Tecnologías
