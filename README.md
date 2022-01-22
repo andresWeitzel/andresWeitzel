@@ -1,12 +1,12 @@
 <div style="display: inline-block;">
-  
-# Mi Perfil
-  
-<img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/a.gif" />
+
+<img width="100" height="40" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
 
 </div>
 
-
+  
+# Mi Perfil
+ 
 * Desarrollador Web Java Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
 * Mi primer programa fue en C programando el Microcontrolador PIC16F84A.
