@@ -19,11 +19,14 @@
 </br>
 
 
+
 <div style="display: inline-block;">
   
-![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
-  
+![Activities-Charts](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.habits.charts.svg)
+
 </div>
+
+
 
 
 
@@ -32,9 +35,11 @@
 
 <div style="display: inline-block;">
   
-![Activities-Charts](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.habits.charts.svg)
-
+![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+  
 </div>
+
+
 
 
   
