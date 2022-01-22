@@ -11,13 +11,6 @@
 ![andresWeitzel Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresWeitzel&theme=default&months=12&align="left")
 
 
-</br>
-
-<div style="display: inline-block;">
-
-[![andresWeitzel Summary](https://github-readme-stats.vercel.app/api/wakatime?username=andresWeitzel)](https://github.com/andresWeitzel)
-
-</div>
   
 </br>
 
