@@ -5,9 +5,8 @@
 
  </p>
 
-  
-# Mi Perfil
- 
+# Mi Perfil <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15b8.gif" /> 
+
 * Desarrollador Web Java Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
 * Mi primer programa fue en C programando el Microcontrolador PIC16F84A.
@@ -492,7 +491,7 @@
 
 <div align="center">
   
-### <img width="30"  src="https://solarstik.com/wp-content/uploads/2017/06/circuit_animation.gif" />  Sistemas Embebidos  <img width="30"  src="https://solarstik.com/wp-content/uploads/2017/06/circuit_animation.gif" /> 
+### <img width="30"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept.gif" />  Sistemas Embebidos  <img width="30"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept.gif" /> 
 
 </div>
 
