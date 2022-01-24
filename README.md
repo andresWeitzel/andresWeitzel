@@ -651,7 +651,7 @@
   
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/98/PNG/256/cmd_17240.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
   </div>
