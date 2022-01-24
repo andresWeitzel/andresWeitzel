@@ -5,7 +5,7 @@
 
  </p>
 
-# <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
+# <img width="45" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
 
 * Desarrollador Web Java Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
@@ -491,7 +491,7 @@
 
 <div align="center">
   
-### <img width="30"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" />  Sistemas Embebidos  <img width="30"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" /> 
+### <img width="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" />  Sistemas Embebidos  <img width="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" /> 
 
 </div>
 
