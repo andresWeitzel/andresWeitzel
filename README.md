@@ -628,24 +628,50 @@
 <div align = "center">
 
 ###  <img width="20" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/db.gif" /> Bases de Datos <img width="20" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/db.gif" />
-
  <div >
 
 
  </br>
+  
+  
+  <div align="center">
+<p align="center">
 
+ ### {  Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL  }
+
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" width="400"  title="hover text">
+
+  #### Link : https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL
+  #### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+  
+  
+   </br>
+  
+  
  
 <div align="center">
 <p align="center">
 
-
- ### {  Modelado, Diseño y Gestión de una DB de Indumentaria  }
+ ### {  Modelado, Diseño y Gestión de una DB de Indumentaria con Mysql }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" width="400"  title="hover text">
 
   #### Link : https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
   #### Tecnologías Empleadas 
-  
   
   </p>
 
