@@ -192,8 +192,9 @@
 ## Proyectos y Desarrollos
 
 </div>
-  
-#### ( Mis Proyectos, Códigos, Plantillas y Material pueden descargarse, distribuirse , usarse, ser copiado , estudiado o modificado SIN LICENCIA y SIN DERECHO DE AUTOR. Todos estos contenidos los declaro OPEN SOURCE ).
+ 
+ ####  `` > Mis Proyectos, Códigos, Plantillas y Material son OPEN SOURCE y bajo [Licencia GNU GPL (GENERAL PUBLIC LICENSE)](https://www.gnu.org/licenses/gpl-3.0.html).  ``
+
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
