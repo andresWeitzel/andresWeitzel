@@ -193,7 +193,7 @@
 
 </div>
  
- ####  `` > Mis Proyectos, Códigos, Plantillas y Material son OPEN SOURCE y bajo [Licencia GNU GPL (GENERAL PUBLIC LICENSE)](https://www.gnu.org/licenses/gpl-3.0.html).  ``
+ > Mis Proyectos, Códigos, Plantillas y Material son OPEN SOURCE y bajo [Licencia GNU GPL (GENERAL PUBLIC LICENSE)](https://www.gnu.org/licenses/gpl-3.0.html). 
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
