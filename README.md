@@ -22,18 +22,6 @@
 
 
 
-</br>
-
-
-
-<div style="display: inline-block;">
-  
-![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.licenses.ratio.svg)
-
-</div>
-
-
-
 
 
 </br>
@@ -58,6 +46,21 @@
 ![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
   
 </div>
+
+
+
+
+</br>
+
+
+
+<div style="display: inline-block;">
+  
+![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.licenses.ratio.svg)
+
+</div>
+
+
 
 
 
