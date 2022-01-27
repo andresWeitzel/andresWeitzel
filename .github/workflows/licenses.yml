@@ -9,9 +9,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      name : Licencias
-      uses: lowlighter/metrics@latest
+      
+    - uses: lowlighter/metrics@latest
       with:
+          name : Licencias
           filename: metrics.plugin.licenses.ratio.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
