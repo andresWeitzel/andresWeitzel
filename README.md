@@ -596,7 +596,7 @@
 
 <div align = "center">
 
-  ###  <img width="30" src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" /> Core / Api-Rest  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" /> 
+  ###  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" /> Core / Api-Rest  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" /> 
 
 </div>
 
@@ -608,7 +608,7 @@
 
  ### { Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos  }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/select/listadoProductos.jpg" width="400"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" width="400"  title="hover text">
 
    ####  Link : https://github.com/andresWeitzel/Api_Rest_Spring_Productos
    #### Tecnologías Empleadas 
