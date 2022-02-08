@@ -115,9 +115,9 @@
 * Database Stack
 
 <div style="display: inline-block;">
+    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" /> 
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />  
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
      <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/firebase.png" />
      <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
@@ -132,11 +132,14 @@
 * Data Science Stack
 
 <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/python.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/numpy.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/pandas.png" />
+    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/matplotlib.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/jupyter.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/pycharm.png" />
 </div>
+
 
 </br>
 
