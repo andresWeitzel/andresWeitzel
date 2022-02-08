@@ -148,16 +148,16 @@
 <div style="display: inline-block;">
    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/arduino.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/raspberry.png" />
+  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/raspberry.png" />
     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/esp8266.png" />
-  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/micropython.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/microchip.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/piccompiler.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/thonny.png" />
+  <img width="35" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
+  <img width="45" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
+  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/micropython.png" />
+  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/microchip.png" />
+   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/piccompiler.png" />
+    <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/thonny.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
+   <img width="35" height="40" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
 </div>
 
 </br>
