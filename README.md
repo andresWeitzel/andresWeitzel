@@ -696,7 +696,7 @@
   <div align="center">
 <p align="center">
 
- ### {  Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL  }
+ ### { Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" width="400"  title="hover text">
 
@@ -720,6 +720,34 @@
   
    </br>
   
+ 
+  
+  <div align="center">
+<p align="center">
+
+ ### { Base de Datos acerca de Productos de Microelectrónica con Oracle }
+
+  <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" width="400"  title="hover text">
+
+  #### Link : https://github.com/andresWeitzel/db_microelectronica_Oracle
+  #### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
+ <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+  
+  
+   </br>
   
  
 <div align="center">
