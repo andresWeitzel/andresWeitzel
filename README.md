@@ -499,91 +499,6 @@
 
 
 
- </br>
-  
-</br>
-
-</br>
-
-</br>
-  
-</br>
-  
- 
-
-
-
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
-
-<div align="center">
-  
-### <img width="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" />  Sistemas Embebidos  <img width="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" /> 
-
-</div>
-
- 
- 
- </br>
- 
- 
-<div align="center">
-<p align="center">
- 
- ### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
-  
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="400"  title="hover text">
-
- #### Link : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
- #### Tecnologías Empleadas 
-  
-  </p>
-
- <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
-  </div>
- 
- 
- 
-  </br>
-  
-  </br>
-  
-  </br>
-
- 
-<div align="center">
-<p align="center">
-
- ### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
-
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="400"  title="hover text">
-
-  
- ####  Link : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
- ####  Tecnologías Empleadas 
-  
- </p>
-
- <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
-  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
-  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/3175/3175966.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
-  </div>
- </div>
- 
-
-
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 </br>
   
@@ -596,11 +511,11 @@
 </br>
 
 
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN CORE REST>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN API-REST MICROSERVICES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <div align = "center">
 
-  ###  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" /> Core / Api-Rest  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" /> 
+  ###  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" />  Api-Rest / Microservices  <img width="30" src="https://cdn.lowgif.com/medium/3385cc91cca89be7-loading-gears-animated-gif-9-gif-images-download.gif" /> 
 
 </div>
 
@@ -644,7 +559,7 @@
 <div align="center">
 <p align="center">
 
- ### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Rest en PHP  }
+ ### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP  }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" width="400"  title="hover text">
 
@@ -669,7 +584,7 @@
 
 
 
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN CORE REST>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN API-REST MICROSERVICES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 </br>
   
@@ -777,6 +692,92 @@
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+</br>
+  
+</br>
+
+</br>
+
+</br>
+  
+</br>
+  
+
+
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+<div align="center">
+  
+### <img width="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" />  Sistemas Embebidos  <img width="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/Futuristic-Computer-Concept-unscreen.gif" /> 
+
+</div>
+
+ 
+ 
+ </br>
+ 
+ 
+<div align="center">
+<p align="center">
+ 
+ ### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
+  
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="400"  title="hover text">
+
+ #### Link : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
+ #### Tecnologías Empleadas 
+  
+  </p>
+
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+ 
+ 
+ 
+  </br>
+  
+  </br>
+  
+  </br>
+
+ 
+<div align="center">
+<p align="center">
+
+ ### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
+
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="400"  title="hover text">
+
+  
+ ####  Link : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
+ ####  Tecnologías Empleadas 
+  
+ </p>
+
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/nodemcu_pyflasher_macos_bigsur_icon_189912.png" />
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/3175/3175966.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+ </div>
+ 
+
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
 
 
 
