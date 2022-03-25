@@ -231,7 +231,7 @@
   
  ### { Sitio Web acerca de Robótica }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="400" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="400" height="400" title="hover text">
 
  ####  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
  ####  Tecnologías Empleadas 
@@ -646,7 +646,7 @@
 
  ### { Base de Datos acerca de un Supermercado con PostgreSQL }
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/db_supermercado_tienda_online/master/doc/listado_productos.png?token=GHSAT0AAAAAABHK3QMXB4PG5NYPIJA5RAKGYR5EP7Q" width="400"  title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/db_supermercado_tienda_online/master/doc/db_supermercado_ER.png?token=GHSAT0AAAAAABHK3QMXMV2QJYBXAFPQZAJKYR5ETDA" width="400"  title="hover text">
 
   #### Link : https://github.com/andresWeitzel/db_supermercado_tienda_online
   #### Tecnologías Empleadas 
