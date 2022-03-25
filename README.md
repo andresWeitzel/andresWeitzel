@@ -10,7 +10,7 @@
 * Desarrollador Web Java Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
 * Mi primer programa fue en C programando el tipo de Microcontrolador PIC16F84A.
-* Me gustaría poder contribuir, en un futuro cercano, en el área de la Inteligencia Artifical y microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos
+* Me gustaría poder contribuir, en un futuro cercano, en el área de la Inteligencia Artifical y Microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos
  * Contribuyo y Apoyo al Movimiento del Software Libre.
 
 </br>
@@ -647,7 +647,7 @@
 
  ### { Base de Datos acerca de un Supermercado con PostgreSQL }
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/db_supermercado_tienda_online/master/doc/db_supermercado_ER.png?token=GHSAT0AAAAAABHK3QMXSEY57LBIPIVPGQGWYR5E53Q" width="400" height="300"  title="hover text">
+  <img src="https://github.com/andresWeitzel/db_supermercado_tienda_online/blob/master/doc/db_supermercado_ER.png" width="400" height="300"  title="hover text">
 
   #### Link : https://github.com/andresWeitzel/db_supermercado_tienda_online
   #### Tecnologías Empleadas 
