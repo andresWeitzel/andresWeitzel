@@ -9,8 +9,9 @@
 
 * Desarrollador Web Java Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
-* Mi primer programa fue en C programando el Microcontrolador PIC16F84A.
+* Mi primer programa fue en C programando el tipo de Microcontrolador PIC16F84A.
 * Contribuyo y Apoyo al Movimiento del Software Libre.
+* Me gustaría poder contribuir en un futuro cercano al área de la IA junto con la microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos
 
 </br>
 
