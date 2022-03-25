@@ -21,6 +21,15 @@
 </div>
 
 
+</br>
+
+
+<div style="display: inline-block;">
+  
+![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.svg)
+  
+</div>
+
 
 
 
@@ -37,15 +46,6 @@
 
 
 
-
-</br>
-
-
-<div style="display: inline-block;">
-  
-![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.svg)
-  
-</div>
 
 
 
@@ -621,6 +621,34 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" width="400"  title="hover text">
 
   #### Link : https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL
+  #### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+  
+
+   </br>
+  
+  
+  <div align="center">
+<p align="center">
+
+ ### { Base de Datos acerca de un Supermercado con PostgreSQL }
+
+  <img src="https://raw.githubusercontent.com/andresWeitzel/db_supermercado_tienda_online/master/doc/db_supermercado_ER.png?token=GHSAT0AAAAAABHK3QMXBNI5MPIEBNCA2OQYYR5EMTA" width="400"  title="hover text">
+
+  #### Link : https://github.com/andresWeitzel/db_supermercado_tienda_online
   #### Tecnologías Empleadas 
   
   </p>
