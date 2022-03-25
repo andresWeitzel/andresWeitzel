@@ -84,14 +84,14 @@
 <div style="display: inline-block;">
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
-  <img width="40" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
+  <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
   <img width="35" height="36" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
   <img width="45" height="37" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/js.png" />
   <img width="37" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/jquery.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
-  <img width="37" height="37" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/thymeleaf.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/sublime-text.jpg" />
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/thymeleaf.png" />
+  <img width="34" height="34" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/sublime-text.jpg" />
  
 </div>
 
