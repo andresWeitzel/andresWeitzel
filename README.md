@@ -646,7 +646,7 @@
 
  ### { Base de Datos acerca de un Supermercado con PostgreSQL }
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/db_supermercado_tienda_online/master/doc/db_supermercado_ER.png?token=GHSAT0AAAAAABHK3QMXMV2QJYBXAFPQZAJKYR5ETDA" width="400" height="300"  title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/db_supermercado_tienda_online/master/doc/db_supermercado_ER.png?token=GHSAT0AAAAAABHK3QMXSEY57LBIPIVPGQGWYR5E53Q" width="400" height="300"  title="hover text">
 
   #### Link : https://github.com/andresWeitzel/db_supermercado_tienda_online
   #### Tecnologías Empleadas 
