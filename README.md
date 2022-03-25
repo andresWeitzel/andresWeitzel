@@ -43,7 +43,7 @@
 
 <div style="display: inline-block;">
   
-![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.svg)
   
 </div>
 
