@@ -108,6 +108,8 @@
   <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/postman.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/swagger.png" />
    <img width="44" height="44" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/eclipse.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/netbeans.png" />
@@ -647,9 +649,9 @@
 
  ### { Base de Datos acerca de un Supermercado con PostgreSQL }
 
-  <img src="https://github.com/andresWeitzel/db_supermercado_tienda_online/blob/master/doc/db_supermercado_ER.png" width="400" height="300"  title="hover text">
+  <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png" width="400" height="300"  title="hover text">
 
-  #### Link : https://github.com/andresWeitzel/db_supermercado_tienda_online
+  #### Link : https://github.com/andresWeitzel/db_supermercado
   #### Tecnologías Empleadas 
   
   </p>
