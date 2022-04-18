@@ -221,7 +221,7 @@
 
 <div align="center">
 
-### <img width="45" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web 
+### <img width="45" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web <img width="45" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" />
 
 </div>  
   
@@ -303,7 +303,7 @@
 
 <div align="center">
 
-### <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/abstractAplications.gif" /> Aplicaciones Web <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/abstractAplications.gif" />
+### <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="35"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
 
 </div>  
   
