@@ -561,12 +561,6 @@
 
 
 
-<div align = "center">
-
-  ###  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />  Api-Rest / Microservices  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />
-
-</div>
-
 </br>
 
  
