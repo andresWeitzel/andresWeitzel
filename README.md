@@ -523,7 +523,7 @@
 
 <div align = "center">
 
-  ###  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere09-unscreen.gif" />  Api-Rest / Microservices  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere09-unscreen.gif" />
+  ###  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />  Api-Rest / Microservices  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />
 
 </div>
 
@@ -609,7 +609,7 @@
 
 <div align = "center">
 
-###  <img width="20" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/db.gif" /> Bases de Datos <img width="20" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/db.gif" />
+###  <img width="45" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos <img width="45" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> 
  <div >
 
 
