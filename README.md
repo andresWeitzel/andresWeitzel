@@ -221,7 +221,7 @@
 
 <div align="center">
 
-### <img width="45" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web <img width="45" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" />
+### <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" />
 
 </div>  
   
@@ -520,6 +520,46 @@
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN API-REST MICROSERVICES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+<div align = "center">
+
+  ###  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />  Api-Rest / Microservices  <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />
+
+</div>
+
+</br>
+
+ 
+<div align="center">
+<p align="center">
+
+ ### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica  }
+
+  <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/doc-componente_controller.png" width="400" height="300"  title="hover text">
+
+   ####  Link : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle
+   #### Tecnologías Empleadas 
+  
+ </p>
+
+
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/tomcat_original_wordmark_logo_icon_146324.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" />  
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div>
+  </div>
+
+
+
 
 <div align = "center">
 
