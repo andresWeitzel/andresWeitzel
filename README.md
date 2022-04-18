@@ -221,7 +221,7 @@
 
 <div align="center">
 
-### <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web <img width="40" height="35"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> 
+### <img width="45" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web 
 
 </div>  
   
