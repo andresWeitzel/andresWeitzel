@@ -303,7 +303,7 @@
 
 <div align="center">
 
-### <img width="40" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="40" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
+### <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
 
 </div>  
   
@@ -399,7 +399,7 @@
 
 <div align="center">
 
-### <img width="40" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Aplicaciones de Escritorio  <img width="40" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />
+### <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Aplicaciones de Escritorio  <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />
 
 </div>  
 
@@ -523,7 +523,7 @@
 
 <div align = "center">
 
-  ###  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />  Api-Rest / Microservices  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />
+  ###  <img width="47" height="47" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />  Api-Rest / Microservices  <img width="47" height="47" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />
 
 </div>
 
