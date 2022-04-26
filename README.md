@@ -877,6 +877,14 @@
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
+</br>
+
+ > He desarrollado otros 18 proyectos de los cuáles el 60% los tengo deprecados y el otro 40% sin revisión, por ende, al no ser funcionalmente aceptables no los incluyo. Algunos de ellos son : 
+ > * Interfaz Gráfica de Comunicación entre con un esp8266 a través de http y wifi, aplicando java, html5, css3, js vanilla, mysql y c++
+ > * Versionador de Software usando Spring Boot, Java NIO, Hibernate y Oracle
+ > * Actualización del proyecto GUI de Empleados migrando a Hibernate-JPA.
+ > * Entre otros. (También está en etapa de diseño el desarrollo de un Sistema Operativo con características similares híbridas de Windows y Linux)
+
 
 
 
