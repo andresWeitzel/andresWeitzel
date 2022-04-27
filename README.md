@@ -232,7 +232,7 @@
 <div align="center">
 <p align="center">
   
- ### { Sitio Web acerca de Robótica }
+ #### { Sitio Web acerca de Robótica }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="450" height="350" title="hover text">
 
@@ -263,7 +263,7 @@
 <div align="center">
 <p align="center">
   
-### { Sitio Web Tests Área IT }
+#### { Sitio Web Tests Área IT }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="450" height="350" title="hover text">
  
@@ -533,7 +533,7 @@
 <div align="center">
 <p align="center">
 
- #### {Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías  }
+ #### { Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías }
 
   <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" width="450" height="350"  title="hover text">
 
@@ -544,15 +544,40 @@
 
 
  <div style="display: inline-block;">
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
+  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
    
+  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
+  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+   
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+  </div>
+  </div>
 
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </div>
-  </div>
+
+  
+</div>
+
+</br>
+
+* Database Stack
+
+<div style="display: inline-block;">
+    <img width="41" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" /> 
+   <img width="43" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
+     <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/firebase.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
+     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
+
 
 </br>
 
@@ -560,7 +585,7 @@
 <div align="center">
 <p align="center">
 
- #### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica  }
+ #### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica }
 
   <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/doc-componente_controller.png" width="450" height="350"  title="hover text">
 
