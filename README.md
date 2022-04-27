@@ -313,7 +313,7 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
+ #### { Aplicación Web sobre Violencia de Género, Discriminación, etc }
  
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="450" height="350" title="hover text">
 
@@ -351,7 +351,7 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación Web Java 8 EE para la Gestión de Productos IOT }
+ #### { Aplicación Web Java 8 EE para la Gestión de Productos IOT }
   
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="450" height="350" title="hover text">
@@ -410,7 +410,7 @@
 <div align="center">
 <p align="center">
 
- ### { Aplicación de Escritorio Java 8 SE para la Gestión de Empleados }
+ #### { Aplicación de Escritorio Java 8 SE para la Gestión de Empleados }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png" width="450" height="350" title="hover text">
  
@@ -446,7 +446,7 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación de Escritorio Java 8 SE para el Control de Fármacos en Chimpancés }
+ #### { Aplicación de Escritorio Java 8 SE para el Control de Fármacos en Chimpancés }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" width="450" height="350" title="hover text">
   
@@ -481,7 +481,7 @@
 <div align="center">
 <p align="center">
   
-### { Aplicación de Escritorio Java 8 SE para la Gestión de Gastos Personales  }
+#### { Aplicación de Escritorio Java 8 SE para la Gestión de Gastos Personales  }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png" width="450" height="350" title="hover text">
 
@@ -533,7 +533,7 @@
 <div align="center">
 <p align="center">
 
- ### {Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías  }
+ #### {Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías  }
 
   <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" width="450" height="350"  title="hover text">
 
@@ -560,7 +560,7 @@
 <div align="center">
 <p align="center">
 
- ### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica  }
+ #### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica  }
 
   <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/doc-componente_controller.png" width="450" height="350"  title="hover text">
 
@@ -595,7 +595,7 @@
 <div align="center">
 <p align="center">
 
- ### { Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos  }
+ #### { Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos  }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" width="450" height="350"  title="hover text">
 
@@ -629,7 +629,7 @@
 <div align="center">
 <p align="center">
 
- ### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP  }
+ #### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP  }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" width="450" height="350"  title="hover text">
 
@@ -681,7 +681,7 @@
   <div align="center">
 <p align="center">
 
- ### { Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL }
+ #### { Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" width="450" height="350"  title="hover text">
 
@@ -710,7 +710,7 @@
    <div align="center">
 <p align="center">
 
- ### { MicroDB acerca de Productos Electrónicos con MongoDB }
+ #### { MicroDB acerca de Productos Electrónicos con MongoDB }
 
   <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.csv.png" width="450" height="350"  title="hover text">
 
@@ -738,7 +738,7 @@
   <div align="center">
 <p align="center">
 
- ### { Base de Datos acerca de un Supermercado con PostgreSQL }
+ #### { Base de Datos acerca de un Supermercado con PostgreSQL }
 
   <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png" width="450" height="350"  title="hover text">
 
@@ -767,7 +767,7 @@
   <div align="center">
 <p align="center">
 
- ### { Base de Datos acerca de Productos de Microelectrónica con Oracle }
+ #### { Base de Datos acerca de Productos de Microelectrónica con Oracle }
 
   <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" width="450" height="350"  title="hover text">
 
@@ -795,7 +795,7 @@
 <div align="center">
 <p align="center">
 
- ### {  Modelado, Diseño y Gestión de una DB de Indumentaria con Mysql }
+ #### {  Modelado, Diseño y Gestión de una DB de Indumentaria con Mysql }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" width="450" height="350"  title="hover text">
 
@@ -849,7 +849,7 @@
 <div align="center">
 <p align="center">
  
- ### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
+ #### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
   
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="450" height="350"  title="hover text">
 
@@ -879,7 +879,7 @@
 <div align="center">
 <p align="center">
 
- ### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
+ #### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="450" height="350"  title="hover text">
 
