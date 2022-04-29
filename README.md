@@ -232,9 +232,9 @@
 <div align="center">
 <p align="center">
   
- #### { Sitio Web acerca de Robótica }
+ #### { Sitio Web acerca de Robótica desarrollado con HTML5, CSS3 y Boostrap V4.6}
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="530" height="350" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="550" height="350" title="hover text">
 
  ####  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
  ####  Tecnologías Empleadas 
