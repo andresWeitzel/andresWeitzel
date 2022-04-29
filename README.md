@@ -306,6 +306,45 @@
 ### <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
 
 </div>  
+
+
+
+</br>
+
+<div align="center">
+<p align="center">
+  
+ #### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Spring Data JPA, Maven, Lombok, Log4J, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Swagger UI, Oracle y Otras Tecnologías }
+ 
+  <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/documentation/inicio/inicioComponentes.png" width="490" height="350" title="hover text">
+
+ ####  Link : https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot
+ ####  Tecnologías Empleadas 
+  
+ </p>
+  
+ <div style="display: inline-block;">
+   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
+  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
+  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+   
+ </div>
+ </div>
+
+
+
   
   
 </br>
@@ -550,10 +589,8 @@
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-   
   <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
   <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-   
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
