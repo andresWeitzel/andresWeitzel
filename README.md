@@ -246,7 +246,6 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
  </div>
  </div>
   
@@ -344,10 +343,11 @@
  </div>
 
 
-
+ </br>
   
+  </br>
   
-</br>
+  </br>
 
 
 <div align="center">
@@ -380,7 +380,11 @@
  </div>
  
  
-</br>
+ </br>
+  
+  </br>
+  
+  </br>
 
 <div align="center">
 <p align="center">
@@ -593,7 +597,11 @@
   </div>
 
 
-</br>
+ </br>
+  
+  </br>
+  
+  </br>
 
  
 <div align="center">
@@ -628,7 +636,11 @@
 
 
 
-</br>
+ </br>
+  
+  </br>
+  
+  </br>
 
  
 <div align="center">
@@ -663,7 +675,11 @@
 
 
 
-</br>
+ </br>
+  
+  </br>
+  
+  </br>
 
 
  
@@ -698,7 +714,11 @@
 
 
 
-</br>
+ </br>
+  
+  </br>
+  
+  </br>
 
  
 <div align="center">
@@ -778,7 +798,11 @@
 
   
 
-   </br>
+ </br>
+  
+  </br>
+  
+  </br>
    
    
    
@@ -809,6 +833,10 @@
 
    </br>
   
+  </br>
+  
+  </br>
+  
   
   <div align="center">
 <p align="center">
@@ -837,6 +865,10 @@
   
    </br>
   
+  </br>
+  
+  </br>
+  
  
   
   <div align="center">
@@ -864,7 +896,11 @@
 
   
   
-   </br>
+  </br>
+  
+  </br>
+  
+  </br>
   
  
 <div align="center">
