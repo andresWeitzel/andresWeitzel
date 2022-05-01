@@ -1020,10 +1020,23 @@
 </br>
 </br>
 
- > He desarrollado otros 18 proyectos de los cuáles el 60% los tengo deprecados y el otro 40% sin revisión, por ende, al no ser funcionalmente aceptables no los incluyo. Algunos de ellos son : Una Interfaz Gráfica de Comunicación entre con un esp8266 a través de http y wifi, aplicando java, html5, css3, js vanilla, mysql y c++ . Versionador de Software usando Spring Boot, Java NIO, Hibernate y Oracle.  Actualización del proyecto GUI de Empleados migrando a Hibernate-JPA. Entre otros. (También está en etapa de diseño el desarrollo de un Sistema Operativo con características similares híbridas de Windows y Linux)
-
-
-
-
+ > He desarrollado en mayor o menor medida otros 27 proyectos de los cuáles 20 están incompletos/sin revisión y los otros 7 son proyectos a "gran escala personal" que están activos y en proceso de desarrollo, por ende, ambos al no ser funcionalmente aceptables no los incluyo. Algunos de ellos son:
+ > *  Una Interfaz Gráfica de Comunicación entre un microcontrolador a través de http y wifi y una db, aplicando java, html5, css3, js vanilla, mysql, scripting y c++ .
+ > *  Aplicación para recolección de mediciones de un sensor en tiempo real con un esp8266 y un módulo sensor infrarrojo
+ > *  Desarrollo y Programación de un circuito electrónico para mediciones eléctricas de mi casa para digitalización y procesamiento usando un Arduino, varios módulos, C++, python, PHP y mysql como db.
+ > * Sistema de Riego Automático para mi Plantas y Relevamiento de datos (Hardware y Software)
+ > * Sistema de Control de Temperatura para mi Habitación (Automatización de Ventilador y Estufa) con almacenamiento de datos
+ > * Versionador de Software usando Spring Boot, Java NIO, Hibernate y Oracle
+ > * Interfaz Gráfica tipo Dashboard implementando Python, Angular, Js Vanilla
+ > * Migración de un Proyecto de Gestión desarrollado con Java 8 SE migrando a Hibernate-JPA.
+ > * Aplicación de Escritorio para la gestión de tareas personales
+ > * Otros
+ 
+ > Los otros 5 proyectos a "gran escala personal" son : 
+ > * Etapa de diseño de un Sistema Operativo Híbrido (no fork) con características similares de Windows y Linux. (Diseño y planificación de DD(device drivers) para compatibilidad de proveedores, Análisis de Hibridación de partes del Core de Windows Core, Diseño de una Shell con generación de utilidades automáticas en tiempo de uso).
+ > * Planificación de algoritmos (estilos bots) que ayuden a la codificación en paralelo ( idea planificada : Generación Automática de procedimientos almacenados y funciones en base de datos, tarea repetitiva y escalabilidad alta de código. Gran margen de error, revisión de código semi automatizada  )
+ > * Aplicación Generadora de Contextualización Física (objetos, secuencias, ubicaciones) en base a una idea como parámetro de entrada para varios algoritmos de IA y Redes Neuronales (etapa de planificación general). La idea surgió en base a poder utilizar toda la potencia de renderizado actual de una cpu/gpu medianamente convencional
+ > * Sistema de monitorización de presión y oxigenación sanguínea(estilo oxímetro) para prevenir insuficiencias cardiacas aplicando algoritmos de IA tanto para la manipulación de muestreos en vista dashboard en tiempo de recopilación  y manipulación de datos desde diferentes bases de datos (estilo microservicios) que almacenen las actividades, localizaciones y otras ideas en relación a la muestra obtenida, generación de reportes programados y gestión de revisión automática por algoritmos de detección según patrones médicos ingresados.
+> * Otros privados
 
 <!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
