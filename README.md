@@ -234,7 +234,7 @@
   
  #### { Sitio Web acerca de Robótica desarrollado con HTML5, CSS3 y Boostrap V4.6}
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="700" height="400" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="700" height="500" title="hover text">
 
  ####  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
  ####  Tecnologías Empleadas 
