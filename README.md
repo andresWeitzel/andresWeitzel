@@ -234,7 +234,7 @@
   
  #### { Sitio Web acerca de Robótica desarrollado con HTML5, CSS3 y Boostrap V4.6}
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="700" height="800" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="700" height="750" title="hover text">
 
  ####  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
  ####  Tecnologías Empleadas 
@@ -264,7 +264,7 @@
   
 #### { Sitio Web para Tests en el Área IT  desarrollado con JS Vanilla, Boostrap v4.6 y Otras Tecnologías}
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="550" height="400" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="700" height="750" title="hover text">
  
  ####  Link : https://github.com/andresWeitzel/SitioWebTest_IT
  ####  Tecnologías Empleadas 
