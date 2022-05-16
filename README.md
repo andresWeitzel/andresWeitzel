@@ -609,7 +609,7 @@
 
  #### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica }
 
-  <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/doc-componente_controller.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/listado_componentes.png" width="700" height="650"  title="hover text">
 
    ####  Link : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle
    #### Tecnologías Empleadas 
