@@ -221,7 +221,7 @@
 
 <div align="center">
 
-### <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" />
+## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" />
 
 </div>  
   
@@ -232,12 +232,12 @@
 <div align="center">
 <p align="center">
   
- #### { Sitio Web acerca de Robótica desarrollado con HTML5, CSS3 y Boostrap V4.6}
+ ### { Sitio Web acerca de Robótica desarrollado con HTML5, CSS3 y Boostrap V4.6}
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png" width="800" height="650" title="hover text">
 
- ####  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
- ####  Tecnologías Empleadas 
+ ###  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
+ ###  Tecnologías Empleadas 
   
 </p>  
    
@@ -262,12 +262,12 @@
 <div align="center">
 <p align="center">
   
-#### { Sitio Web para Tests en el Área IT  desarrollado con JS Vanilla, Boostrap v4.6 y Otras Tecnologías}
+### { Sitio Web para Tests en el Área IT  desarrollado con JS Vanilla, Boostrap v4.6 y Otras Tecnologías}
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="800" height="650" title="hover text">
  
- ####  Link : https://github.com/andresWeitzel/SitioWebTest_IT
- ####  Tecnologías Empleadas 
+ ###  Link : https://github.com/andresWeitzel/SitioWebTest_IT
+ ###  Tecnologías Empleadas 
   
 </p>  
  
@@ -302,7 +302,7 @@
 
 <div align="center">
 
-### <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
+## <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
 
 </div>  
 
@@ -313,12 +313,12 @@
 <div align="center">
 <p align="center">
   
- #### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías }
+ ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías }
  
-  <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/documentation/inicio/inicioComponentes.png" width="700" height="650" title="hover text">
+  <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/documentation/inicio/inicioComponentes.png" width="800" height="650" title="hover text">
 
- ####  Link : https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot
- ####  Tecnologías Empleadas 
+ ###  Link : https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot
+ ###  Tecnologías Empleadas 
   
  </p>
   
@@ -353,13 +353,13 @@
 <div align="center">
 <p align="center">
   
- #### { Aplicación Web para la Gestión de Productos IOT desarrollado con Java 8 EE, Maven, JSP, Servlets, BootstrapV4.6 y Otras Tecnologías }
+ ### { Aplicación Web para la Gestión de Productos IOT desarrollado con Java 8 EE, Maven, JSP, Servlets, BootstrapV4.6 y Otras Tecnologías }
   
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="700" height="650" title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" width="800" height="650" title="hover text">
  
- ####  Link : https://github.com/andresWeitzel/IotProductosJsp_app
- ####  Tecnologías Empleadas
+ ###  Link : https://github.com/andresWeitzel/IotProductosJsp_app
+ ###  Tecnologías Empleadas
   
  </p>
  
@@ -389,12 +389,12 @@
 <div align="center">
 <p align="center">
   
- #### { Aplicación Web sobre Violencia de Género, Discriminación, etc desarrollado con Angular12, Boostrapv4.6, HTML5, CSS3 y Otras Tecnologías }
+ ### { Aplicación Web sobre Violencia de Género, Discriminación, etc desarrollado con Angular12, Boostrapv4.6, HTML5, CSS3 y Otras Tecnologías }
  
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="700" height="650" title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" width="800" height="650" title="hover text">
 
- ####  Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
- ####  Tecnologías Empleadas 
+ ### Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
+ ###  Tecnologías Empleadas 
   
  </p>
   
@@ -437,7 +437,7 @@
 
 <div align="center">
 
-### <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Aplicaciones de Escritorio  <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />
+## <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Aplicaciones de Escritorio  <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />
 
 </div>  
 
@@ -448,12 +448,12 @@
 <div align="center">
 <p align="center">
 
- #### { Aplicación de Escritorio Java 8 SE para la Gestión de Empleados }
+ ### { Aplicación de Escritorio Java 8 SE para la Gestión de Empleados }
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png" width="700" height="650" title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png" width="800" height="650" title="hover text">
  
- ####  Link : https://github.com/andresWeitzel/Gestor_de_Empleados
- ####  Tecnologías Empleadas
+ ###  Link : https://github.com/andresWeitzel/Gestor_de_Empleados
+ ###  Tecnologías Empleadas
   
   
 </p>
@@ -484,12 +484,12 @@
 <div align="center">
 <p align="center">
   
- #### { Aplicación de Escritorio Java 8 SE para el Control de Fármacos en Chimpancés }
+ ### { Aplicación de Escritorio Java 8 SE para el Control de Fármacos en Chimpancés }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" width="700" height="650" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" width="800" height="650" title="hover text">
   
- #### Link : https://github.com/andresWeitzel/Farmaco_NTZ184
- #### Tecnologías Empleadas 
+ ### Link : https://github.com/andresWeitzel/Farmaco_NTZ184
+ ### Tecnologías Empleadas 
   
 </p>
 
@@ -519,12 +519,12 @@
 <div align="center">
 <p align="center">
   
-#### { Aplicación de Escritorio Java 8 SE para la Gestión de Gastos Personales  }
+### { Aplicación de Escritorio Java 8 SE para la Gestión de Gastos Personales  }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png" width="700" height="650" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png" width="800" height="650" title="hover text">
 
- #### Link : https://github.com/andresWeitzel/Gestor_Gastos_Personales
- ####  Tecnologías Empleadas 
+ ### Link : https://github.com/andresWeitzel/Gestor_Gastos_Personales
+ ###  Tecnologías Empleadas 
 
 </p>
   
@@ -561,7 +561,7 @@
 
 <div align = "center">
 
-  ###  <img width="47" height="47" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />  Api-Rest / Microservices  <img width="47" height="47" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />
+  ##  <img width="47" height="47" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />  Api-Rest / Microservices  <img width="47" height="47" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere03-unscreen.gif" />
 
 </div>
 
@@ -571,12 +571,12 @@
 <div align="center">
 <p align="center">
 
- #### { Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías }
+ ### { Microservicios con Spring Boot, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Spring Data JPA, Resilience4J, Lombok, Maven, Postman, Postgres, Mysql y otras Tecnologías }
 
-  <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" width="800" height="650"  title="hover text">
 
-   ####  Link : https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot
-   #### Tecnologías Empleadas 
+   ###  Link : https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot
+   ### Tecnologías Empleadas 
   
  </p>
 
@@ -607,12 +607,12 @@
 <div align="center">
 <p align="center">
 
- #### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica }
+ ### { Desarrollo de una Api Rest con Spring Boot, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j y Oracle sobre Componentes para Microelectrónica }
 
-  <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/listado_componentes.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/listado_componentes.png" width="800" height="650"  title="hover text">
 
-   ####  Link : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle
-   #### Tecnologías Empleadas 
+   ###  Link : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle
+   ### Tecnologías Empleadas 
   
  </p>
 
@@ -646,12 +646,12 @@
 <div align="center">
 <p align="center">
 
- #### { Api Rest acerca de Productos Electrónicos con Spring Boot, Spring Data MongoDB, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB }
+ ### { Api Rest acerca de Productos Electrónicos con Spring Boot, Spring Data MongoDB, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB }
 
-  <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/documentation/productosController.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/documentation/productosController.png" width="800" height="650"  title="hover text">
 
-   ####  Link : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB
-   #### Tecnologías Empleadas 
+   ###  Link : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB
+   ### Tecnologías Empleadas 
   
  </p>
 
@@ -686,12 +686,12 @@
 <div align="center">
 <p align="center">
 
- #### { Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos  }
+ ### { Desarrollo de una Api Rest con Spring Boot, Spring Security, JWT, etc sobre Productos Electrónicos  }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" width="800" height="650"  title="hover text">
 
-   ####  Link : https://github.com/andresWeitzel/Api_Rest_Spring_Productos
-   #### Tecnologías Empleadas 
+   ###  Link : https://github.com/andresWeitzel/Api_Rest_Spring_Productos
+   ### Tecnologías Empleadas 
   
  </p>
 
@@ -724,12 +724,12 @@
 <div align="center">
 <p align="center">
 
- #### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP  }
+ ### {  Colaboración en un Proyecto sobre el Covid-19 Área Core/Api-Rest con PHP  }
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" width="700" height="650"  title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" width="800" height="650"  title="hover text">
 
-   ####  Link : https://github.com/andresWeitzel/medmask
-   #### Tecnologías Empleadas 
+   ###  Link : https://github.com/andresWeitzel/medmask
+   ### Tecnologías Empleadas 
   
  </p>
 
@@ -766,7 +766,7 @@
 
 <div align = "center">
 
-###  <img width="45" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos <img width="45" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> 
+##  <img width="45" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos <img width="45" height="40"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> 
  <div >
 
 
@@ -776,12 +776,12 @@
   <div align="center">
 <p align="center">
 
- #### { Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL }
+ ### { Diseño, Programación y Administración de una DB de Inmobiliaria con PostgreSQL }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png" width="800" height="650"  title="hover text">
 
-  #### Link : https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL
-  #### Tecnologías Empleadas 
+  ### Link : https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL
+  ### Tecnologías Empleadas 
   
   </p>
 
@@ -810,12 +810,12 @@
   <div align="center">
 <p align="center">
 
- #### { MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL }
+ ### { MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL }
 
-  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png" width="700" height="350"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png" width="800" height="350"  title="hover text">
 
-  #### Link : https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres
-  #### Tecnologías Empleadas 
+  ### Link : https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres
+  ### Tecnologías Empleadas 
   
   </p>
 
@@ -843,12 +843,12 @@
    <div align="center">
 <p align="center">
 
- #### { MicroDB acerca de Productos Electrónicos con MongoDB }
+ ### { MicroDB acerca de Productos Electrónicos con MongoDB }
 
-  <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.csv.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.csv.png" width="800" height="650"  title="hover text">
 
-  #### Link : https://github.com/andresWeitzel/db_ElectroThings_MongoDB
-  #### Tecnologías Empleadas 
+  ### Link : https://github.com/andresWeitzel/db_ElectroThings_MongoDB
+  ### Tecnologías Empleadas 
   
   </p>
 
@@ -875,12 +875,12 @@
   <div align="center">
 <p align="center">
 
- #### { Base de Datos acerca de un Supermercado con PostgreSQL }
+ ### { Base de Datos acerca de un Supermercado con PostgreSQL }
 
-  <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png" width="800" height="650"  title="hover text">
 
-  #### Link : https://github.com/andresWeitzel/db_supermercado
-  #### Tecnologías Empleadas 
+  ### Link : https://github.com/andresWeitzel/db_supermercado
+  ### Tecnologías Empleadas 
   
   </p>
 
@@ -908,12 +908,12 @@
   <div align="center">
 <p align="center">
 
- #### { Base de Datos acerca de Productos de Microelectrónica con Oracle }
+ ### { Base de Datos acerca de Productos de Microelectrónica con Oracle }
 
-  <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" width="800" height="650"  title="hover text">
 
-  #### Link : https://github.com/andresWeitzel/db_microelectronica_Oracle
-  #### Tecnologías Empleadas 
+  ### Link : https://github.com/andresWeitzel/db_microelectronica_Oracle
+  ### Tecnologías Empleadas 
   
   </p>
 
@@ -940,12 +940,12 @@
 <div align="center">
 <p align="center">
 
- #### {  Modelado, Diseño y Gestión de una DB de Indumentaria con Mysql }
+ ### {  Modelado, Diseño y Gestión de una DB de Indumentaria con Mysql }
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" width="700" height="650"  title="hover text">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" width="800" height="650"  title="hover text">
 
-  #### Link : https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
-  #### Tecnologías Empleadas 
+  ### Link : https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
+  ### Tecnologías Empleadas 
   
   </p>
 
@@ -982,7 +982,7 @@
 
 <div align="center">
   
-### <img width="40" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" />  Sistemas Embebidos  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" /> 
+## <img width="40" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" />  Sistemas Embebidos  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" /> 
 
 </div>
 
@@ -994,12 +994,12 @@
 <div align="center">
 <p align="center">
  
- #### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
+ ### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
   
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png" width="800" height="650"  title="hover text">
 
- #### Link : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
- #### Tecnologías Empleadas 
+ ### Link : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
+ ### Tecnologías Empleadas 
   
   </p>
 
@@ -1024,13 +1024,13 @@
 <div align="center">
 <p align="center">
 
- #### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
+ ### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="700" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" width="800" height="650"  title="hover text">
 
   
- ####  Link : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
- ####  Tecnologías Empleadas 
+ ###  Link : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
+ ###  Tecnologías Empleadas 
   
  </p>
 
