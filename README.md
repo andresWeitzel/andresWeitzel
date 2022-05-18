@@ -812,7 +812,7 @@
 
  #### { MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL }
 
-  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png" width="700" height="450"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png" width="700" height="250"  title="hover text">
 
   #### Link : https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres
   #### Tecnologías Empleadas 
