@@ -845,7 +845,7 @@
 
  ### { MicroDB acerca de Productos Electrónicos con MongoDB }
 
-  <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection.csv.png" width="800" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.table.png" width="800" height="650"  title="hover text">
 
   ### Link : https://github.com/andresWeitzel/db_ElectroThings_MongoDB
   ### Tecnologías Empleadas 
