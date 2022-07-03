@@ -125,11 +125,11 @@
 * WebService Stack
 
 <div style="display: inline-block;">
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/microservices.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/apirest.jpg" />
+  <img width="42" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/microservices.png" />
+  <img width="42" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/apirest.jpg" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/openapi.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/springcloud.png" />
+  <img width="50" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/springcloud.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/grafana.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/prometheus.png" />
 
@@ -145,8 +145,11 @@
 <div style="display: inline-block;">
     <img width="41" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" /> 
    <img width="43" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
+   <img width="43" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/workbeanch.png" /> 
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
+    <img width="50" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
+    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongodb-compass.png" />
      <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/firebase.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
