@@ -949,7 +949,7 @@
 
  ### { MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL}
 
-  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/microdb_productos_supermercado_DER.png" width="800" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/microdb_productos_supermercado_DER.png" width="800" height="400"  title="hover text">
 
   ### Link : https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL
   ### Tecnologías Empleadas 
