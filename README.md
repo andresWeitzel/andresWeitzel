@@ -195,23 +195,42 @@
 
 
 
-<!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
-
-<!-- ## <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> Mi Canal <img width="58" height="48"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif" /> -->
+<!-----------------------------------------REDES ------------------------------------------------------->
 
 ---
-## Mi Canal
+## Redes Sociales
 
 </br>
 
+<!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
+<div>
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLogo.gif" /></a> 
-
-<a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
+<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" /></a> 
  
  ***(PROGRAMACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
+   </div> 
+ <!-----------------------------------------FIN CANAL DE YOUTUBE------------------------------------------------------->
  
-<!-----------------------------------------FIN CANAL DE YOUTUBE------------------------------------------------------->
+ <!-----------------------------------------GITLAB------------------------------------------------------->
+<div>
+<a href="https://gitlab.com/andres-weitzel" target="_blank">
+<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" /></a> 
+ 
+ ***(OTROS PROYECTOS..)*** ✔</a>  
+   </div> 
+ <!-----------------------------------------FIN GITLAB------------------------------------------------------->
+ 
+  <!-----------------------------------------LINKEDIN------------------------------------------------------->
+<div>
+<a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
+<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
+ 
+ ***(CONEXIÓN LABORAL..)*** ✔</a>  
+   </div> 
+ <!-----------------------------------------FIN LINKEDIN------------------------------------------------------->
+ 
+ 
+<!-----------------------------------------FIN REDES------------------------------------------------------->
 
 </br>
 
@@ -902,6 +921,37 @@
   <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png" width="800" height="650"  title="hover text">
 
   ### Link : https://github.com/andresWeitzel/db_supermercado
+  ### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+  
+  
+   </br>
+  
+  </br>
+  
+  </br>
+  
+  <div align="center">
+<p align="center">
+
+ ### { MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL}
+
+  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" width="800" height="650"  title="hover text">
+
+  ### Link : https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL
   ### Tecnologías Empleadas 
   
   </p>
