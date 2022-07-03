@@ -223,7 +223,7 @@
   <!-----------------------------------------LINKEDIN------------------------------------------------------->
 <div>
 <a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
-<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
+<img align="left" alt="andresWeitzel | Gitlab" width="80" height="75" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
  
  ***(CONEXIÓN LABORAL..)*** ✔</a>  
    </div> 
@@ -949,7 +949,7 @@
 
  ### { MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL}
 
-  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" width="800" height="650"  title="hover text">
+  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/microdb_productos_supermercado_DER.png" width="800" height="650"  title="hover text">
 
   ### Link : https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL
   ### Tecnologías Empleadas 
