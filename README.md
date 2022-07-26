@@ -109,7 +109,7 @@
   <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/postman.png" />
   <img width="50" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/log4j.png" />
+  <img width="45" height="43" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/log4j.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/eclipse.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/netbeans.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
@@ -223,7 +223,7 @@
   <!-----------------------------------------LINKEDIN------------------------------------------------------->
 <div>
 <a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
-<img align="left" alt="andresWeitzel | Gitlab" width="80" height="75" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
+<img align="left" alt="andresWeitzel | Linkedin" width="76" height="72" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
  
  ***(CONEXIÓN LABORAL..)*** ✔</a>  
    </div> 
@@ -305,7 +305,7 @@
   
 ### { Sitio Web para Tests en el Área IT  desarrollado con JS Vanilla, Boostrap v4.6 y Otras Tecnologías}
 
-  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" width="800" height="650" title="hover text">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" title="hover text">
  
  ###  Link : https://github.com/andresWeitzel/SitioWebTest_IT
  ###  Tecnologías Empleadas 
@@ -356,7 +356,7 @@
   
  ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías }
  
-  <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/documentation/inicio/inicioComponentes.png" width="800" height="650" title="hover text">
+  <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/documentation/inicio/inicioComponentes.png" title="hover text">
 
  ###  Link : https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot
  ###  Tecnologías Empleadas 
