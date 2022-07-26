@@ -904,7 +904,7 @@
 
  ### { MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL }
 
-  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png" >
+  <img src="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres/blob/master/documentation/db_inmobiliaria_microervicios_DER.png" >
 
   ### Link : https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres
   ### Tecnologías Empleadas 
@@ -1000,7 +1000,7 @@
 
  ### { MicroDB para App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_Docker_Kubernate_PostgreSQL}
 
-  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/microdb_productos_supermercado_DER.png">
+  <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png">
 
   ### Link : https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL
   ### Tecnologías Empleadas 
