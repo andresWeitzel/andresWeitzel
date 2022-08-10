@@ -397,7 +397,7 @@
   
  ### { MicroFrontEnd acerca de Productos de Supermercado implementando Spring Boot, Spring Security, JWT, Angular, Maven, Lombok, Bootstrap, Api Highcharts, Open-Api-v3.0, PostgreSQL y Otras Tecnologías }
  
-  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/inicio/postLogin.png" >
+  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
 
  ###  Link : https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL
  ###  Tecnologías Empleadas 
