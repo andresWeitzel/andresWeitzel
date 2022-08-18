@@ -369,25 +369,20 @@
   
   
  <div style="display: inline-block;"> 
- 
    <div>
-   
  ###  Repositorio
   <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-   
    </div> 
  
    <div>
-     
  ### PlayList
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
-     
   </div> 
-  
+ 
  </div>
 
    
