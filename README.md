@@ -277,7 +277,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png">
 
- ###  Links
+ ###  Repositorio
   <a href="https://github.com/andresWeitzel/andresWeitzel.github.io">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
@@ -311,7 +311,11 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" title="hover text">
  
- ###  Repositorio : https://github.com/andresWeitzel/SitioWebTest_IT
+  ###  Repositorio
+  <a href="https://github.com/andresWeitzel/SitioWebTest_IT">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ 
  ###  Tecnologías Empleadas 
   
 </p>  
@@ -361,9 +365,17 @@
  ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías }
  
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
+ 
+ ###  Repositorio
+  <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ 
+ ### PlayList
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
 
- ### Repositorio : https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot
- ### PlayList: https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3
  ###  Tecnologías Empleadas 
   
  </p>
@@ -404,8 +416,16 @@
  
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
 
- ### Repositorio : https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL
- ### PlayList: https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO
+ ###  Repositorio
+  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ 
+ ### PlayList
+   <a href=" https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+  
  ###  Tecnologías Empleadas 
   
  </p>
