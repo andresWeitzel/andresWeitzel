@@ -277,7 +277,10 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png">
 
- ###  Enlaces 
+ ###  Links
+  <a href="https://github.com/andresWeitzel/andresWeitzel.github.io">
+  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
  ###   [![Alt text](https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif)](https://github.com/andresWeitzel/andresWeitzel.github.io) 
  ###  Tecnologías Empleadas 
   
