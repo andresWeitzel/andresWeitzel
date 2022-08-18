@@ -428,7 +428,7 @@
   <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-    <a href=" https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO">
+    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
@@ -481,7 +481,7 @@
   
  <div style="display: inline-block;"> 
    <div>
-  <a href=" https://github.com/andresWeitzel/IotProductosJsp_app">
+  <a href="https://github.com/andresWeitzel/IotProductosJsp_app">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
  </div>
@@ -520,8 +520,16 @@
  ### { Aplicación Web sobre Violencia de Género, Discriminación, etc desarrollado con Angular12, Boostrapv4.6, HTML5, CSS3 y Otras Tecnologías }
  
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" >
-
- ### Repositorio : https://github.com/andresWeitzel/WebAppAngularBootstrap
+     
+  ###  Repositorio
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/WebAppAngularBootstrap">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ </div>
+   
  ###  Tecnologías Empleadas 
   
  </p>
@@ -580,8 +588,16 @@
  ### { Aplicación de Escritorio Java 8 SE para la Gestión de Empleados }
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png">
- 
- ###  Repositorio : https://github.com/andresWeitzel/Gestor_de_Empleados
+  
+  ###  Repositorio
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Gestor_de_Empleados">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ </div>
+   
  ###  Tecnologías Empleadas
   
   
@@ -617,7 +633,15 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" >
   
- ### Repositorio : https://github.com/andresWeitzel/Farmaco_NTZ184
+    ###  Repositorio
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Farmaco_NTZ184">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ </div>
+  
  ### Tecnologías Empleadas 
   
 </p>
@@ -652,7 +676,16 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png">
 
- ### Repositorio : https://github.com/andresWeitzel/Gestor_Gastos_Personales
+      ###  Repositorio
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Gestor_Gastos_Personales">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ </div>
+  
+  
  ###  Tecnologías Empleadas 
 
 </p>
@@ -704,8 +737,19 @@
 
   <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" >
 
-   ###  Repositorio : https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot
-   ###  PlayList : https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe
+  
+   ###  Repositorio | PlayList
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
    ### Tecnologías Empleadas 
   
  </p>
@@ -747,8 +791,19 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
 
-   ###  Repositorio : https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado
-   ###  PlayList : https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L
+     ###  Repositorio | PlayList
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+
    ### Tecnologías Empleadas 
   
  </p>
@@ -789,7 +844,16 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/listado_componentes.png" >
 
-   ###  Repositorio : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle
+       ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
    ### Tecnologías Empleadas 
   
  </p>
@@ -830,7 +894,16 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/documentation/productosController.png" >
 
-   ###  Repositorio : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB
+         ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+   
    ### Tecnologías Empleadas 
   
  </p>
@@ -872,7 +945,16 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
 
-   ###  Repositorio : https://github.com/andresWeitzel/Api_Rest_Spring_Productos
+           ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Api_Rest_Spring_Productos">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
    ### Tecnologías Empleadas 
   
  </p>
@@ -910,7 +992,17 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
 
-   ###  Repositorio : https://github.com/andresWeitzel/medmask
+             ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/medmask">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
+
    ### Tecnologías Empleadas 
   
  </p>
@@ -962,7 +1054,17 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png">
 
-  ### Repositorio : https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL
+               ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
+
   ### Tecnologías Empleadas 
   
   </p>
