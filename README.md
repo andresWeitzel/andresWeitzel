@@ -367,7 +367,7 @@
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
 
   
-   ###  Repositorio/PlayList
+   ###  Repositorio | PlayList
   
  <div style="display: inline-block;"> 
    <div>
@@ -421,15 +421,18 @@
  
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
 
- ###  Repositorio
+   ###  Repositorio | PlayList
+  
+ <div style="display: inline-block;"> 
+   <div>
   <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
- 
- ### PlayList
-   <a href=" https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO">
+    <a href=" https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
+ </div>
+  
   
  ###  Tecnologías Empleadas 
   
@@ -474,7 +477,15 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
  
- ###  Repositorio : https://github.com/andresWeitzel/IotProductosJsp_app
+     ###  Repositorio
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href=" https://github.com/andresWeitzel/IotProductosJsp_app">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ </div>
+  
  ###  Tecnologías Empleadas
   
  </p>
