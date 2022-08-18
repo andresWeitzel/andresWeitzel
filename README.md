@@ -279,9 +279,8 @@
 
  ###  Links
   <a href="https://github.com/andresWeitzel/andresWeitzel.github.io">
-  <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
- ###   [![Alt text](https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif)](https://github.com/andresWeitzel/andresWeitzel.github.io) 
  ###  Tecnologías Empleadas 
   
 </p>  
