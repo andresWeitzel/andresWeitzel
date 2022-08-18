@@ -365,6 +365,10 @@
  ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías }
  
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
+
+  
+  
+ <div style="display: inline-block;"> 
  
  ###  Repositorio
   <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot">
@@ -375,7 +379,11 @@
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
+  
+ <div/>
 
+   
+   
  ###  Tecnologías Empleadas 
   
  </p>
