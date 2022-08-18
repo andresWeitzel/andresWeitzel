@@ -277,7 +277,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png">
 
- ###  Link : https://github.com/andresWeitzel/andresWeitzel.github.io
+ ###  Repositorio : https://github.com/andresWeitzel/andresWeitzel.github.io
  ###  Tecnologías Empleadas 
   
 </p>  
@@ -307,7 +307,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" title="hover text">
  
- ###  Link : https://github.com/andresWeitzel/SitioWebTest_IT
+ ###  Repositorio : https://github.com/andresWeitzel/SitioWebTest_IT
  ###  Tecnologías Empleadas 
   
 </p>  
@@ -358,7 +358,8 @@
  
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
 
- ###  Link : https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot
+ ### Repositorio : https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot
+ ### PlayList: https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3
  ###  Tecnologías Empleadas 
   
  </p>
@@ -399,7 +400,8 @@
  
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
 
- ###  Link : https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL
+ ### Repositorio : https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL
+ ### PlayList: https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO
  ###  Tecnologías Empleadas 
   
  </p>
@@ -443,7 +445,7 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
  
- ###  Link : https://github.com/andresWeitzel/IotProductosJsp_app
+ ###  Repositorio : https://github.com/andresWeitzel/IotProductosJsp_app
  ###  Tecnologías Empleadas
   
  </p>
@@ -479,7 +481,7 @@
  
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" >
 
- ### Link : https://github.com/andresWeitzel/WebAppAngularBootstrap
+ ### Repositorio : https://github.com/andresWeitzel/WebAppAngularBootstrap
  ###  Tecnologías Empleadas 
   
  </p>
@@ -539,7 +541,7 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/GestorEmpleados_app/Captura%20de%20pantalla%20(341).png">
  
- ###  Link : https://github.com/andresWeitzel/Gestor_de_Empleados
+ ###  Repositorio : https://github.com/andresWeitzel/Gestor_de_Empleados
  ###  Tecnologías Empleadas
   
   
@@ -575,7 +577,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" >
   
- ### Link : https://github.com/andresWeitzel/Farmaco_NTZ184
+ ### Repositorio : https://github.com/andresWeitzel/Farmaco_NTZ184
  ### Tecnologías Empleadas 
   
 </p>
@@ -610,7 +612,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png">
 
- ### Link : https://github.com/andresWeitzel/Gestor_Gastos_Personales
+ ### Repositorio : https://github.com/andresWeitzel/Gestor_Gastos_Personales
  ###  Tecnologías Empleadas 
 
 </p>
@@ -662,7 +664,8 @@
 
   <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" >
 
-   ###  Link : https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot
+   ###  Repositorio : https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot
+   ###  PlayList : https://www.youtube.com/playlist?list=PLCl11UFjHurC0zJPiNF-rCbAFd2BGUBOe
    ### Tecnologías Empleadas 
   
  </p>
@@ -704,7 +707,8 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
 
-   ###  Link : https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado
+   ###  Repositorio : https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado
+   ###  PlayList : https://www.youtube.com/playlist?list=PLCl11UFjHurBM42b3iBbQ7iilddzG4t_L
    ### Tecnologías Empleadas 
   
  </p>
@@ -745,7 +749,7 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/listado_componentes.png" >
 
-   ###  Link : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle
+   ###  Repositorio : https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle
    ### Tecnologías Empleadas 
   
  </p>
@@ -786,7 +790,7 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/documentation/productosController.png" >
 
-   ###  Link : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB
+   ###  Repositorio : https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB
    ### Tecnologías Empleadas 
   
  </p>
@@ -828,7 +832,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
 
-   ###  Link : https://github.com/andresWeitzel/Api_Rest_Spring_Productos
+   ###  Repositorio : https://github.com/andresWeitzel/Api_Rest_Spring_Productos
    ### Tecnologías Empleadas 
   
  </p>
@@ -866,7 +870,7 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
 
-   ###  Link : https://github.com/andresWeitzel/medmask
+   ###  Repositorio : https://github.com/andresWeitzel/medmask
    ### Tecnologías Empleadas 
   
  </p>
@@ -918,7 +922,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png">
 
-  ### Link : https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL
+  ### Repositorio : https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL
   ### Tecnologías Empleadas 
   
   </p>
@@ -952,7 +956,7 @@
 
   <img src="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres/blob/master/documentation/db_inmobiliaria_microervicios_DER.png" >
 
-  ### Link : https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres
+  ### Repositorio : https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres
   ### Tecnologías Empleadas 
   
   </p>
@@ -985,7 +989,7 @@
 
   <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.json.png">
 
-  ### Link : https://github.com/andresWeitzel/db_ElectroThings_MongoDB
+  ### Repositorio : https://github.com/andresWeitzel/db_ElectroThings_MongoDB
   ### Tecnologías Empleadas 
   
   </p>
@@ -1017,7 +1021,7 @@
 
   <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png">
 
-  ### Link : https://github.com/andresWeitzel/db_supermercado
+  ### Repositorio : https://github.com/andresWeitzel/db_supermercado
   ### Tecnologías Empleadas 
   
   </p>
@@ -1048,7 +1052,7 @@
 
   <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png">
 
-  ### Link : https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL
+  ### Repositorio : https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL
   ### Tecnologías Empleadas 
   
   </p>
@@ -1081,7 +1085,7 @@
 
   <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" >
 
-  ### Link : https://github.com/andresWeitzel/db_microelectronica_Oracle
+  ### Repositorio : https://github.com/andresWeitzel/db_microelectronica_Oracle
   ### Tecnologías Empleadas 
   
   </p>
@@ -1113,7 +1117,7 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" >
 
-  ### Link : https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
+  ### Repositorio : https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
   ### Tecnologías Empleadas 
   
   </p>
@@ -1167,7 +1171,7 @@
   
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png">
 
- ### Link : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
+ ### Repositorio : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
  ### Tecnologías Empleadas 
   
   </p>
@@ -1198,7 +1202,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" >
 
   
- ###  Link : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
+ ### Repositorio : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
  ###  Tecnologías Empleadas 
   
  </p>
