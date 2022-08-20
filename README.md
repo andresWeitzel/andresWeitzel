@@ -1098,7 +1098,17 @@
 
   <img src="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres/blob/master/documentation/db_inmobiliaria_microervicios_DER.png" >
 
-  ### Repositorio : https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
   ### Tecnologías Empleadas 
   
   </p>
@@ -1130,8 +1140,18 @@
  ### { MicroDB acerca de Productos Electrónicos con MongoDB }
 
   <img src="https://github.com/andresWeitzel/db_ElectroThings_MongoDB/blob/master/doc/collection_productos/collection.json.png">
+  
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_ElectroThings_MongoDB" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
 
-  ### Repositorio : https://github.com/andresWeitzel/db_ElectroThings_MongoDB
+ </div>
+   
+   
   ### Tecnologías Empleadas 
   
   </p>
@@ -1163,7 +1183,18 @@
 
   <img src="https://github.com/andresWeitzel/db_supermercado/blob/master/doc/db_supermercado_ER.png">
 
-  ### Repositorio : https://github.com/andresWeitzel/db_supermercado
+  
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_supermercado" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
   ### Tecnologías Empleadas 
   
   </p>
@@ -1194,7 +1225,17 @@
 
   <img src="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL/blob/master/documentation/listado-productos.png">
 
-  ### Repositorio : https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL
+ ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Microdb_productos_supermercado_PostgreSQL" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
   ### Tecnologías Empleadas 
   
   </p>
@@ -1227,7 +1268,17 @@
 
   <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" >
 
-  ### Repositorio : https://github.com/andresWeitzel/db_microelectronica_Oracle
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
   ### Tecnologías Empleadas 
   
   </p>
@@ -1259,7 +1310,18 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Gestion_BaseDeDatos_Mysql/master/documentation/06_logsUpdate.png" >
 
-  ### Repositorio : https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql
+  
+ ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+  
   ### Tecnologías Empleadas 
   
   </p>
@@ -1313,7 +1375,18 @@
   
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png">
 
- ### Repositorio : https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua
+  
+ ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
  ### Tecnologías Empleadas 
   
   </p>
@@ -1342,9 +1415,19 @@
  ### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" >
-
   
- ### Repositorio : https://github.com/andresWeitzel/Sensado_ESP8266_DHT11
+  
+ ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Sensado_ESP8266_DHT11" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
+
  ###  Tecnologías Empleadas 
   
  </p>
