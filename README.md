@@ -633,7 +633,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png" >
   
-    ###  Repositorio
+ ###  Repositorio
   
  <div style="display: inline-block;"> 
    <div>
@@ -676,7 +676,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/GestorGastosPersonales_app/Captura%20de%20pantalla%20(516).png">
 
-      ###  Repositorio
+ ###  Repositorio
   
  <div style="display: inline-block;"> 
    <div>
@@ -738,7 +738,7 @@
   <img src="https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot/blob/master/documentacion/MicroservicesArquitectura.png" >
 
   
-   ###  Repositorio | PlayList
+ ###  Repositorio | PlayList
   
  <div style="display: inline-block;"> 
    <div>
@@ -791,7 +791,7 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado/blob/master/doc/controllers.png" >
 
-     ###  Repositorio | PlayList
+ ###  Repositorio | PlayList
   
  <div style="display: inline-block;"> 
    <div>
@@ -844,7 +844,7 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle/blob/master/documentation/swagger/doc_openapi_componenteController/listado_componentes.png" >
 
-       ###  Repositorio 
+ ###  Repositorio 
   
  <div style="display: inline-block;"> 
    <div>
@@ -894,7 +894,7 @@
 
   <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/documentation/productosController.png" >
 
-         ###  Repositorio 
+  ###  Repositorio 
   
  <div style="display: inline-block;"> 
    <div>
@@ -945,7 +945,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/ApiRestProductosSpringBoot/CRUD/delete/copyListado.jpg" >
 
-           ###  Repositorio 
+  ###  Repositorio 
   
  <div style="display: inline-block;"> 
    <div>
@@ -992,7 +992,7 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/Proyectos/MedMask/Captura%20de%20pantalla%20(518).png" >
 
-             ###  Repositorio 
+  ###  Repositorio 
   
  <div style="display: inline-block;"> 
    <div>
@@ -1054,7 +1054,7 @@
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/db_Inmobiliaria/Captura%20de%20pantalla%20(526).png">
 
-               ###  Repositorio 
+  ###  Repositorio 
   
  <div style="display: inline-block;"> 
    <div>
