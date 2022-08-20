@@ -109,7 +109,7 @@
   <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/postman.png" />
   <img width="50" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="45" height="43" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/log4j.png" />
+  <img width="43" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/log4j.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/eclipse.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/netbeans.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
@@ -223,7 +223,7 @@
   <!-----------------------------------------LINKEDIN------------------------------------------------------->
 <div>
 <a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
-<img align="left" alt="andresWeitzel | Linkedin" width="76" height="72" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
+<img align="left" alt="andresWeitzel | Linkedin" width="74" height="70" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
  
  ***(CONEXIÓN LABORAL..)*** ✔</a>  
    </div> 
@@ -278,7 +278,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png">
 
  ###  Repositorio
-  <a href="https://github.com/andresWeitzel/andresWeitzel.github.io">
+  <a href="https://github.com/andresWeitzel/andresWeitzel.github.io" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
   
@@ -312,7 +312,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" title="hover text">
  
   ###  Repositorio
-  <a href="https://github.com/andresWeitzel/SitioWebTest_IT">
+  <a href="https://github.com/andresWeitzel/SitioWebTest_IT" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
  
@@ -371,10 +371,10 @@
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot">
+  <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3">
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
@@ -425,10 +425,10 @@
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL">
+  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO">
+    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
@@ -477,11 +477,11 @@
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
  
-     ###  Repositorio
+ ###  Repositorio
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/IotProductosJsp_app">
+  <a href="https://github.com/andresWeitzel/IotProductosJsp_app" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
  </div>
