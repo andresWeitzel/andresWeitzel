@@ -851,8 +851,7 @@
   <a href="https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-  
-    </a>
+
     <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAmc1wYGmkSdOOYyeo_6Ekj">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
