@@ -18,7 +18,6 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 20
           plugin_starlists_limit_repositories: 20
-          plugin_starlists_only: Awesome
           # Your GitHub token
           token: NOT_NEEDED
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
