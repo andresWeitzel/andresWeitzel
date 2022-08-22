@@ -1,4 +1,4 @@
-name: Stars World Map
+name: Feature Code Map
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 23 * * *"}]
@@ -14,16 +14,16 @@ jobs:
         with:
           filename: metrics.plugin.stargazers.worldmap.svg
           base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
+
           
           
           
