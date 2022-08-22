@@ -35,15 +35,6 @@
 
 
 
-
-
-<div style="display: inline-block;">
-  
-![Stars-World-Map](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.lines.history.svg)
-
-</div>
-
-
 </br>
 
 
@@ -67,6 +58,19 @@
 <div style="display: inline-block;">
   
 ![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.licenses.ratio.svg)
+
+</div>
+
+
+
+</br>
+
+
+
+
+<div style="display: inline-block;">
+  
+![Stars-World-Map](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.lines.history.svg)
 
 </div>
 
