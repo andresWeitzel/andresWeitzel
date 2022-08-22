@@ -39,7 +39,7 @@
 
 <div style="display: inline-block;">
   
-![Stars-World-Map](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.stargazers.worldmap.svg)
+![Stars-World-Map](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.lines.history.svg)
 
 </div>
 
