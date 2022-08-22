@@ -62,6 +62,18 @@
 </div>
 
 
+</br>
+
+
+
+
+<div style="display: inline-block;">
+  
+![Stars-List-Languages](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.starlists.languages.svg)
+
+</div>
+
+
 
 </br>
 
@@ -70,7 +82,7 @@
 
 <div style="display: inline-block;">
   
-![Stars-World-Map](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.lines.history.svg)
+![Lines-History](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.lines.history.svg)
 
 </div>
 
