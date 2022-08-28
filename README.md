@@ -910,17 +910,26 @@
 <div align="center">
 <p align="center">
 
- ### { Api Rest acerca de Productos Electrónicos con Spring Boot, Spring Data MongoDB, SpringDoc-OpenApi, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB }
+ ### { Api Rest acerca de Productos Electrónicos con Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB }
 
   <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/documentation/productosController.png" >
 
-  ###  Repositorio 
+
+
+ ###  Repositorio | PlayList
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB">
+   <a href="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
+     
+  <a href="https://www.youtube.com/watch?v=wrl32hijoqo&list=PLCl11UFjHurCMBTbTNCGQerdF9LBXgX15">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+
 
  </div>
    
