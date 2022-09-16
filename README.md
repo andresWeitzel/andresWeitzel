@@ -103,6 +103,7 @@
   <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
   <img width="35" height="36" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
   <img width="45" height="37" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/js.png" />
+  <img width="45" height="37" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
   <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/jquery.png" />
    <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/high.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
