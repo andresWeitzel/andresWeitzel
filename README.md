@@ -1508,20 +1508,25 @@
  <div align="center">
 <p align="center">
  
- ### {  Sistema de Riego Automático para Plantas (en desarrollo)  }
+ ### {  Sistema de Riego Automático para Plantas (en proceso de desarrollo)  }
   
   <img src="https://github.com/andresWeitzel/SistemaRiegoAutomatico/blob/master/ImagenesProyecto/SensoresDeAguaRele/ActivacionSensoresRele%20(2).jpg">
 
   
- ###  Repositorio 
+  
+  
+   ###  Repositorio | PlayList
   
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/SistemaRiegoAutomatico" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-
+    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDl2g5HzPVV0YSPFX-Akhr6" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
  </div>
+ 
   
 
  ### Tecnologías Empleadas 
@@ -1559,16 +1564,14 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png">
 
 
-   ###  Repositorio | PlayList
+   ###  Repositorio
   
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDl2g5HzPVV0YSPFX-Akhr6" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
+
  </div>
  
  
