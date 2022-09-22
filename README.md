@@ -1505,6 +1505,51 @@
  
  </br>
  
+ <div align="center">
+<p align="center">
+ 
+ ### {  Sistema de Riego Automático para Plantas (en desarrollo)  }
+  
+  <img src="https://github.com/andresWeitzel/SistemaRiegoAutomatico/blob/master/ImagenesProyecto/SensoresDeAguaRele/ActivacionSensoresRele%20(2).jpg">
+
+  
+ ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/SistemaRiegoAutomatico" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
+ ### Tecnologías Empleadas 
+  
+  </p>
+
+ <div style="display: inline-block;">
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+ 
+ 
+ 
+  </br>
+  
+  </br>
+  
+  </br>
+ 
+ 
+ 
+ 
+ 
+ 
  
 <div align="center">
 <p align="center">
@@ -1513,17 +1558,20 @@
   
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png">
 
-  
- ###  Repositorio 
+
+   ###  Repositorio | PlayList
   
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-
+    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDl2g5HzPVV0YSPFX-Akhr6" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
  </div>
-  
+ 
+ 
 
  ### Tecnologías Empleadas 
   
@@ -1594,7 +1642,6 @@
  > *  Una Interfaz Gráfica de Comunicación entre un microcontrolador a través de http y wifi y una db, aplicando java, html5, css3, js vanilla, mysql, scripting y c++ .
  > *  Aplicación para recolección de mediciones de un sensor en tiempo real con un esp8266 y un módulo sensor infrarrojo
  > *  Desarrollo y Programación de un circuito electrónico para mediciones eléctricas de mi casa para digitalización y procesamiento usando un Arduino, varios módulos, C++, python, PHP y mysql como db.
- > * Sistema de Riego Automático para mi Plantas y Relevamiento de datos (Hardware y Software)
  > * Sistema de Control de Temperatura para mi Habitación (Automatización de Ventilador y Estufa) con almacenamiento de datos
  > * Versionador de Software usando Spring Boot, Java NIO, Hibernate y Oracle
  > * Interfaz Gráfica tipo Dashboard implementando Python, Angular, Js Vanilla
