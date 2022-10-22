@@ -290,6 +290,54 @@
 </div>  
 
 
+</br>
+
+<div align="center">
+<p align="center">
+  
+ ### { Portafolio Personal Desarrollador de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías }
+ 
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Portafolio/Captura%20de%20pantalla%20(926).png" >
+
+  
+   ###  Repositorio | PlayList
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://gitlab.com/andres-weitzel/portafolio" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+   
+   
+ ###  Tecnologías Empleadas 
+  
+ </p>
+  
+ <div style="display: inline-block;">
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angularMaterial.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/high.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+   
+ </div>
+ </div>
+
+
+ </br>
+  
+ </br>
+  
+</br>
 
 
 </br>
