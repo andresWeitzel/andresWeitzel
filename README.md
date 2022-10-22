@@ -295,7 +295,7 @@
 <div align="center">
 <p align="center">
   
- ### { Portafolio Personal Desarrollador de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías }
+ ### { Portafolio Desarrollo de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías }
  
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Portafolio/Captura%20de%20pantalla%20(926).png" >
 
