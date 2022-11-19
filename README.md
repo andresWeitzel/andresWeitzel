@@ -1612,7 +1612,32 @@
 
 </div>
 
+
+ </br>
  
+ <div align="center">
+<p align="center">
+ 
+ ### {  Máquina de Estado con Memoria EEPROM y Multiplexación  }
+  
+  <img src="https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware/blob/master/doc/02.jpg">
+
+  
+  
+  
+   ###  Repositorio | PlayList
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+    <a href="https://www.youtube.com/watch?v=kMSUqcmOn2M&list=PLCl11UFjHurDSwDmjUEX_ddVDaXWpO0FU" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+
  
  </br>
  
