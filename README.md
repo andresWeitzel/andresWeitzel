@@ -349,7 +349,7 @@
 <div align="center">
 <p align="center">
   
- ### { MicroFrontEnd y Módulo npm para la Implementación de Modelos de IA de Procesamiento de Lenguaje Natural (GPT-J-GB | GPT-3 | Otros)  }
+ ### { MicroFrontEnd y Módulo npm para la Implementación de Modelos de IA de Procesamiento de Lenguaje Natural (GPT-J-GB , GPT-3 , Otros)  }
  
   <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
 
@@ -359,9 +359,9 @@
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" />
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
-   <a href="" target="_blank">
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBBWHg1pGL47Ok2Iy-AZPYB" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
