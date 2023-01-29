@@ -295,7 +295,7 @@
 <div align="center">
 <p align="center">
   
- ### { Portafolio Desarrollo de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías }
+ ### { Portfolio Desarrollo de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías. }
  
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Portafolio/Captura%20de%20pantalla%20(926).png" >
 
@@ -349,7 +349,7 @@
 <div align="center">
 <p align="center">
   
- ### { MicroFrontEnd y Módulo npm para la Implementación de Modelos de IA de Procesamiento de Lenguaje Natural (GPT-J-GB , GPT-3 , Otros)  }
+ ### { MicroFrontEnd y Módulo npm para la implementación de Modelos de IA de Procesamiento de Lenguaje Natural (GPT-J-6B , GPT-3 , Otros).  }
  
   <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
 
@@ -397,7 +397,7 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías }
+ ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías. }
  
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
 
@@ -513,7 +513,7 @@
 <div align="center">
 <p align="center">
   
- ### { MicroFrontEnd acerca de Productos de Supermercado implementando Spring Boot, Spring Security, JWT, Angular, Maven, Lombok, Bootstrap, Api Highcharts, Open-Api-v3.0, PostgreSQL y Otras Tecnologías }
+ ### { MicroFrontEnd acerca de Productos de Supermercado implementando Spring Boot, Spring Security, JWT, Angular, Maven, Lombok, Bootstrap, Api Highcharts, Open-Api-v3.0, PostgreSQL y Otras Tecnologías. }
  
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
 
@@ -572,9 +572,9 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación Web ElectroThings acerca de Productos de Electrónicos Generales aplicando HTML5, CSS3, SCSS, Angular, Bootstrap, Highchart, Spring-Boot, Spring Security, Spring MVC, Microservicios, SpringFox, Swagger UI, Git, DBeaver, PgAdmin, PostgreSQL y Otras Tecnologías }
+ ### { Aplicación Web ElectroThings acerca de Productos de Electrónicos Generales aplicando HTML5, CSS3, SCSS, Angular, Bootstrap, Highchart, Spring-Boot, Spring Security, Spring MVC, Microservicios, SpringFox, Swagger UI, Git, DBeaver, PgAdmin, PostgreSQL y Otras Tecnologías. }
  
-  <img src="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB/blob/master/documentation/listado/listado01.png" >
+  <img src="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB/blob/master/doc/listado/listado01.png" >
 
   
    ###  Repositorio | PlayList
@@ -628,7 +628,7 @@
 <div align="center">
 <p align="center">
   
- ### { Aplicación Web para la Gestión de Productos IOT desarrollado con Java 8 EE, Maven, JSP, Servlets, BootstrapV4.6 y Otras Tecnologías }
+ ### { Aplicación Web para la Gestión de Productos IOT desarrollado con Java 8 EE, Maven, JSP, Servlets, BootstrapV4.6 y Otras Tecnologías. }
   
 
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
@@ -725,7 +725,7 @@
 <div align="center">
 <p align="center">
   
- ### { Sitio Web acerca de Robótica desarrollado con HTML5, CSS3 y Boostrap V4.6}
+ ### { Sitio Web acerca de Robótica desarrollado con HTML5, CSS3 y Bootstrap V4.6 }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png">
 
@@ -759,7 +759,7 @@
 <div align="center">
 <p align="center">
   
-### { Sitio Web para Tests en el Área IT  desarrollado con JS Vanilla, Boostrap v4.6 y Otras Tecnologías}
+### { Sitio Web para Tests en el Área IT  desarrollado con JS Vanilla, Boostrap v4.6 y Otras Tecnologías }
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/SitioTestIt/Captura%20de%20pantalla%20(319).png" title="hover text">
  
@@ -1140,7 +1140,7 @@
 
  ### { Api Rest acerca de Productos Electrónicos con Spring Boot, Spring Security, Spring Data MongoDB, SpringFox, Swagger UI, Maven, Lombok, Log4j, Git y MongoDB }
 
- <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/documentation/controllers/inicioDocSwagger.png" >
+ <img src="https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB/blob/master/doc/controllers/inicioDocSwagger.png" >
 
 
 
@@ -1841,7 +1841,6 @@
  > * Otros
  
  > Los otros 5 proyectos a "gran escala personal" son : 
- > * Etapa de diseño de un Sistema Operativo Híbrido (no fork) con características similares de Windows y Linux. (Diseño y planificación de DD(device drivers) para compatibilidad de proveedores, Análisis de Hibridación de partes del Core de Windows Core, Diseño de una Shell con generación de utilidades automáticas en tiempo de uso).
  > * Planificación de algoritmos (estilos bots) que ayuden a la codificación en paralelo ( idea planificada : Generación Automática de procedimientos almacenados y funciones en base de datos, tarea repetitiva y escalabilidad alta de código. Gran margen de error, revisión de código semi automatizada  )
  > * Aplicación Generadora de Contextualización Física (objetos, secuencias, ubicaciones) en base a una idea como parámetro de entrada para varios algoritmos de IA y Redes Neuronales (etapa de planificación general). La idea surgió en base a poder utilizar toda la potencia de renderizado actual de una cpu/gpu medianamente convencional
  > * Sistema de monitorización de presión y oxigenación sanguínea(estilo oxímetro) para prevenir insuficiencias cardiacas aplicando algoritmos de IA tanto para la manipulación de muestreos en vista dashboard en tiempo de recopilación  y manipulación de datos desde diferentes bases de datos (estilo microservicios) que almacenen las actividades, localizaciones y otras ideas en relación a la muestra obtenida, generación de reportes programados y gestión de revisión automática por algoritmos de detección según patrones médicos ingresados.
