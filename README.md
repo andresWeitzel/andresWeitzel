@@ -304,8 +304,8 @@
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://gitlab.com/andres-weitzel/portafolio" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" />
+  <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
