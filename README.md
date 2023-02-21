@@ -783,23 +783,22 @@
  
   </div>
  </div>
-  
-  
-  
-</br>
-  
-</br>
 
-</br>
-
-</br>
-  
-</br>
 
 <!--FIN PAGINAS WEB-->
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+</br>
+  
+</br>
+
+</br>
+
+</br>
+  
+</br>
 
 </br>
   
@@ -945,11 +944,19 @@
   </div>
  </div>
   
-
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN DESKTOP APP>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 
+  
+</br>
+  
+</br>
 
+</br>
+
+</br>
+  
+</br>
 
 </br>
   
@@ -971,6 +978,44 @@
 </div>
 
 </br>
+
+
+<div align="center">
+<p align="center">
+
+ ### { Microservice Mercadolibre Users AWS implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, entre otros.}
+
+  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
+
+  
+ ###  Repositorio
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+ </div>
+
+   ### Tecnologías Empleadas 
+  
+ </p>
+
+ <div style="display: inline-block;">
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
+   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+      <img width="47" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
+     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
+  </div>
+  </div>
+  
+  
+
+<br>
+  
+<br>
+  
 
  
 <div align="center">
@@ -1025,52 +1070,6 @@
 
 
 
-<div align="center">
-<p align="center">
-
- ### { Microservice Mercadolibre Users AWS implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, entre otros.}
-
-  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
-
-  
- ###  Repositorio
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
- </div>
-
-   ### Tecnologías Empleadas 
-  
- </p>
-
- <div style="display: inline-block;">
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
-  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-      <img width="47" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
-    <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
-  </div>
-  </div>
-  
-  
-
-<br>
-  
-<br>
-  
   
 <div align="center">
 <p align="center">
@@ -1322,9 +1321,6 @@
   </div>
   </div>
  
-
-
-
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN API-REST MICROSERVICES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 </br>
@@ -1337,6 +1333,15 @@
   
 </br>
 
+</br>
+  
+</br>
+
+</br>
+
+</br>
+  
+</br>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
@@ -1682,11 +1687,18 @@
  
   </div>
   </div>
- 
-
-
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN DATABASES>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+</br>
+  
+</br>
+
+</br>
+
+</br>
+  
+</br>
 
 </br>
   
@@ -1871,7 +1883,23 @@
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN EMBEDDED SYSTEMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 </br>
+  
 </br>
+
+</br>
+
+</br>
+  
+</br>
+
+</br>
+  
+</br>
+
+</br>
+
+</br>
+  
 </br>
 
  > He desarrollado en mayor o menor medida otros 27 proyectos de los cuáles 20 están incompletos/sin revisión y los otros 7 son proyectos a "gran escala personal" que están activos y en proceso de desarrollo, por ende, ambos al no ser funcionalmente aceptables no los incluyo. Algunos de ellos son:
