@@ -1395,6 +1395,50 @@
   
   </br>
   
+  
+    
+  
+  <div align="center">
+<p align="center">
+
+ ### { Micro base de datos de MercadoLibre}
+
+  <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql/blob/master/Diagrams/der.png">
+
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+
+
+  ### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+  
+
+ </br>
+  
+  </br>
+  
+  </br>
+  
 
   
   
