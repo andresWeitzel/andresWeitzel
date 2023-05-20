@@ -1110,51 +1110,8 @@
 
 </div>
 
-</br>
-
-
-<div align="center">
-<p align="center">
-
- ### { Microservice Mercadolibre Users AWS implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, entre otros.}
-
-  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
-
-  
- ###  Repositorio
-  
- <div style="display: inline-block;"> 
-   <div>
-    <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS">
-      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-    </a>
-    <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y">
-      <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-    </a>   
- </div>
-
-   ### Tecnologías Empleadas 
-  
- </p>
-
- <div style="display: inline-block;">
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-      <img width="47" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
-  </div>
-  </div>
-  
-  
-
 <br>
-  
-<br>
-  
 
- 
 <div align="center">
 <p align="center">
 
