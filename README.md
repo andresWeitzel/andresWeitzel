@@ -164,9 +164,10 @@
 * AWS Stack
 
 <div style="display: inline-block;">
-  <img width="42" height="42" src="https://coralogix.com/wp-content/uploads/2022/03/Lambda_large-1.png" />
-  <img width="42" height="42" src="https://www.itential.com/wp-content/uploads/2019/08/amazon-api-gateway-1.png" />
-  <img width="50" height="50" src="https://cdn-blog.lawrencemcdaniel.com/wp-content/uploads/2021/01/30083957/aws-s3-logo.png" />
+  <img width="52" height="52" src="https://coralogix.com/wp-content/uploads/2022/03/Lambda_large-1.png" />
+  <img width="62" height="62" src="https://www.itential.com/wp-content/uploads/2019/08/amazon-api-gateway-1.png" />
+  <img width="60" height="50" src="https://cdn-blog.lawrencemcdaniel.com/wp-content/uploads/2021/01/30083957/aws-s3-logo.png" />
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
 
   
  
