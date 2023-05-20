@@ -279,7 +279,7 @@
 
 <div align="center">
 
-## <img width="38" height="38"   src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
+## <img width="48" height="48"   src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
 
 </div>  
 
