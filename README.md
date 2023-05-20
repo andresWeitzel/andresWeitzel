@@ -347,6 +347,50 @@
 <br>
 <br>
 <br>
+  
+<div align="center">
+<p align="center">
+  
+ ### { Modelo CRUD para el manejo de objetos con amazon s3 de aws implementado con Systems Manager Parameter Store, Bucket S3, Api-Gateway, Serverless-Framework, Lambda, NodeJs, aws-sdk-v3, entre otros... }
+ 
+  <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
+
+  
+   ###  Repositorio | PlayList
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+   
+   
+ ###  Tecnologías Empleadas 
+  
+ </p>
+  
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>  
+  
 
 
 
