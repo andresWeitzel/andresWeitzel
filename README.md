@@ -275,6 +275,69 @@
 
 </br>
 
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
+<div align="center">
+
+## <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Amazon Web Services <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />
+
+</div>  
+
+
+</br>
+
+<div align="center">
+<p align="center">
+  
+ ### { Microservicio para la gestión de usuarios (ML) implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, entre otros.. }
+ 
+  <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
+
+  
+   ###  Repositorio | PlayList
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+   
+   
+ ###  Tecnologías Empleadas 
+  
+ </p>
+  
+ <div style="display: inline-block;">
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angularMaterial.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/high.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+   
+ </div>
+ </div>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+
 
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
@@ -707,6 +770,14 @@
 
 
 <!--FIN APLICACIONES WEB-->
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <br>
 
