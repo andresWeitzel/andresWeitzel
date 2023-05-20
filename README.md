@@ -163,12 +163,12 @@
 
 <div style="display: inline-block;">
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
-  <img width="58" height="58" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-  <img width="42" height="52" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
+  <img width="58" height="56" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
+  <img width="38" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
   <img width="45" height="54" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
   <img width="45" height="52" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
-  <img width="50" height="65" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/rds.png" />
-  <img width="50" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="40" height="52" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/rds.png" />
+  <img width="50" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
 
   
 
