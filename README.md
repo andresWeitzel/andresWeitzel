@@ -150,8 +150,6 @@
   <img width="50" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/springcloud.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/grafana.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/prometheus.png" />
-
-  
  
 </div>
 
@@ -166,11 +164,13 @@
 <div style="display: inline-block;">
   <img width="52" height="52" src="https://coralogix.com/wp-content/uploads/2022/03/Lambda_large-1.png" />
   <img width="58" height="58" src="https://s3-us-west-2.amazonaws.com/assertible/blog/aws-api-gateway-icon.png" />
-  <img width="50" height="56" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" />
+  <img width="45" height="56" alt="Amazon-s3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" />
   <img width="45" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
   <img width="50" height="58" src="https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/62607c5d5a80e46fad041878_e59d46eb.png" />
+  <img width="50" height="58" src="https://symbols.getvecta.com/stencil_16/35_parameter-store.6443ba24e4.png" />
 
   
+
   
  
 </div>
