@@ -168,7 +168,7 @@
   <img width="45" height="54" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
   <img width="45" height="52" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
   <img width="50" height="65" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/rds.png" />
-  <img width="50" height="65" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="50" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
 
   
 
