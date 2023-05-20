@@ -165,8 +165,8 @@
 
 <div style="display: inline-block;">
   <img width="52" height="52" src="https://coralogix.com/wp-content/uploads/2022/03/Lambda_large-1.png" />
-  <img width="62" height="62" src="https://s3-us-west-2.amazonaws.com/assertible/blog/aws-api-gateway-icon.png" />
-  <img width="60" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" />
+  <img width="58" height="58" src="https://s3-us-west-2.amazonaws.com/assertible/blog/aws-api-gateway-icon.png" />
+  <img width="55" height="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" />
   <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
 
   
