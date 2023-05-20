@@ -7,11 +7,11 @@
 
 # <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
 
-* Desarrollador Web Java Full Stack.
+* Desarrollador Web Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
 * Mi primer programa fue en C programando el tipo de Microcontrolador PIC16F84A.
 * Me gustaría poder contribuir, en un futuro cercano, en el área de la Inteligencia Artifical y Microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos
- * Contribuyo y Apoyo al Movimiento del Software Libre.
+* Contribuyo y Apoyo al Movimiento del Software Libre.
 
 </br>
 
@@ -167,8 +167,10 @@
   <img width="52" height="52" src="https://coralogix.com/wp-content/uploads/2022/03/Lambda_large-1.png" />
   <img width="58" height="58" src="https://s3-us-west-2.amazonaws.com/assertible/blog/aws-api-gateway-icon.png" />
   <img width="55" height="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" />
-  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
+  <img width="45" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
+  <img width="50" height="50" src="https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/62607c5d5a80e46fad041878_e59d46eb.png" />
 
+  
   
  
 </div>
