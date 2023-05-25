@@ -84,6 +84,8 @@
   
 </br>
 
+<!-----------------------------------------STACK LENGUAJES Y TECNOLOGÍAS ------------------------------------------------------->
+
 ---
 ## Lenguajes y Tecnologías
 
@@ -228,45 +230,46 @@
 
 </br>
 
+<!-----------------------------------------FIN STACK LENGUAJES Y TECNOLOGÍAS ------------------------------------------------------->
 
 
 
-<!-----------------------------------------REDES ------------------------------------------------------->
+<!-----------------------------------------REDES SOCIALES------------------------------------------------------->
 
 ---
 ## Redes Sociales
 
 </br>
 
-<!-----------------------------------------CANAL DE YOUTUBE------------------------------------------------------->
+<!--CANAL DE YOUTUBE-->
 <div>
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" /></a> 
  
  ***(PROGRAMACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
    </div> 
- <!-----------------------------------------FIN CANAL DE YOUTUBE------------------------------------------------------->
+ <!--FIN CANAL DE YOUTUBE-->
  
- <!-----------------------------------------GITLAB------------------------------------------------------->
+ <!--GITLAB-->
 <div>
 <a href="https://gitlab.com/andres-weitzel" target="_blank">
 <img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" /></a> 
  
  ***(OTROS PROYECTOS..)*** ✔</a>  
    </div> 
- <!-----------------------------------------FIN GITLAB------------------------------------------------------->
+ <!--FIN GITLAB-->
  
-  <!-----------------------------------------LINKEDIN------------------------------------------------------->
+  <!--LINKEDIN-->
 <div>
 <a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
 <img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
  
  ***(CONEXIÓN LABORAL..)*** ✔</a>  
    </div> 
- <!-----------------------------------------FIN LINKEDIN------------------------------------------------------->
+ <!--FIN LINKEDIN-->
  
  
-<!-----------------------------------------FIN REDES------------------------------------------------------->
+<!-----------------------------------------FIN REDES SOCIALES------------------------------------------------------->
 
 </br>
 
@@ -278,7 +281,6 @@
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
-<!-- ## <img width="53" height="43"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" />Proyectos <img width="53" height="43" src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/cube.gif" /> -->
 ---
 <div align="center">
 
@@ -296,14 +298,15 @@
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <div align="center">
-
 ## <img width="48" height="48"   src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
-
 </div>  
 
+<br>
 
-</br>
 
+
+ <!------MICROSERVICIO USUARIOS ML------>
+ 
 <div align="center">
 <p align="center">
   
@@ -336,11 +339,15 @@
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div> 
+<!------FIN MICROSERVICIO USUARIOS ML------>
 
-
+  
 <br>
 <br>
 <br>
+  
+  
+<!------CRUD AWS------>
   
 <div align="center">
 <p align="center">
@@ -351,7 +358,6 @@
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
   </a> 
 
-  
   ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
   
  <div style="display: inline-block;"> 
@@ -376,6 +382,10 @@
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div>
+  
+<!------FIN CRUD AWS------>
+
+<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 
 <br>
@@ -386,13 +396,7 @@
   
 
 
-
-<!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
-
-
-
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN WEB>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
-
 
 
 <!--APLICACIONES WEB-->
@@ -454,14 +458,15 @@
 <p align="center">
   
  ### { MicroFrontEnd y Módulo npm para la implementación de Modelos de IA de Procesamiento de Lenguaje Natural (GPT-J-6B , GPT-3 , Otros).  }
- 
+  
+  <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
   <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
+  </a> 
 
   
-   ###  Repositorio | PlayList
-  
+ ###  [[Repositorio]](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBBWHg1pGL47Ok2Iy-AZPYB)
+
  <div style="display: inline-block;"> 
-   <div>
   <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
@@ -469,13 +474,9 @@
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
-
    
+ ###  Stack Empleado
    
- ###  Tecnologías Empleadas 
-  
- </p>
-  
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
@@ -484,19 +485,17 @@
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/reactJs.png" />
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-   
- </div>
  </div>
 
-
- </br>
-  
- </br>
-  
-</br>
+ </p>
+ </div>
 
 
-</br>
+
+ <br>
+ <br>
+ <br>
+
 
 <div align="center">
 <p align="center">
@@ -509,7 +508,6 @@
    ###  Repositorio | PlayList
   
  <div style="display: inline-block;"> 
-   <div>
   <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
@@ -521,9 +519,7 @@
    
    
  ###  Tecnologías Empleadas 
-  
- </p>
-  
+ 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
@@ -542,8 +538,9 @@
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
-   
  </div>
+  
+ </p>
  </div>
 
 
@@ -1473,6 +1470,49 @@
   </br>
   
   
+  
+  <div align="center">
+<p align="center">
+
+ ### { Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c }
+
+  <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" >
+
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
+  ### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
+ <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+  
+  
+  </br>
+  
+  </br>
+  
+  </br>
+  
+  
     
   
   <div align="center">
@@ -1516,26 +1556,25 @@
   
   </br>
   
-
   
   
   <div align="center">
 <p align="center">
 
- ### { MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL }
+ ### { Micro base de datos para la gestión de Productos (MercadoLibre)}
 
-  <img src="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres/blob/master/documentation/db_inmobiliaria_microervicios_DER.png" >
+  <img src="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql/blob/master/doc/DER/microdb_mercadolibre_productos.png">
 
   ###  Repositorio 
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank">
+  <a href="https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
 
  </div>
-  
+
 
   ### Tecnologías Empleadas 
   
@@ -1545,8 +1584,8 @@
  <div style="display: inline-block;">
   
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
- <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
   </div>
@@ -1560,6 +1599,7 @@
   
   </br>
   
+
   
   
     
@@ -1733,18 +1773,20 @@
   
  
   
-  <div align="center">
+  
+  
+    <div align="center">
 <p align="center">
 
- ### { Base de Datos acerca de Productos de Microelectrónica con Oracle XE 21c }
+ ### { MicroDB Inmobiliaria para el Consumo de MicroServicios con PostgreSQL }
 
-  <img src="https://github.com/andresWeitzel/db_microelectronica_Oracle/blob/master/doc/db_microelectronica_DER.png" >
+  <img src="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres/blob/master/documentation/db_inmobiliaria_microervicios_DER.png" >
 
   ###  Repositorio 
   
  <div style="display: inline-block;"> 
    <div>
-  <a href="https://github.com/andresWeitzel/db_microelectronica_Oracle" target="_blank">
+  <a href="https://github.com/andresWeitzel/db_inmobiliaria_microservicios_postgres" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
 
@@ -1758,8 +1800,8 @@
 
  <div style="display: inline-block;">
   
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
- <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/dbeaver_103190.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" />
  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
@@ -1767,12 +1809,13 @@
   </div>
 
   
+
+ </br>
   
   </br>
   
   </br>
   
-  </br>
   
  
 <div align="center">
