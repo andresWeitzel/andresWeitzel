@@ -313,7 +313,17 @@
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
   </a>
 
-    
+ ### [[Repositorio]](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [|]() [[PlayList]](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+  
  ###  Stack Empleado
   
  <div style="display: inline-block;">
@@ -327,25 +337,7 @@
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div> 
 
-  <br>
 
- ### [Repositorio](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [|]() [PlayList](https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/watch?v=oLSrmqMq0Zs&list=PLCl11UFjHurB9JzGtm5e8-yp52IcZDs5y" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
-   
-
-
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -360,10 +352,9 @@
   </a> 
 
   
-  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS)  [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
+  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
   
  <div style="display: inline-block;"> 
-   <div>
   <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
@@ -372,8 +363,6 @@
   </a>
  </div>
 
-   
-   
  ### Stack Empleado
   
  </p>
@@ -422,13 +411,13 @@
   
  ### { Portfolio Desarrollo de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías. }
  
+  <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Portafolio/Captura%20de%20pantalla%20(926).png" >
+  </a>  
 
-  
-   ###  Repositorio | PlayList
-  
+  ###  [[Repositorio]](https://github.com/andresWeitzel/Portfolio_Software_Developer) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr)
+      
  <div style="display: inline-block;"> 
-   <div>
   <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
   </a>
@@ -436,12 +425,8 @@
     <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
   </a>
  </div>
-
    
-   
- ###  Tecnologías Empleadas 
-  
- </p>
+ ###  Stack Empleado
   
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
@@ -454,22 +439,16 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-   
  </div>
+ </p>
+ 
  </div>
 
 
- </br>
-  
- </br>
-  
-</br>
-
-
-</br>
-
-
-</br>
+ <br>
+ <br>
+ <br>
+ 
 
 <div align="center">
 <p align="center">
