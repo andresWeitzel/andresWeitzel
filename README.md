@@ -355,10 +355,12 @@
   
  ### { Modelo CRUD para el manejo de objetos con amazon s3 de aws implementado con Systems Manager Parameter Store, Bucket S3, Api-Gateway, Serverless-Framework, Lambda, NodeJs, aws-sdk-v3, entre otros... }
  
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS/blob/master/doc/assets/CRUD_Bucket_s3.drawio.png" >
+  </a> 
 
   
-   ###  Repositorio | PlayList
+  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS)  [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW)
   
  <div style="display: inline-block;"> 
    <div>
@@ -372,7 +374,7 @@
 
    
    
- ###  Tecnologías Empleadas 
+ ### Stack Empleado
   
  </p>
   
