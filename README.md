@@ -309,10 +309,12 @@
   
  ### { Microservicio para la gestión de usuarios (ML) implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, entre otros.. }
  
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
   <img src="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS/blob/master/doc/assets/MicroService_Users_ML.drawio.png" >
+  </a>
 
   
-   ###  Repositorio | PlayList
+   ###  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">Repositorio</a> | PlayList
   
  <div style="display: inline-block;"> 
    <div>
