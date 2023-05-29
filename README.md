@@ -298,14 +298,14 @@
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <div align="center">
-## <img width="48" height="48"   src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
+<img width="48" height="48"   src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
 </div>  
 
 <br>
 
 
 
- <!------MICROSERVICIO USUARIOS ML------>
+ <!------MICROSERVICIO USUARIOS ML AWS------>
  
 <div align="center">
 <p align="center">
@@ -339,7 +339,7 @@
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div> 
-<!------FIN MICROSERVICIO USUARIOS ML------>
+<!------FIN MICROSERVICIO USUARIOS ML AWS------>
 
   
 <br>
@@ -347,7 +347,7 @@
 <br>
   
   
-<!------CRUD AWS------>
+<!------CRUD Amazon S3 AWS------>
   
 <div align="center">
 <p align="center">
@@ -383,7 +383,50 @@
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div>
   
-<!------FIN CRUD AWS------>
+<!------FIN CRUD Amazon S3 AWS------>
+  
+<br>
+<br>
+<br>
+  
+  
+<!------CRUD Amazon DynamoDB AWS------>
+  
+<div align="center">
+<p align="center">
+  
+ ### { Modelo CRUD para el manejo de objetos payment de mercadopago con DynamoDB de aws implementado con Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, Typescript, DynamoDB, aws-sdk-v3, entre otros.... }
+ 
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS/blob/master/doc/assets/CRUD_DynamoDB.drawio.png" >
+  </a> 
+
+  ###  [[Repositorio]](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBIy51oB_CZa46KSF1cWn9W)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDPyOkEXOR6JO-vUnYqd1FW" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ### Stack Empleado
+  
+ </p>
+  
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+  
+<!------FIN CRUD Amazon DynamoDB AWS------>  
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
