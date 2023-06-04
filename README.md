@@ -528,6 +528,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
  
 <!------Microfront GPT-J-6B------>  
 <div align="center">
@@ -566,9 +569,12 @@
 
 
 
- <br>
- <br>
- <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <!------Gestion micrelectronica spring------> 
@@ -617,11 +623,12 @@
  <!------Fin Gestion micrelectronica spring------> 
 
 
-
- <br>
- <br>
- <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
  <!----- Microfrontend micrelectronica React------> 
  
@@ -671,10 +678,13 @@
  </div>
  <!----- Fin Microfrontend micrelectronica React------> 
 
- <br>
- <br>
- <br>
   
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
 
 <div align="center">
