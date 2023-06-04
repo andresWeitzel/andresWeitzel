@@ -339,6 +339,7 @@
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div> 
+  </div>
 <!------FIN MICROSERVICIO USUARIOS ML AWS------>
 
   
@@ -382,6 +383,7 @@
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div>
+  </div>
   
 <!------FIN CRUD Amazon S3 AWS------>
   
@@ -425,6 +427,7 @@
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
   <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div>
+ </div>
   
 <!------FIN CRUD Amazon DynamoDB AWS------>  
 
@@ -444,13 +447,13 @@
 
 <!--APLICACIONES WEB-->
 
+<!------Portfolio Java------>  
 <div align="center">
 
 ## <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
 
 </div>  
-
-
+  
 </br>
 
 <div align="center">
@@ -487,16 +490,15 @@
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div>
- </p>
- 
  </div>
+ <!------Fin Portfolio Java------>  
 
 
- <br>
- <br>
- <br>
+<br>
+<br>
+<br>
  
-
+<!------Microfront GPT-J-6B------>  
 <div align="center">
 <p align="center">
   
@@ -506,7 +508,6 @@
   <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
   </a> 
 
-  
  ###  [[Repositorio]](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBBWHg1pGL47Ok2Iy-AZPYB)
 
  <div style="display: inline-block;"> 
@@ -529,9 +530,8 @@
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
  </div>
-
- </p>
  </div>
+ <!------Fin Microfront GPT-J-6B------>  
 
 
 
@@ -540,15 +540,17 @@
  <br>
 
 
+<!------Gestion micrelectronica spring------> 
 <div align="center">
 <p align="center">
   
- ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js , Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías. }
+ ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js, Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías. }
  
+  <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
+  </a> 
 
-  
-   ###  Repositorio | PlayList
+   ###  [[Repositorio]](https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3)
   
  <div style="display: inline-block;"> 
   <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
@@ -559,10 +561,7 @@
   </a>
  </div>
 
-   
-   
- ###  Tecnologías Empleadas 
- 
+ ###  Stack Empleado 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
@@ -582,31 +581,30 @@
    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
  </div>
-  
- </p>
  </div>
-
-
- </br>
-  
- </br>
-  
-</br>
+ 
+ <!------Fin Gestion micrelectronica spring------> 
 
 
 
-</br>
+ <br>
+ <br>
+ <br>
 
+
+ <!----- Microfrontend micrelectronica React------> 
+ 
 <div align="center">
 <p align="center">
   
  ### { Aplicación Web MicroFrontEnd Microelectrónica implementando React, Html5, Scss, Highcharts, Bootstrap, Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c y Otras Tecnologías. }
- 
-  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(901).png" >
 
-  
-   ###  Repositorio | PlayList
-  
+  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
+  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(901).png" >
+  </a>  
+
+  ###  [[Repositorio]](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDLgSaycW__gUQwS3vOBZLD)
+   
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
@@ -617,12 +615,7 @@
   </a>
  </div>
 
-   
-   
- ###  Tecnologías Empleadas 
-  
- </p>
-  
+ ### Stack Empleado
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
@@ -630,7 +623,7 @@
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/reactJs.png" />
-     <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
+  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
   <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
@@ -643,16 +636,15 @@
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
-   
  </div>
  </div>
+ <!----- Fin Microfrontend micrelectronica React------> 
 
-
- </br>
+ <br>
+ <br>
+ <br>
   
- </br>
   
-</br>
 
 <div align="center">
 <p align="center">
