@@ -312,10 +312,13 @@
 <br>
 
 
+
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
 <div align="center">
+  
 ## <img width="48" height="48"  src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
+
 </div>  
 
 <br>
