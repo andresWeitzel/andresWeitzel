@@ -301,6 +301,25 @@
  - [1) Microservicio Mercadolibre para la gestión de usuarios [Amazon RDS, Nodejs, Sequelize, otros] ](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS)
  - [2) Modelo CRUD para el manejo de objetos [Amazon S3, Nodejs, Api Gateway, otros]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS)
  - [3) CRUD de objetos payments de Mercado pago [DynamoDB, Typescript, Serverless, otros]](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS)
+ - [4) Comunicación entre lambda producer y lambda consumer utilizando el servicio SQS de AWS con colas FIFO [NodeJs, ElasticMQ, otros]](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) 
+
+<br>
+
+</details>
+
+<details>
+ <summary> Aplicaciones Web </summary>
+ 
+ <br>
+ 
+ - [1) Portfolio Desarrollo de Software [Angular, Bootstrap, Api Highcharts, GSAP, Animation, DialogFlow, otros] ](https://github.com/andresWeitzel/Portfolio_Software_Developer)
+ - [2) MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP [React, Bootstrap, otros]](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
+ - [3) Aplicación Web para la Gestión de Productos de Microelectrónica [Spring Boot, Spring Data JPA, Maven, Lombok, Log4J, Thymeleaf, otros]](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
+ - [4) Aplicación Web MicroFrontEnd Microelectrónica [Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Oracle XE21c, otros]](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) 
+ - [5) MicroFrontEnd acerca de Productos de Supermercado [Spring Boot, Spring Security, Spring MVC, Microservicios, SpringFox, Swagger Ui, Highchart, otros]](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) 
+ - [6) Aplicación Web ElectroThings [Angular, Highcharts, Bootstrap, Spring Boot, Spring MVC, Spring Security, JWT, SpringMongoDB, otros]](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) 
+ - [7) Aplicación Web IotProductosJsp_app [Bootstrap, JSP, Maven, otros]](https://github.com/andresWeitzel/IotProductosJsp_app)
+ - [8) WebAppAngularBootstrap [Bootstrap, Angular, Netlify, otros]](https://github.com/andresWeitzel/WebAppAngularBootstrap)
 
 <br>
 
@@ -735,15 +754,18 @@
 <br>
   
 
+<!----- Microfrontend Productos de Supermercado------> 
 <div align="center">
 <p align="center">
   
  ### { MicroFrontEnd acerca de Productos de Supermercado implementando Spring Boot, Spring Security, JWT, Angular, Maven, Lombok, Bootstrap, Api Highcharts, Open-Api-v3.0, PostgreSQL y Otras Tecnologías. }
  
+  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
+  </a>  
 
-   ###  Repositorio | PlayList
-  
+  ###  [[Repositorio]](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO)
+    
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
@@ -755,10 +777,7 @@
  </div>
   
   
- ###  Tecnologías Empleadas 
-  
- </p>
-  
+ ###  Stack implementado 
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
@@ -778,32 +797,34 @@
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-   
  </div>
  </div>
+  
+  <!----- FIN Microfrontend Productos de Supermercado------> 
 
 
- </br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
-  </br>
   
-  </br>
+<!----- Aplicación Web ElectroThings------> 
   
-  
-  
-
-</br>
-
 <div align="center">
 <p align="center">
   
  ### { Aplicación Web ElectroThings acerca de Productos de Electrónicos Generales aplicando HTML5, CSS3, SCSS, Angular, Bootstrap, Highchart, Spring-Boot, Spring Security, Spring MVC, Microservicios, SpringFox, Swagger UI, Git, DBeaver, PgAdmin, PostgreSQL y Otras Tecnologías. }
- 
+  
+ <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
   <img src="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB/blob/master/doc/listado/listado01.png" >
+  </a> 
 
   
-   ###  Repositorio | PlayList
-  
+  ###  [[Repositorio]](https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAg4I2Sv8Q7rpkNUTk5fQQy)
+    
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
@@ -815,17 +836,13 @@
  </div>
 
    
-   
- ###  Tecnologías Empleadas 
-  
- </p>
-  
+ ###  Stack empleado
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
+   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
   <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
    <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
@@ -838,16 +855,17 @@
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
    <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
-   
  </div>
  </div>
-
-
- </br>
   
- </br>
-  
-</br>
+  <!----- FIN Aplicación Web ElectroThings------> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <div align="center">
