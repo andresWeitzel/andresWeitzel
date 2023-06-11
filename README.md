@@ -298,9 +298,9 @@
  
  <br>
  
- - [1) Microservicio Mercadolibre para la gestión de usuarios con Amazon RDS, Nodejs, Sequelize, etc ](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS)
- - [2) Modelo CRUD para el manejo de objetos con Amazon S3, Nodejs, Api Gateway, etc.](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS)
- - [3) CRUD de objetos payments de Mercado pago con DynamoDB, Typescript, Serverless, etc.](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS)
+ - [1) Microservicio Mercadolibre para la gestión de usuarios [Amazon RDS, Nodejs, Sequelize, otros] ](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS)
+ - [2) Modelo CRUD para el manejo de objetos [Amazon S3, Nodejs, Api Gateway, otros]](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS)
+ - [3) CRUD de objetos payments de Mercado pago [DynamoDB, Typescript, Serverless, otros]](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS)
 
 <br>
 
@@ -455,7 +455,55 @@
  </div>
  </div>
   
-<!------FIN CRUD Amazon DynamoDB AWS------>  
+<!------FIN CRUD Amazon DynamoDB AWS------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+  
+<!------Producer_Consumer_SQS_FIFO_AWS------>
+  
+<div align="center">
+<p align="center">
+  
+ ### { Comunicación entre lambda producer y lambda consumer utilizando el servicio SQS de AWS con colas FIFO }
+ 
+  <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
+  <img src="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS/blob/master/doc/assets/img/Producer_Consumer_SQS_FIFO_AWS.drawio.png" >
+  </a> 
+
+  ###  [[Repositorio]](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCkJNddrHBJ_TUfMlrHuWyb" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
+  </a>
+ </div>
+
+ ### Stack Empleado
+  
+ </p>
+  
+ <div style="display: inline-block;">
+  <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
+  <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
+   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
+  <img width="44" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+ </div>
+  </div>
+  
+<!------FIN Producer_Consumer_SQS_FIFO_AWS------>
 
 <!--<<<<<<<<<<<<<<<<<<<<<<<<<<<<FIN SECCIÓN AWS>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
 
