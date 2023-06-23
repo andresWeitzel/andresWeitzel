@@ -324,6 +324,27 @@
 <!------FIN AMAZON WEB SERVICES LIST------>
 
 
+<!------API REST-MICROSERVICIOS------>
+
+<details open>
+ <summary> Api Rest / Microservicios </summary>
+ 
+ <br>
+ 
+ - [1) Microservicios acerca de inmuebles](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [ Spring MVC-JPA, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Resilience4J, etc ]
+ - [2) Api Rest para productos de Supermercado](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
+ - [3) Api Restful para productos de microelectrónica](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [ Spring Boot-MVC-Security-JPA, Lombok, Oracle, etc ]
+ - [4) Api Rest electhings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
+ - [5) CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
+ - [6) Proyecto MedMask Covid-19 ](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc ]
+
+<br>
+
+</details>
+
+<!------FIN API REST-MICROSERVICIOS------>
+
+
 <!------APLICACIONES WEB LIST------>
 
 <details open>
@@ -355,8 +376,7 @@
  <br>
  
  - [1) Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
- - [2) Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar ]
-
+ - [2) Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar, etc ]
 
 <br>
 
@@ -371,8 +391,9 @@
  
  <br>
  
- - [1) Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
- - [2) Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar ]
+ - [1) App para la gestión de empleados](https://github.com/andresWeitzel/Gestor_de_Empleados) [ Java8, Mysql, JFreeChart, JCommon, etc ]
+ - [2) Proyecto fármaco_NTZ184](https://github.com/andresWeitzel/Farmaco_NTZ184) [ Java8, JDBC, Mysql, etc ]
+ - [3) Gestor gastos personales](https://github.com/andresWeitzel/Gestor_Gastos_Personales) [ Java8, JDBC, Mysql, etc ]
 
 
 <br>
@@ -380,6 +401,41 @@
 </details>
 
 <!------FIN APP DESKTOP LIST------>
+
+
+<!------BASE DE DATOS------>
+
+<details open>
+ <summary> Base de datos </summary>
+ 
+ <br>
+ 
+ - [1) Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [ PostgreSQL, DBeaver, etc ]
+ - [2) MicroDB categorías de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
+ - [3) MicroDB productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
+ - [4) DB para productos de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
+ - pending to complete
+<br>
+
+</details>
+
+<!------FIN BASE DE DATOS------>
+
+
+
+<!------SISTEMAS EMBEBIDOS------>
+
+<details open>
+ <summary> Sistemas embebidos </summary>
+ 
+ <br>
+ 
+ - pending to complete
+<br>
+
+</details>
+
+<!------FIN SISTEMAS EMBEBIDOS------>
 
 
 <br>
