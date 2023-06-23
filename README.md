@@ -1,4 +1,4 @@
-
+<!-----------------------------------------PRESSENTACIÓN------------------------------------------------------->
 <p align="center" width="100%">
   
 <img width="100%" height="50%"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
@@ -13,17 +13,23 @@
 * Me gustaría poder contribuir, en un futuro cercano, en el área de la Inteligencia Artifical y Microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos
 * Contribuyo y Apoyo al Movimiento del Software Libre.
 
+<!-----------------------------------------FIN PRESSENTACIÓN------------------------------------------------------->
+
 </br>
 
+<!-----------------------------------------ESTADISTICAS------------------------------------------------------->
+
+ <!------GENERALES METRICS------>
 <div style="display: inline-block;">
   
 ![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
 
 </div>
+<!------FIN GENERALES METRICS------>
 
+<br>
 
-</br>
-
+<!------CALENDARIO METRICS------>
 
 <div style="display: inline-block;">
   
@@ -31,29 +37,23 @@
   
 </div>
 
+<!------FIN CALENDARIO METRICS------>
+
+<br>
 
 
-
-
-</br>
-
-
+<!------HÁBITOS METRICS------>
 
 <div style="display: inline-block;">
   
 ![Activities-Charts](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.habits.charts.svg)
 
 </div>
+<!------FIN HÁBITOS METRICS------>
 
+<br>
 
-
-
-
-
-
-</br>
-
-
+<!------LICENCIAS METRICS------>
 
 <div style="display: inline-block;">
   
@@ -61,14 +61,11 @@
 
 </div>
 
+<!------FIN LICENCIAS METRICS------>
 
+<br>
 
-
-
-</br>
-
-
-
+<!------CÓDIGO COMMITS METRICS------>
 
 <div style="display: inline-block;">
   
@@ -76,26 +73,31 @@
 
 </div>
 
+<!------FIN CÓDIGO COMMITS METRICS------>
 
-
-
+<!-----------------------------------------FIN ESTADISTICAS------------------------------------------------------->
 
 
   
-</br>
+<br>
 
-<!-----------------------------------------STACK LENGUAJES Y TECNOLOGÍAS ------------------------------------------------------->
+<!-----------------------------------STACK LENGUAJES Y TECNOLOGÍAS ---------------------------------------------->
 
 ---
 ## Lenguajes y Tecnologías
+
+<!------LENGUAJES METRIC------>
 
 <div style="display: inline-block;">
   
 ![Most-Used-languages](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.languages.details.svg)
   
 </div>
+<!------FIN LENGUAJES METRIC------>
 
-</br>
+<br>
+
+<!------FRONTEND STACK------>
 
 * Frontend Stack
 
@@ -114,10 +116,12 @@
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/thymeleaf.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/sublime.png" />
- 
-</div>
+<div>
+<!------FIN FRONTEND STACK------>
 
-</br>
+<br>
+
+<!------BACKEND STACK------>
 
 * Backend Stack
 
@@ -136,13 +140,13 @@
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/netbeans.png" />
   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
    <img width="45" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/cmd.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-  
-  
-  
-</div>
+  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" /> 
+<div>
+<!------FIN BACKEND STACK------>
 
-</br>
+<br>
+
+<!------WEBSERVICE STACK------>
 
 * WebService Stack
 
@@ -154,14 +158,13 @@
   <img width="50" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/springcloud.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/grafana.png" />
   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/prometheus.png" />
- 
-</div>
+<div>
 
-</br>
+<!------FIN WEBSERVICE STACK------>
 
-</div>
+<br>
 
-</br>
+<!------AWS STACK------>
 
 * AWS Stack
 
@@ -175,8 +178,12 @@
   <img width="50" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
 </div>
 
+<!------FIN AWS STACK------>
 
-</br>
+
+<br>
+
+<!------DATABASE STACK------>
 
 * Database Stack
 
@@ -192,11 +199,13 @@
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
      <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
-  
- 
-</div>
+  <div>
 
-</br>
+  <!------FIN DATABASE STACK------>
+
+<br>
+
+<!------DATASCIENCE STACK------>
 
 * Data Science Stack
 
@@ -208,9 +217,11 @@
   <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/pycharm.png" />
   <img width="40" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/jupyter.png" />
 </div>
+<!------FIN DATASCIENCE STACK------>
 
+<br>
 
-</br>
+<!------EMBEDDED SYSTEM STACK------>
 
 * Embedded System Stack
 
@@ -228,10 +239,12 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
-</br>
+<!------FIN EMBEDDED SYSTEM STACK------>
 
-<!-----------------------------------------FIN STACK LENGUAJES Y TECNOLOGÍAS ------------------------------------------------------->
+<!--------------------------------FIN STACK LENGUAJES Y TECNOLOGÍAS ------------------------------------------->
 
+
+<br>
 
 
 <!-----------------------------------------REDES SOCIALES------------------------------------------------------->
@@ -247,7 +260,7 @@
 <img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" /></a> 
  
  ***(PROGRAMACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
-   </div> 
+</div> 
  <!--FIN CANAL DE YOUTUBE-->
  
  <!--GITLAB-->
@@ -256,7 +269,7 @@
 <img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" /></a> 
  
  ***(OTROS PROYECTOS..)*** ✔</a>  
-   </div> 
+</div> 
  <!--FIN GITLAB-->
  
   <!--LINKEDIN-->
@@ -265,15 +278,14 @@
 <img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
  
  ***(CONEXIÓN LABORAL..)*** ✔</a>  
-   </div> 
+</div> 
  <!--FIN LINKEDIN-->
- 
  
 <!-----------------------------------------FIN REDES SOCIALES------------------------------------------------------->
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 
 
@@ -292,6 +304,7 @@
 <br>
 <br>
 
+<!------AMAZON WEB SERVICES LIST------>
 
 <details open>
  <summary> Amazon Web Services </summary>
@@ -308,6 +321,11 @@
 
 </details>
 
+<!------FIN AMAZON WEB SERVICES LIST------>
+
+
+<!------APLICACIONES WEB LIST------>
+
 <details open>
  <summary> Aplicaciones Web </summary>
  
@@ -315,16 +333,53 @@
  
  - [1) Portfolio Desarrollo de Software](https://github.com/andresWeitzel/Portfolio_Software_Developer) [ Angular, Bootstrap,Highcharts, GSAP, DialogFlow, etc ]
  - [2) MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [ React, Bootstrap, npm, etc ]
- - [3) Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf) [ Spring Boot, Spring Data JPA, Lombok, Thymeleaf, etc]
- - [4) Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [ Spring MVC, Spring Data JPA, SpringFox, Oracle XE21c, etc] 
- - [5) MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) [Spring Boot, Spring Security, Spring MVC, Highchart, etc]
- - [6) Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) [Angular, Highcharts, Bootstrap, Spring MVC, Spring Security, JWT, SpringMongoDB, etc] 
- - [7) Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app) [Bootstrap, JSP, JDBC, Maven, Mysql, etc]
- - [8) WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap) [Bootstrap, Angular, Netlify, etc]
+ - [3) Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf) [ Spring Boot, Spring Data JPA, Lombok, Thymeleaf, etc ]
+ - [4) Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [ Spring MVC, Spring Data JPA, SpringFox, Oracle XE21c, etc ] 
+ - [5) MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) [ Spring Boot, Spring Security, Spring MVC, Highchart, etc ]
+ - [6) Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) [ Angular, Highcharts, Bootstrap, Spring MVC, Spring Security, JWT, SpringMongoDB, etc ] 
+ - [7) Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app) [ Bootstrap, JSP, JDBC, Maven, Mysql, etc ]
+ - [8) WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap) [ Bootstrap, Angular, Netlify, etc ]
 
 <br>
 
 </details>
+
+<!------FIN APLICACIONES WEB LIST------>
+
+
+<!------SITIOS WEB LIST------>
+
+<details open>
+ <summary> Sitios Web </summary>
+ 
+ <br>
+ 
+ - [1) Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
+ - [2) Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar ]
+
+
+<br>
+
+</details>
+
+<!------FIN SITIOS WEB LIST------>
+
+<!------APP DESKTOP LIST------>
+
+<details open>
+ <summary> Aplicaciones de Escritorio </summary>
+ 
+ <br>
+ 
+ - [1) Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
+ - [2) Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar ]
+
+
+<br>
+
+</details>
+
+<!------FIN APP DESKTOP LIST------>
 
 
 <br>
