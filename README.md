@@ -293,34 +293,34 @@
 <br>
 
 
-<details>
+<details open>
  <summary> Amazon Web Services </summary>
  
  <br>
  
- - [1) Microservicio Mercadolibre para la gestión de usuarios](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [Serverless, Mysql, Nodejs, Sequelize, etc]
- - [2) Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [Amazon S3, Nodejs, Api Gateway, etc]
- - [3) CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [DynamoDB, Typescript, Serverless, etc]
- - [4) App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [NodeJs, ElasticMQ, Amazon SQS, etc]
- - [5) App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [Amazon SNS, SSM, NodeJs, etc]
+ - [1) Microservicio Mercadolibre para la gestión de usuarios](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [ Serverless, Mysql, Nodejs, Sequelize, etc ]
+ - [2) Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, etc ]
+ - [3) CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless, etc ]
+ - [4) App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, etc ]
+ - [5) App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, etc ]
 
 <br>
 
 </details>
 
-<details>
+<details open>
  <summary> Aplicaciones Web </summary>
  
  <br>
  
- - [1) Portfolio Desarrollo de Software [Angular, Bootstrap, Api Highcharts, GSAP, Animation, DialogFlow, otros] ](https://github.com/andresWeitzel/Portfolio_Software_Developer)
- - [2) MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP [React, Bootstrap, otros]](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
- - [3) Aplicación Web para la Gestión de Productos de Microelectrónica [Spring Boot, Spring Data JPA, Maven, Lombok, Log4J, Thymeleaf, otros]](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
- - [4) Aplicación Web MicroFrontEnd Microelectrónica [Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Oracle XE21c, otros]](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) 
- - [5) MicroFrontEnd acerca de Productos de Supermercado [Spring Boot, Spring Security, Spring MVC, Microservicios, SpringFox, Swagger Ui, Highchart, otros]](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) 
- - [6) Aplicación Web ElectroThings [Angular, Highcharts, Bootstrap, Spring Boot, Spring MVC, Spring Security, JWT, SpringMongoDB, otros]](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) 
- - [7) Aplicación Web IotProductosJsp_app [Bootstrap, JSP, Maven, otros]](https://github.com/andresWeitzel/IotProductosJsp_app)
- - [8) WebAppAngularBootstrap [Bootstrap, Angular, Netlify, otros]](https://github.com/andresWeitzel/WebAppAngularBootstrap)
+ - [1) Portfolio Desarrollo de Software](https://github.com/andresWeitzel/Portfolio_Software_Developer) [ Angular, Bootstrap,Highcharts, GSAP, DialogFlow, etc ]
+ - [2) MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [ React, Bootstrap, npm, etc ]
+ - [3) Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf) [ Spring Boot, Spring Data JPA, Lombok, Thymeleaf, etc]
+ - [4) Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [ Spring MVC, Spring Data JPA, SpringFox, Oracle XE21c, etc] 
+ - [5) MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) [Spring Boot, Spring Security, Spring MVC, Highchart, etc]
+ - [6) Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) [Angular, Highcharts, Bootstrap, Spring MVC, Spring Security, JWT, SpringMongoDB, etc] 
+ - [7) Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app) [Bootstrap, JSP, JDBC, Maven, Mysql, etc]
+ - [8) WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap) [Bootstrap, Angular, Netlify, etc]
 
 <br>
 
