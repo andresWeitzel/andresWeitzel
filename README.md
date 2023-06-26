@@ -437,6 +437,7 @@
 - [2) Sistema de Riego Automático para Plantas ](https://github.com/andresWeitzel/SistemaRiegoAutomatico/tree/master) [ Sensor YL-69, Sensor MH, Sensor MH-RD, Sensor PT-100, Módulo Relés, Módulo I2C / Display LCD, Módulo Buzzer, Arduino Uno, Leds y Resistores, etc ]
 - [3) Sistema de control para tanque de agua ](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua) [ Arduino mega, sensores, etc ]
 - [4) Sistema de sensado de control y temperatura ](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11) [ Esp8266, DHT11, etc ]
+- Otros
 
 <br>
 
@@ -467,7 +468,6 @@
  <!------MICROSERVICIO USUARIOS ML AWS------>
  
 <div align="center">
-<p align="center">
   
  ### { Microservicio para la gestión de usuarios (ML) implementado con Systems Manager Parameter Store, Api-Gateway, Serverless-Framework, Lambda, NodeJs, Sequelize, Mysql, Amazon RDS, entre otros.. }
  
@@ -986,6 +986,7 @@
 <br>
 <br>
 
+<!----- Aplicación Web Productos IOT------> 
 
 <div align="center">
 <p align="center">
@@ -1024,13 +1025,18 @@
    
  </div>
  </div>
+
+ <!----- FIN Aplicación Web Productos IOT------> 
  
- 
- </br>
-  
-  </br>
-  
-  </br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 <div align="center">
 <p align="center">
