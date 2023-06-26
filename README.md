@@ -1,4 +1,4 @@
-<!-----------------------------------------PRESSENTACIÓN------------------------------------------------------->
+ <!-----------------------------------------PRESSENTACIÓN------------------------------------------------------->
 <p align="center" width="100%">
   
 <img width="100%" height="50%"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
@@ -395,7 +395,6 @@
  - [2) Proyecto fármaco_NTZ184](https://github.com/andresWeitzel/Farmaco_NTZ184) [ Java8, JDBC, Mysql, etc ]
  - [3) Gestor gastos personales](https://github.com/andresWeitzel/Gestor_Gastos_Personales) [ Java8, JDBC, Mysql, etc ]
 
-
 <br>
 
 </details>
@@ -407,14 +406,18 @@
 
 <details open>
  <summary> Base de datos </summary>
- 
+  
  <br>
  
  - [1) Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [ PostgreSQL, DBeaver, etc ]
  - [2) MicroDB categorías de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
  - [3) MicroDB productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
- - [4) DB para productos de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
- - pending to complete
+ - [4) DB para componentes de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
+ - [5) DB productos de electrónica](https://github.com/andresWeitzel/db_ElectroThings_MongoDB) [ MongoDB, MongoDB Compass, DBeaver, etc ]
+ - [6) DB productos de supermercado](https://github.com/andresWeitzel/db_supermercado_PostgreSQL) [ PostgreSQL, SQLDeveloper, DBeaver, etc ]
+ - [7) DB productos de indumentaria](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql) [ Mysql, DBeaver, etc]
+ - Otros
+ 
 <br>
 
 </details>
@@ -430,7 +433,11 @@
  
  <br>
  
- - pending to complete
+- [1) Máquina de Estado con Memoria EEPROM y Multiplexación ](https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware) [ Arduino, Memoria EEPROM, Transistores 2N3904, Displays 7 Segmentos, Pulsadores, Leds, Potenciómetro, etc ]
+- [2) Sistema de Riego Automático para Plantas ](https://github.com/andresWeitzel/SistemaRiegoAutomatico/tree/master) [ Sensor YL-69, Sensor MH, Sensor MH-RD, Sensor PT-100, Módulo Relés, Módulo I2C / Display LCD, Módulo Buzzer, Arduino Uno, Leds y Resistores, etc ]
+- [3) Sistema de control para tanque de agua ](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua) [ Arduino mega, sensores, etc ]
+- [4) Sistema de sensado de control y temperatura ](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11) [ Esp8266, DHT11, etc ]
+
 <br>
 
 </details>
