@@ -486,7 +486,7 @@
   </a>
  </div>
   
- ###  Stack Empleado
+ ###  Stack implementado
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
@@ -513,7 +513,6 @@
 <!------CRUD Amazon S3 AWS------>
   
 <div align="center">
-<p align="center">
   
  ### { Modelo CRUD para el manejo de objetos con amazon s3 de aws implementado con Systems Manager Parameter Store, Bucket S3, Api-Gateway, Serverless-Framework, Lambda, NodeJs, aws-sdk-v3, entre otros... }
  
@@ -532,9 +531,7 @@
   </a>
  </div>
 
- ### Stack Empleado
-  
- </p>
+ ###  Stack implementado
   
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
@@ -559,7 +556,6 @@
 <!------CRUD Amazon DynamoDB AWS------>
   
 <div align="center">
-<p align="center">
   
  ### { Modelo CRUD para el manejo de objetos payments de mercadopago con DynamoDB de aws implementado con Api-Gateway, Systems Manager Parameter Store, Serverless-Framework, Lambda, Typescript, DynamoDB, aws-sdk-v3, entre otros.... }
  
@@ -578,10 +574,8 @@
   </a>
  </div>
 
- ### Stack Empleado
-  
- </p>
-  
+ ###  Stack implementado
+
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
   <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
@@ -607,8 +601,7 @@
 <!------Producer_Consumer_SQS_FIFO_AWS------>
   
 <div align="center">
-<p align="center">
-  
+
  ### { Comunicación entre lambda producer y lambda consumer utilizando el servicio SQS de AWS con colas FIFO }
  
   <a href="https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS" target="_blank">
@@ -626,10 +619,8 @@
   </a>
  </div>
 
- ### Stack Empleado
-  
- </p>
-  
+ ###  Stack implementado
+
  <div style="display: inline-block;">
   <img width="35" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
   <img width="48" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
@@ -674,8 +665,7 @@
 </br>
 
 <div align="center">
-<p align="center">
-  
+ 
  ### { Portfolio Desarrollo de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías. }
  
   <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
@@ -693,7 +683,7 @@
   </a>
  </div>
    
- ###  Stack Empleado
+ ###  Stack implementado
   
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
@@ -720,8 +710,7 @@
  
 <!------Microfront GPT-J-6B------>  
 <div align="center">
-<p align="center">
-  
+ 
  ### { MicroFrontEnd y Módulo npm para la implementación de Modelos de IA de Procesamiento de Lenguaje Natural (GPT-J-6B , GPT-3 , Otros).  }
   
   <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
@@ -739,7 +728,7 @@
   </a>
  </div>
    
- ###  Stack Empleado
+ ###  Stack implementado
    
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
@@ -765,8 +754,7 @@
 
 <!------Gestion micrelectronica spring------> 
 <div align="center">
-<p align="center">
-  
+ 
  ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js, Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías. }
  
   <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
@@ -784,7 +772,7 @@
   </a>
  </div>
 
- ###  Stack Empleado 
+ ###  Stack implementado
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
@@ -819,8 +807,7 @@
  <!----- Microfrontend micrelectronica React------> 
  
 <div align="center">
-<p align="center">
-  
+
  ### { Aplicación Web MicroFrontEnd Microelectrónica implementando React, Html5, Scss, Highcharts, Bootstrap, Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c y Otras Tecnologías. }
 
   <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
@@ -839,7 +826,7 @@
   </a>
  </div>
 
- ### Stack Empleado
+ ###  Stack implementado
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
@@ -875,8 +862,7 @@
 
 <!----- Microfrontend Productos de Supermercado------> 
 <div align="center">
-<p align="center">
-  
+
  ### { MicroFrontEnd acerca de Productos de Supermercado implementando Spring Boot, Spring Security, JWT, Angular, Maven, Lombok, Bootstrap, Api Highcharts, Open-Api-v3.0, PostgreSQL y Otras Tecnologías. }
  
   <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
@@ -933,8 +919,7 @@
 <!----- Aplicación Web ElectroThings------> 
   
 <div align="center">
-<p align="center">
-  
+
  ### { Aplicación Web ElectroThings acerca de Productos de Electrónicos Generales aplicando HTML5, CSS3, SCSS, Angular, Bootstrap, Highchart, Spring-Boot, Spring Security, Spring MVC, Microservicios, SpringFox, Swagger UI, Git, DBeaver, PgAdmin, PostgreSQL y Otras Tecnologías. }
   
  <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
@@ -955,7 +940,7 @@
  </div>
 
    
- ###  Stack empleado
+ ###  Stack implementado
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
@@ -989,14 +974,14 @@
 <!----- Aplicación Web Productos IOT------> 
 
 <div align="center">
-<p align="center">
-  
- ### { Aplicación Web para la Gestión de Productos IOT desarrollado con Java 8 EE, Maven, JSP, Servlets, BootstrapV4.6 y Otras Tecnologías. }
-  
 
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
+ ### { Aplicación Web para la Gestión de Productos IOT desarrollado con Java 8 EE, Maven, JSP, Servlets, BootstrapV4.6 y Otras Tecnologías. }
  
- ###  Repositorio
+<a href="https://github.com/andresWeitzel/IotProductosJsp_app" target="_blank">  
+ <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
+</a>
+ 
+   ###  [[Repositorio]](https://github.com/andresWeitzel/IotProductosJsp_app)
   
  <div style="display: inline-block;"> 
    <div>
@@ -1005,11 +990,7 @@
   </a>
  </div>
   
- ###  Tecnologías Empleadas
-  
- </p>
- 
-  
+ ###  Stack implementado
  <div style="display: inline-block;">
     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
@@ -1022,7 +1003,6 @@
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   
  </div>
  </div>
 
@@ -1037,16 +1017,18 @@
 <br>
 
 
+ <!----- FIN Aplicación Web Violenc. de género------> 
 
 <div align="center">
-<p align="center">
-  
+
  ### { Aplicación Web sobre Violencia de Género, Discriminación, etc desarrollado con Angular12, Boostrapv4.6, HTML5, CSS3 y Otras Tecnologías }
- 
+
+<a href="https://github.com/andresWeitzel/WebAppAngularBootstrap" target="_blank">  
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" >
+</a>
      
-  ###  Repositorio
-  
+###  [[Repositorio]](https://github.com/andresWeitzel/WebAppAngularBootstrap)
+ 
  <div style="display: inline-block;"> 
    <div>
   <a href="https://github.com/andresWeitzel/WebAppAngularBootstrap">
@@ -1054,10 +1036,7 @@
   </a>
  </div>
    
- ###  Tecnologías Empleadas 
-  
- </p>
-  
+ ###  Stack implementado  
  <div style="display: inline-block;">
    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
@@ -1068,26 +1047,19 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
-   
  </div>
  </div>
 
-
+ <!----- FIN Aplicación Web Violenc. de género------> 
 
 <!--FIN APLICACIONES WEB-->
 
 <br>
-
 <br>
-
 <br>
-
 <br>
-
 <br>
-
 <br>
-
 
 
 <!--PAGINAS WEB-->
