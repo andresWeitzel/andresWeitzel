@@ -313,9 +313,9 @@
  
  - [Microservicio Mercadolibre para la gestión de usuarios](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [ Serverless, Mysql, Nodejs, Sequelize, etc ]
  - [Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, etc ]
- - [3) CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless, etc ]
- - [4) App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, etc ]
- - [5) App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, etc ]
+ - [CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless, etc ]
+ - [App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, etc ]
+ - [App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, etc ]
 
 <br>
 
@@ -331,12 +331,12 @@
  
  <br>
  
- - [1) Microservicios acerca de inmuebles](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [ Spring MVC-JPA, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Resilience4J, etc ]
- - [2) Api Rest para productos de Supermercado](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
- - [3) Api Restful para productos de microelectrónica](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [ Spring Boot-MVC-Security-JPA, Lombok, Oracle, etc ]
- - [4) Api Rest electhings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
- - [5) CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
- - [6) Proyecto MedMask Covid-19 ](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc ]
+ - [Microservicios acerca de inmuebles](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [ Spring MVC-JPA, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Resilience4J, etc ]
+ - [Api Rest para productos de Supermercado](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
+ - [Api Restful para productos de microelectrónica](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [ Spring Boot-MVC-Security-JPA, Lombok, Oracle, etc ]
+ - [Api Rest electhings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
+ - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
+ - [Proyecto MedMask Covid-19 ](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc ]
 
 <br>
 
@@ -352,14 +352,14 @@
  
  <br>
  
- - [1) Portfolio Desarrollo de Software](https://github.com/andresWeitzel/Portfolio_Software_Developer) [ Angular, Bootstrap,Highcharts, GSAP, DialogFlow, etc ]
- - [2) MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [ React, Bootstrap, npm, etc ]
- - [3) Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf) [ Spring Boot, Spring Data JPA, Lombok, Thymeleaf, etc ]
- - [4) Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [ Spring MVC, Spring Data JPA, SpringFox, Oracle XE21c, etc ] 
- - [5) MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) [ Spring Boot, Spring Security, Spring MVC, Highchart, etc ]
- - [6) Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) [ Angular, Highcharts, Bootstrap, Spring MVC, Spring Security, JWT, SpringMongoDB, etc ] 
- - [7) Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app) [ Bootstrap, JSP, JDBC, Maven, Mysql, etc ]
- - [8) WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap) [ Bootstrap, Angular, Netlify, etc ]
+ - [Portfolio Desarrollo de Software](https://github.com/andresWeitzel/Portfolio_Software_Developer) [ Angular, Bootstrap,Highcharts, GSAP, DialogFlow, etc ]
+ - [MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [ React, Bootstrap, npm, etc ]
+ - [Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf) [ Spring Boot, Spring Data JPA, Lombok, Thymeleaf, etc ]
+ - [Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [ Spring MVC, Spring Data JPA, SpringFox, Oracle XE21c, etc ] 
+ - [MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) [ Spring Boot, Spring Security, Spring MVC, Highchart, etc ]
+ - [Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) [ Angular, Highcharts, Bootstrap, Spring MVC, Spring Security, JWT, SpringMongoDB, etc ] 
+ - [Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app) [ Bootstrap, JSP, JDBC, Maven, Mysql, etc ]
+ - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap) [ Bootstrap, Angular, Netlify, etc ]
 
 <br>
 
@@ -375,8 +375,8 @@
  
  <br>
  
- - [1) Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
- - [2) Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar, etc ]
+ - [Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
+ - [Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar, etc ]
 
 <br>
 
@@ -391,9 +391,9 @@
  
  <br>
  
- - [1) App para la gestión de empleados](https://github.com/andresWeitzel/Gestor_de_Empleados) [ Java8, Mysql, JFreeChart, JCommon, etc ]
- - [2) Proyecto fármaco_NTZ184](https://github.com/andresWeitzel/Farmaco_NTZ184) [ Java8, JDBC, Mysql, etc ]
- - [3) Gestor gastos personales](https://github.com/andresWeitzel/Gestor_Gastos_Personales) [ Java8, JDBC, Mysql, etc ]
+ - [App para la gestión de empleados](https://github.com/andresWeitzel/Gestor_de_Empleados) [ Java8, Mysql, JFreeChart, JCommon, etc ]
+ - [Proyecto fármaco_NTZ184](https://github.com/andresWeitzel/Farmaco_NTZ184) [ Java8, JDBC, Mysql, etc ]
+ - [Gestor gastos personales](https://github.com/andresWeitzel/Gestor_Gastos_Personales) [ Java8, JDBC, Mysql, etc ]
 
 <br>
 
@@ -409,13 +409,13 @@
   
  <br>
  
- - [1) Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [ PostgreSQL, DBeaver, etc ]
- - [2) MicroDB categorías de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
- - [3) MicroDB productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
- - [4) DB para componentes de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
- - [5) DB productos de electrónica](https://github.com/andresWeitzel/db_ElectroThings_MongoDB) [ MongoDB, MongoDB Compass, DBeaver, etc ]
- - [6) DB productos de supermercado](https://github.com/andresWeitzel/db_supermercado_PostgreSQL) [ PostgreSQL, SQLDeveloper, DBeaver, etc ]
- - [7) DB productos de indumentaria](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql) [ Mysql, DBeaver, etc]
+ - [Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [ PostgreSQL, DBeaver, etc ]
+ - [MicroDB categorías de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
+ - [MicroDB productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
+ - [DB para componentes de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
+ - [DB productos de electrónica](https://github.com/andresWeitzel/db_ElectroThings_MongoDB) [ MongoDB, MongoDB Compass, DBeaver, etc ]
+ - [DB productos de supermercado](https://github.com/andresWeitzel/db_supermercado_PostgreSQL) [ PostgreSQL, SQLDeveloper, DBeaver, etc ]
+ - [DB productos de indumentaria](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql) [ Mysql, DBeaver, etc]
  - Otros
  
 <br>
@@ -433,10 +433,10 @@
  
  <br>
  
-- [1) Máquina de Estado con Memoria EEPROM y Multiplexación ](https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware) [ Arduino, Memoria EEPROM, Transistores 2N3904, Displays 7 Segmentos, Pulsadores, Leds, Potenciómetro, etc ]
-- [2) Sistema de Riego Automático para Plantas ](https://github.com/andresWeitzel/SistemaRiegoAutomatico/tree/master) [ Sensor YL-69, Sensor MH, Sensor MH-RD, Sensor PT-100, Módulo Relés, Módulo I2C / Display LCD, Módulo Buzzer, Arduino Uno, Leds y Resistores, etc ]
-- [3) Sistema de control para tanque de agua ](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua) [ Arduino mega, sensores, etc ]
-- [4) Sistema de sensado de control y temperatura ](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11) [ Esp8266, DHT11, etc ]
+- [Máquina de Estado con Memoria EEPROM y Multiplexación ](https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware) [ Arduino, Memoria EEPROM, Transistores 2N3904, Displays 7 Segmentos, Pulsadores, Leds, Potenciómetro, etc ]
+- [Sistema de Riego Automático para Plantas ](https://github.com/andresWeitzel/SistemaRiegoAutomatico/tree/master) [ Sensor YL-69, Sensor MH, Sensor MH-RD, Sensor PT-100, Módulo Relés, Módulo I2C / Display LCD, Módulo Buzzer, Arduino Uno, Leds y Resistores, etc ]
+- [Sistema de control para tanque de agua ](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua) [ Arduino mega, sensores, etc ]
+- [Sistema de sensado de control y temperatura ](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11) [ Esp8266, DHT11, etc ]
 - Otros
 
 <br>
