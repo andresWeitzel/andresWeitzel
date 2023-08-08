@@ -410,6 +410,7 @@
  <br>
  
  - [Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [ PostgreSQL, DBeaver, etc ]
+ - [Base de Datos acerca de Dispositivos Electrónicos ](https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL) [ PostgreSQL, DBeaver, etc ]
  - [MicroDB categorías de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
  - [MicroDB productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
  - [DB para componentes de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
@@ -1750,6 +1751,49 @@
   </br>
   
   </br>
+
+
+  <div align="center">
+<p align="center">
+
+ ### { Base de Datos acerca de Dispositivos Electrónicos con PostgreSQL }
+
+  <img src="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL/blob/master/doc/db_dispositivos_electronicos_DER.png" >
+
+  ###  Repositorio 
+  
+ <div style="display: inline-block;"> 
+   <div>
+  <a href="https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+
+ </div>
+  
+
+  ### Tecnologías Empleadas 
+  
+  </p>
+
+
+ <div style="display: inline-block;">
+  
+  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
+ <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/92/PNG/256/cmd_16549.png" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
+  </div>
+  </div>
+
+  
+  
+  </br>
+  
+  </br>
+  
+  </br>
+
+  
   
   
     
