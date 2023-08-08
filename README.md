@@ -311,8 +311,8 @@
  
  <br>
  
- - [1) Microservicio Mercadolibre para la gestión de usuarios](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [ Serverless, Mysql, Nodejs, Sequelize, etc ]
- - [2) Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, etc ]
+ - [Microservicio Mercadolibre para la gestión de usuarios](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [ Serverless, Mysql, Nodejs, Sequelize, etc ]
+ - [Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, etc ]
  - [3) CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless, etc ]
  - [4) App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, etc ]
  - [5) App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, etc ]
