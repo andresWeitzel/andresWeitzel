@@ -467,7 +467,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/GithubReadme/aws/Choosing-Amazon-Web-Services%20(1).webp" >
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/aws-img.png" >
   </a>
 
  ### [[Repositorio Proyectos]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
@@ -486,7 +486,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest |  Microservicios
+  ##  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest |  Microservicios
 
 </div>  
 
