@@ -501,7 +501,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/%C2%BFCo%CC%81mo-funciona-Restful.png" >
+  <img width="680" height="300" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/%C2%BFCo%CC%81mo-funciona-Restful.png" >
   </a>
 
  ### [[Repositorio Proyectos]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
