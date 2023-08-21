@@ -316,7 +316,7 @@
  - [CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless, etc ]
  - [App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, etc ]
  - [App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, etc ]
- - [`Visualizar todos los proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
+ #### [`Visualizar todos los proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
 
 <br>
 
@@ -471,7 +471,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/aws-img.png" >
   </a>
 
- ### [[Repositorio Proyectos]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
+ ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   
   
   </div>
