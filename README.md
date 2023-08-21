@@ -472,16 +472,10 @@
 
  ### [[Repositorio Proyectos]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
- </div>
   
   </div>
 <!------FIN PROYECTOS AWS------>
 
-<br>
 <br>
 <br>
 <br>
@@ -506,11 +500,6 @@
 
  ### [[Repositorio Proyectos]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
- </div>
   
   </div>
 <!------FIN PROYECTOS  API-REST-MICROSERV.------>
