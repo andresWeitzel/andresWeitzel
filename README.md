@@ -481,6 +481,11 @@
   </div>
 <!------FIN PROYECTOS AWS------>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
  <!------INICIO PROYECTOS API-REST-MICROSERV.------>
@@ -496,7 +501,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/API-101-What-Is-a-REST-API-scaled.jpg" >
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/%C2%BFCo%CC%81mo-funciona-Restful.png" >
   </a>
 
  ### [[Repositorio Proyectos]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
