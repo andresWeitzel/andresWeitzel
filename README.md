@@ -306,7 +306,7 @@
 
 <!------AMAZON WEB SERVICES LIST------>
 
-<details open>
+<details>
  <summary> Amazon Web Services </summary>
  
  <br>
@@ -326,7 +326,7 @@
 
 <!------API REST-MICROSERVICIOS------>
 
-<details open>
+<details >
  <summary> Api Rest / Microservicios </summary>
  
  <br>
@@ -348,7 +348,7 @@
 
 <!------APLICACIONES WEB LIST------>
 
-<details open>
+<details >
  <summary> Aplicaciones Web </summary>
  
  <br>
@@ -371,7 +371,7 @@
 
 <!------SITIOS WEB LIST------>
 
-<details open>
+<details>
  <summary> Sitios Web </summary>
  
  <br>
@@ -387,7 +387,7 @@
 
 <!------APP DESKTOP LIST------>
 
-<details open>
+<details>
  <summary> Aplicaciones de Escritorio </summary>
  
  <br>
@@ -405,7 +405,7 @@
 
 <!------BASE DE DATOS------>
 
-<details open>
+<details>
  <summary> Base de datos </summary>
   
  <br>
@@ -430,7 +430,7 @@
 
 <!------SISTEMAS EMBEBIDOS------>
 
-<details open>
+<details>
  <summary> Sistemas embebidos </summary>
  
  <br>
@@ -466,6 +466,59 @@
 </div>  
 
 <br>
+
+
+
+ <!------INICIO PROYECTOS AWS------>
+ 
+<div align="center">
+  
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/master/GithubReadme/aws/Choosing-Amazon-Web-Services%20(1).webp" >
+  </a>
+
+ ### [[Visualizar Proyectos]](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS)
+  
+ <div style="display: inline-block;"> 
+  <a href="https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS" target="_blank">
+    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+  </a>
+ </div>
+  
+  </div>
+<!------FIN PROYECTOS AWS------>
+
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  <!------MICROSERVICIO USUARIOS ML AWS------>
  
