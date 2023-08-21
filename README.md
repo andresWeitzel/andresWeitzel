@@ -316,7 +316,7 @@
  - [CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless, etc ]
  - [App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, etc ]
  - [App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, etc ]
-  #### [`Visualizar todos los proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
+ #### [`Repositorio Proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
 
 <br>
 
@@ -336,9 +336,10 @@
  - [Api Rest para productos de Supermercado](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
  - [Api Restful para productos de microelectrónica](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [ Spring Boot-MVC-Security-JPA, Lombok, Oracle, etc ]
  - [Api Rest Electrothings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
-  - [ApiRest_Microcomponentes_](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [ Spring Boot-MVC-Security-JPA, Lombok, OracleXE, SpringFox, etc ]
+ - [ApiRest_Microcomponentes_](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [ Spring Boot-MVC-Security-JPA, Lombok, OracleXE, SpringFox, etc ]
  - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
  - [Proyecto MedMask Covid-19 ](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc ]
+ #### [`Repositorio Proyectos`](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)  
 
 <br>
 
@@ -499,7 +500,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/api-rest.png" >
   </a>
 
- ### [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios/tree/master)
+ ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios/tree/master)
   
   
   </div>
