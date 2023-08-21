@@ -316,7 +316,7 @@
  - [CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless, etc ]
  - [App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, etc ]
  - [App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, etc ]
- #### [`Visualizar todos los proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
+  #### [`Visualizar todos los proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
 
 <br>
 
@@ -487,7 +487,7 @@
  
 <div align="center">
   
-  ##  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest |  Microservicios
+  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest |  Microservicios
 
 </div>  
 
@@ -495,11 +495,11 @@
 
 <div align="center">
   
-  <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img width="700" height="300" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/%C2%BFCo%CC%81mo-funciona-Restful.png" >
+  <a href="https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios" target="_blank">
+  <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/api-rest.png" >
   </a>
 
- ### [[Repositorio Proyectos]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios/tree/master)
+ ### [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios/tree/master)
   
   
   </div>
