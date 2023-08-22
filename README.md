@@ -381,11 +381,11 @@
  
  - [Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
  - [Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar, etc ]
+ #### [`Repositorio Proyectos`](https://github.com/andresWeitzel/Proyectos_Web_Sites) 
 
 <br>
 
 </details>
-
 <!------FIN SITIOS WEB LIST------>
 
 <!------APP DESKTOP LIST------>
@@ -552,7 +552,7 @@
  
 <div align="center">
   
-## <img width="40" height="30"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web
+## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web
 
 </div>  
 
