@@ -398,6 +398,8 @@
  - [App para la gestión de empleados](https://github.com/andresWeitzel/Gestor_de_Empleados) [ Java8, Mysql, JFreeChart, JCommon, etc ]
  - [Proyecto fármaco_NTZ184](https://github.com/andresWeitzel/Farmaco_NTZ184) [ Java8, JDBC, Mysql, etc ]
  - [Gestor gastos personales](https://github.com/andresWeitzel/Gestor_Gastos_Personales) [ Java8, JDBC, Mysql, etc ]
+ #### [`Repositorio Proyectos`](https://github.com/andresWeitzel/Proyectos_Desktop_App) 
+
 
 <br>
 
@@ -422,6 +424,8 @@
  - [DB productos de supermercado](https://github.com/andresWeitzel/db_supermercado_PostgreSQL) [ PostgreSQL, SQLDeveloper, DBeaver, etc ]
  - [DB productos de indumentaria](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql) [ Mysql, DBeaver, etc]
  - Otros
+ #### [`Repositorio Proyectos`](https://github.com/andresWeitzel/Proyectos_Database) 
+
  
 <br>
 
@@ -442,7 +446,7 @@
 - [Sistema de Riego Automático para Plantas ](https://github.com/andresWeitzel/SistemaRiegoAutomatico/tree/master) [ Sensor YL-69, Sensor MH, Sensor MH-RD, Sensor PT-100, Módulo Relés, Módulo I2C / Display LCD, Módulo Buzzer, Arduino Uno, Leds y Resistores, etc ]
 - [Sistema de control para tanque de agua ](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua) [ Arduino mega, sensores, etc ]
 - [Sistema de sensado de control y temperatura ](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11) [ Esp8266, DHT11, etc ]
-- Otros
+#### [`Repositorio Proyectos`](https://github.com/andresWeitzel/Proyectos_Embedded_System) 
 
 <br>
 
@@ -645,7 +649,7 @@
  
 <div align="center">
   
-## <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
+## <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" />  Sistemas Embebidos
 
 </div>  
 
