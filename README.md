@@ -347,6 +347,22 @@
 
 <!------FIN API REST-MICROSERVICIOS------>
 
+<!------GRAPHQL-MICROSERVICIOS------>
+
+<details >
+ <summary> Api Rest / Microservicios </summary>
+ 
+ <br>
+ 
+ - [Microservicio para la gestión de dispositivos cisco](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [ GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros. ]
+ - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)  
+
+<br>
+
+</details>
+
+<!------FIN GRAPHQL-MICROSERVICIOS------>
+
 
 <!------APLICACIONES WEB LIST------>
 
