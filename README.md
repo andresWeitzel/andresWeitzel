@@ -328,7 +328,7 @@
 <!------API REST-MICROSERVICIOS------>
 
 <details >
- <summary> Api Rest / Microservicios </summary>
+ <summary> Api Rest & Microservicios </summary>
  
  <br>
  
@@ -350,7 +350,7 @@
 <!------GRAPHQL-MICROSERVICIOS------>
 
 <details >
- <summary> Api Rest / Microservicios </summary>
+ <summary> GraphQL & Microservicios </summary>
  
  <br>
  
