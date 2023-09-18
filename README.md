@@ -520,13 +520,6 @@
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
  <!------INICIO PROYECTOS GRAPHQL-MICROSERV.------>
  
