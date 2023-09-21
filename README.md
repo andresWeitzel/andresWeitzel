@@ -333,9 +333,11 @@
  <br>
  
  - [Microservicios acerca de inmuebles](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [ Spring MVC-JPA, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Resilience4J, etc ]
- - [Api Rest para productos de Supermercado](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
  - [Api Restful para productos de microelectrónica](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [ Spring Boot-MVC-Security-JPA, Lombok, Oracle, etc ]
+ - [Api Rest para productos de Supermercado](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
  - [Api Rest Electrothings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
+ - [Api Rest Pedidos Ya](https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS) [ NestJS, NodeJS, Typescript, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, etc. ]
+ - [Api Rest dispositivos electrónicos](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [ Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, etc. ]
  - [ApiRest_Microcomponentes_](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [ Spring Boot-MVC-Security-JPA, Lombok, OracleXE, SpringFox, etc ]
  - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
  - [Proyecto MedMask Covid-19 ](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc ]
@@ -354,7 +356,7 @@
  
  <br>
  
- - [Microservicio para la gestión de dispositivos cisco](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [ GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros. ]
+ - [Microservicio para la gestión de dispositivos Cisco](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [ GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros. ]
  - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)  
 
 <br>
