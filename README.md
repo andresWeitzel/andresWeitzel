@@ -310,7 +310,8 @@
  <br>
  
  - [Microservicio Mercadolibre para la gestión de usuarios](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [ Serverless-Framework, Mysql, Nodejs, Sequelize, etc ]
- - [Api Rest para el manejo estadístico de producción y ventas de bioetanol](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS)[Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, etc.]
+ - [Api Rest para el manejo estadístico de producción y ventas de bioetanol](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS)[ Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, etc.]
+ - [BackupSystem_SQS_SNS_S3_DynamoDB_AWS Plantas Mineras](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS)[ SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Serverless-Framework, Lambda, etc. ]
  - [Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, Serverless-Framework etc ]
  - [CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless-Framework, etc ]
  - [App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, Serverless-Framework etc ]
