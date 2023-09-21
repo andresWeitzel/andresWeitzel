@@ -2,8 +2,7 @@
 <p align="center" width="100%">
 <img width="100%" height="50%"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
 </p>
-
-#<img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
+#  <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
 
 * Desarrollador Web Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
