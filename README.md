@@ -438,14 +438,16 @@
  
  - [Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [ PostgreSQL, DBeaver, etc ]
  - [Base de Datos acerca de Dispositivos Electrónicos ](https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL) [ PostgreSQL, DBeaver, etc ]
- - [MicroDB categorías de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
- - [MicroDB productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
+ - [DB Mercado Libre productos, categorías, usuarios, etc](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
+ - [Microdb productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
+ - [DB PedidosYa envíos](https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL) [ Mysql ]
+ - [Microdb Cisco devices](https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql) [ Mysql ]
  - [DB para componentes de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
  - [DB productos de electrónica](https://github.com/andresWeitzel/db_ElectroThings_MongoDB) [ MongoDB, MongoDB Compass, DBeaver, etc ]
  - [DB productos de supermercado](https://github.com/andresWeitzel/db_supermercado_PostgreSQL) [ PostgreSQL, SQLDeveloper, DBeaver, etc ]
  - [DB productos de indumentaria](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql) [ Mysql, DBeaver, etc]
  - Otros
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Database) 
+ - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Database_Projects) 
 
  
 <br>
