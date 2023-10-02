@@ -17,15 +17,17 @@
   
 #  <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
 
-</div>  
-
-
 
 * Desarrollador Web Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
 * Mi primer programa fue en C programando el tipo de Microcontrolador PIC16F84A.
 * Me gustaría poder contribuir, en un futuro cercano, en el área de la Inteligencia Artifical y Microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos
 * Contribuyo y Apoyo al Movimiento del Software Libre.
+
+
+</div>  
+
+
 
 <!-----------------------------------------FIN PRESSENTACIÓN------------------------------------------------------->
 
