@@ -13,7 +13,7 @@
 </p>
 
  
-<div align="center">
+<div align="left">
   
 #  <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
 
