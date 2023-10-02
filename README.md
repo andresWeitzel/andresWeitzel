@@ -15,17 +15,17 @@
  
 <div align="center">
   
-#  <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
+#  <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> My profile  
 
 </div>  
  
 <div align="left">
 
-* Desarrollador Web Full Stack.
-* Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
-* Mi primer programa fue en C programando el tipo de Microcontrolador PIC16F84A.
-* Me gustaría poder contribuir, en un futuro cercano, en el área de la Inteligencia Artifical y Microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos
-* Contribuyo y Apoyo al Movimiento del Software Libre.
+* Full Stack Web Developer.
+* Passionate about Programming, Computer Science, Robotics, Telecommunications, Electronics and Other Areas.
+* My first program was in C programming the PIC16F84A type of Microcontroller.
+* I would like to be able to contribute, in the near future, in the area of Artificial Intelligence and Microelectronics to help prevent and cure chronic diseases in Animals and Human Beings.
+* I contribute and support the Free Software Movement.
 
 </div>  
 
@@ -102,7 +102,7 @@
 <!-----------------------------------STACK LENGUAJES Y TECNOLOGÍAS ---------------------------------------------->
 
 ---
-## Lenguajes y Tecnologías
+## Languages and technologies
 
 <!------LENGUAJES METRIC------>
 
@@ -271,7 +271,7 @@
 <!-----------------------------------------REDES SOCIALES------------------------------------------------------->
 
 ---
-## Redes Sociales
+## Socials Networks
 
 </br>
 
@@ -280,7 +280,7 @@
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
 <img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" /></a> 
  
- ***(PROGRAMACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
+ ***( PROGRAMMING, ROBOTICS, COMPUTING AND MORE.. )*** ✔</a>  
 </div> 
  <!--FIN CANAL DE YOUTUBE-->
  
@@ -289,7 +289,7 @@
 <a href="https://gitlab.com/andres-weitzel" target="_blank">
 <img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" /></a> 
  
- ***(OTROS PROYECTOS..)*** ✔</a>  
+ ***( OTHERS PROJECTS.. )*** ✔</a>  
 </div> 
  <!--FIN GITLAB-->
  
@@ -298,7 +298,7 @@
 <a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
 <img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
  
- ***(CONEXIÓN LABORAL..)*** ✔</a>  
+ ***( WORK CONNECTION.. )*** ✔</a>  
 </div> 
  <!--FIN LINKEDIN-->
  
@@ -315,11 +315,11 @@
 ---
 <div align="center">
 
-## Proyectos y Desarrollos
+## Projects and developments
 
 </div>
  
- > Mis Proyectos, Códigos, Plantillas y Material los declaro OPEN SOURCE y Bajo [Licencia GNU GPL (GENERAL PUBLIC LICENSE)](https://www.gnu.org/licenses/gpl-3.0.html). 
+ > I declare my Projects, Codes, Templates and Material OPEN SOURCE and Under [Licence GNU GPL (GENERAL PUBLIC LICENSE)](https://www.gnu.org/licenses/gpl-3.0.html). 
 
 
 <br>
@@ -750,21 +750,21 @@
 <br>
 
 
- > He desarrollado en mayor o menor medida otros 27 proyectos de los cuáles 20 están incompletos/sin revisión y los otros 7 son proyectos a "gran escala personal" que están activos y en proceso de desarrollo, por ende, ambos al no ser funcionalmente aceptables no los incluyo. Algunos de ellos son:
- > *  Una Interfaz Gráfica de Comunicación entre un microcontrolador a través de http y wifi y una db, aplicando java, html5, css3, js vanilla, mysql, scripting y c++ .
- > *  Aplicación para recolección de mediciones de un sensor en tiempo real con un esp8266 y un módulo sensor infrarrojo
- > *  Desarrollo y Programación de un circuito electrónico para mediciones eléctricas de mi casa para digitalización y procesamiento usando un Arduino, varios módulos, C++, python, PHP y mysql como db.
- > * Sistema de Control de Temperatura para mi Habitación (Automatización de Ventilador y Estufa) con almacenamiento de datos
- > * Versionador de Software usando Spring Boot, Java NIO, Hibernate y Oracle
- > * Interfaz Gráfica tipo Dashboard implementando Python, Angular, Js Vanilla
- > * Migración de un Proyecto de Gestión desarrollado con Java 8 SE migrando a Hibernate-JPA.
- > * Aplicación de Escritorio para la gestión de tareas personales
- > * Otros
+> I have developed to a greater or lesser extent another 27 projects of which 20 are incomplete/without review and the other 7 are "large personal scale" projects that are active and in the process of development, therefore, both of which are not functionally acceptable I don't include them. Some of them are:
+> * A Graphical Communication Interface between a microcontroller through http and wifi and a db, applying java, html5, css3, vanilla js, mysql, scripting and c++.
+> * Application for collecting measurements from a sensor in real time with an esp8266 and an infrared sensor module
+> * Development and programming of an electronic circuit for electrical measurements of my house for digitization and processing using an Arduino, several modules, C++, python, PHP and mysql as db.
+> * Temperature Control System for my Room (Fan and Stove Automation) with data storage
+> * Software Versioner using Spring Boot, Java NIO, Hibernate and Oracle
+> * Dashboard-type Graphical Interface implementing Python, Angular, Vanilla Js
+> * Migration of a Management Project developed with Java 8 SE migrating to Hibernate-JPA.
+> * Desktop application for managing personal tasks
+> * Others
  
- > Los otros 5 proyectos a "gran escala personal" son : 
- > * Planificación de algoritmos (estilos bots) que ayuden a la codificación en paralelo ( idea planificada : Generación Automática de procedimientos almacenados y funciones en base de datos, tarea repetitiva y escalabilidad alta de código. Gran margen de error, revisión de código semi automatizada  )
- > * Aplicación Generadora de Contextualización Física (objetos, secuencias, ubicaciones) en base a una idea como parámetro de entrada para varios algoritmos de IA y Redes Neuronales (etapa de planificación general). La idea surgió en base a poder utilizar toda la potencia de renderizado actual de una cpu/gpu medianamente convencional
- > * Sistema de monitorización de presión y oxigenación sanguínea(estilo oxímetro) para prevenir insuficiencias cardiacas aplicando algoritmos de IA tanto para la manipulación de muestreos en vista dashboard en tiempo de recopilación  y manipulación de datos desde diferentes bases de datos (estilo microservicios) que almacenen las actividades, localizaciones y otras ideas en relación a la muestra obtenida, generación de reportes programados y gestión de revisión automática por algoritmos de detección según patrones médicos ingresados.
-> * Otros privados
+> The other 5 "large personal scale" projects are:
+> * Planning of algorithms (bot styles) that help parallel coding (planned idea: Automatic generation of stored procedures and functions in database, repetitive task and high code scalability. Large margin of error, semi-automated code review )
+> * Physical Contextualization Generator Application (objects, sequences, locations) based on an idea as an input parameter for various AI algorithms and Neural Networks (general planning stage). The idea arose based on being able to use all the current rendering power of a fairly conventional CPU/GPU.
+> * Blood pressure and oxygenation monitoring system (oximeter style) to prevent heart failure by applying AI algorithms both for the manipulation of sampling in dashboard view at the time of collection and manipulation of data from different databases (microservices style) that store activities, locations and other ideas in relation to the sample obtained, generation of scheduled reports and management of automatic review by detection algorithms according to entered medical patterns.
+> * Other private
 
 <!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
