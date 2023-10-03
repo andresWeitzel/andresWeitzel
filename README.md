@@ -3,7 +3,7 @@
 <img width="100%" height="50%"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
 </p>
 
-<p align="right">
+<p align="right" class="flagsForNotebook">
     <a href="https://github.com/andresWeitzel/andresWeitzel/blob/main/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/arg-flag.jpg" width="5%" height="5%" />
   </a> 
@@ -11,6 +11,29 @@
       <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/eeuu-flag.jpg" width="5%" height="5%" />
   </a> 
 </p>
+
+<p align="right" class="flagsForSmartphone">
+    <a href="https://github.com/andresWeitzel/andresWeitzel/blob/main/translations/README.es.md" target="_blank">
+      <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/arg-flag.jpg" width="10%" height="10%" />
+  </a> 
+   <a href="https://github.com/andresWeitzel/andresWeitzel" target="_blank">
+      <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
+  </a> 
+</p>
+
+<style>
+    @media only screen and (max-width: 680px) {
+        .flagsForNotebook{
+            display: none;
+        }
+    }
+
+    @media only screen and (min-width: 680px) {
+        .flagsForSmartphone{
+            display: none;
+        }
+    }
+</style> 
 
  
 <div align="center">
