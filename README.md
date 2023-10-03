@@ -3,11 +3,7 @@
 <img width="100%" height="50%"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
 </p>
 
-<p align="right" class="flagsForNotebook">
-   <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-    @media only screen and (max-width: 680px) {
+<p align="right" class="flagsForNotebook" style="@media only screen and (max-width: 680px) {
         .flagsForNotebook{
             display: none;
         }
@@ -16,10 +12,7 @@
          .flagsForSmartphone{
              display: none;
          }
-     }
- </style> 
-        </div>
-    </foreignObject>
+     }">
     <a href="https://github.com/andresWeitzel/andresWeitzel/blob/main/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/arg-flag.jpg" width="5%" height="5%" />
   </a> 
@@ -29,22 +22,6 @@
 </p>
 
 <p align="right" class="flagsForSmartphone">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-    @media only screen and (max-width: 680px) {
-        .flagsForNotebook{
-            display: none;
-        }
-    }
-     @media only screen and (min-width: 680px) {
-         .flagsForSmartphone{
-             display: none;
-         }
-     }
- </style> 
-        </div>
-    </foreignObject>
     <a href="https://github.com/andresWeitzel/andresWeitzel/blob/main/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/arg-flag.jpg" width="10%" height="10%" />
   </a> 
