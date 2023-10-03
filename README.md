@@ -332,14 +332,14 @@
  
  <br>
  
- - [Microservicio Mercadolibre para la gestión de usuarios](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [ Serverless-Framework, Mysql, Nodejs, Sequelize, etc ]
- - [Api Rest para el manejo estadístico de producción y ventas de bioetanol](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS) [ Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, etc.]
- - [BackupSystem_SQS_SNS_S3_DynamoDB_AWS Plantas Mineras](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [ SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Serverless-Framework, Lambda, etc. ]
- - [Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, Serverless-Framework etc ]
- - [CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless-Framework, etc ]
- - [App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, Serverless-Framework etc ]
- - [App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, Serverless-Framework etc ]
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
+  - [Mercadolibre microservice for user management](https://github.com/andresWeitzel/Microservice_Mercadolibre_Users_AWS) [ Serverless-Framework, Mysql, Nodejs, Sequelize, etc ]
+  - [Api Rest for statistical management of bioethanol production and sales](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS) [ Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, etc. ]
+  - [BackupSystem_SQS_SNS_S3_DynamoDB_AWS Mining Plants](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [ SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Serverless-Framework, Lambda, etc. ]
+  - [CRUD model for managing objects with Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, Serverless-Framework etc ]
+  - [CRUD of payments objects from Mercado Pago with DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless-Framework, etc ]
+  - [App for using the Amazon SQS service from AWS with FIFO queues](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, Serverless-Framework etc ]
+  - [CRUD App for using the Amazon SNS service](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, Serverless-Framework etc ]
+  - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
 
 <br>
 
@@ -351,20 +351,20 @@
 <!------API REST-MICROSERVICIOS------>
 
 <details >
- <summary> Api Rest & Microservicios </summary>
+ <summary> Rest Api's & Microservices </summary>
  
  <br>
  
- - [Microservicios acerca de inmuebles](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [ Spring MVC-JPA, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Resilience4J, etc ]
- - [Api Restful para productos de microelectrónica](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [ Spring Boot-MVC-Security-JPA, Lombok, Oracle, etc ]
- - [Api Rest para productos de Supermercado](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
- - [Api Rest Electrothings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
- - [Api Rest Pedidos Ya](https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS) [ NestJS, NodeJS, Typescript, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, etc. ]
- - [Api Rest dispositivos electrónicos](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [ Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, etc. ]
- - [ApiRest_Microcomponentes_](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [ Spring Boot-MVC-Security-JPA, Lombok, OracleXE, SpringFox, etc ]
- - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
- - [Proyecto MedMask Covid-19 ](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc ]
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)  
+  - [Microservices about real estate](https://github.com/andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot) [ Spring MVC-JPA, Spring Cloud Eureka, Grafana, Prometheus, ApiGateway, Resilience4J, etc ]
+  - [Restful Api for microelectronics products](https://github.com/andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle) [ Spring Boot-MVC-Security-JPA, Lombok, Oracle, etc ]
+  - [Api Rest for Supermarket products](https://github.com/andresWeitzel/ApiRest_MicroFrontEnd_ProductosSupermercado) [ Spring Boot-MVC-Security-JPA, JWT, SpringFox, PostgreSQL, etc ]
+  - [Api Rest Electrothings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
+  - [Api Rest Pedidos Ya](https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS) [ NestJS, NodeJS, Typescript, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, etc. ]
+  - [Api Rest electronic devices](https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS) [ Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, etc. ]
+  - [ApiRest_Microcomponentes_](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [ Spring Boot-MVC-Security-JPA, Lombok, OracleXE, SpringFox, etc ]
+  - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
+  - [MedMask Covid-19 Project](https://github.com/andresWeitzel/medmask) [PHP, Mysql, etc]
+  - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios) 
 
 <br>
 
@@ -375,12 +375,12 @@
 <!------GRAPHQL-MICROSERVICIOS------>
 
 <details >
- <summary> GraphQL & Microservicios </summary>
+ <summary> GraphQL & Microservices </summary>
  
  <br>
  
- - [Microservicio para la gestión de dispositivos Cisco](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [ GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, otros. ]
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)  
+  - [Microservice for Cisco device management](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL) [ GraphQL, Express, Apollo, NestJS, Typescript, NodeJS, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, others. ]
+  - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
 
 <br>
 
@@ -392,19 +392,19 @@
 <!------APLICACIONES WEB LIST------>
 
 <details >
- <summary> Aplicaciones Web </summary>
+ <summary> Web Applications </summary>
  
  <br>
  
- - [Portfolio Desarrollo de Software](https://github.com/andresWeitzel/Portfolio_Software_Developer) [ Angular, Bootstrap,Highcharts, GSAP, DialogFlow, etc ]
- - [MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [ React, Bootstrap, npm, etc ]
- - [Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf) [ Spring Boot, Spring Data JPA, Lombok, Thymeleaf, etc ]
- - [Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [ Spring MVC, Spring Data JPA, SpringFox, Oracle XE21c, etc ] 
- - [MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) [ Spring Boot, Spring Security, Spring MVC, Highchart, etc ]
- - [Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) [ Angular, Highcharts, Bootstrap, Spring MVC, Spring Security, JWT, SpringMongoDB, etc ] 
- - [Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app) [ Bootstrap, JSP, JDBC, Maven, Mysql, etc ]
- - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap) [ Bootstrap, Angular, Netlify, etc ]
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Web_App)  
+   - [Software Development Portfolio](https://github.com/andresWeitzel/Portfolio_Software_Developer) [ Angular, Bootstrap, Highcharts, GSAP, DialogFlow, etc.]
+   - [MicroFrontEnd and npm Module for the implementation of AI Models with NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [ React, Bootstrap, npm, etc ]
+   - [Web Application for Microelectronics Product Management](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf) [ Spring Boot, Spring Data JPA, Lombok, Thymeleaf, etc ]
+   - [MicroFrontEnd Microelectronics Web Application](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [ Spring MVC, Spring Data JPA, SpringFox, Oracle XE21c, etc ]
+   - [MicroFrontEnd about Supermarket Products](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado) [ Spring Boot, Spring Security, Spring MVC, Highchart, etc ]
+   - [ElectroThings Web Application](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB) [ Angular, Highcharts, Bootstrap, Spring MVC, Spring Security, JWT, SpringMongoDB, etc.]
+   - [IotProductosJsp_app Web Application](https://github.com/andresWeitzel/IotProductosJsp_app) [ Bootstrap, JSP, JDBC, Maven, Mysql, etc ]
+   - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap) [Bootstrap, Angular, Netlify, etc.]
+   - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Web_App)
 
 <br>
 
@@ -416,13 +416,13 @@
 <!------SITIOS WEB LIST------>
 
 <details>
- <summary> Sitios Web </summary>
+ <summary> Web Sites </summary>
  
  <br>
  
- - [Sitio Web acerca de Robótica](https://github.com/andresWeitzel/andresWeitzel.github.io) [ HTLM5, CSS3, Bootstrap, etc ]
- - [Sitio web acerca de Test's para el Área de IT](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, JS Nativo, API FullCalendar, etc ]
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Web_Sites) 
+  - [Website about Robotics](https://github.com/andresWeitzel/andresWeitzel.github.io) [HTLM5, CSS3, Bootstrap, etc]
+  - [Website about Test's for the IT Area](https://github.com/andresWeitzel/SitioWebTest_IT) [ Bootstrap, Native JS, FullCalendar API, etc ]
+  - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Web_Sites)
 
 <br>
 
@@ -432,15 +432,14 @@
 <!------APP DESKTOP LIST------>
 
 <details>
- <summary> Aplicaciones de Escritorio </summary>
+<summary> Desktop Applications </summary>
  
- <br>
+  <br>
  
- - [App para la gestión de empleados](https://github.com/andresWeitzel/Gestor_de_Empleados) [ Java8, Mysql, JFreeChart, JCommon, etc ]
- - [Proyecto fármaco_NTZ184](https://github.com/andresWeitzel/Farmaco_NTZ184) [ Java8, JDBC, Mysql, etc ]
- - [Gestor gastos personales](https://github.com/andresWeitzel/Gestor_Gastos_Personales) [ Java8, JDBC, Mysql, etc ]
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Desktop_App) 
-
+  - [App for employee management](https://github.com/andresWeitzel/Gestor_de_Empleados) [Java8, Mysql, JFreeChart, JCommon, etc]
+  - [Project pharmaco_NTZ184](https://github.com/andresWeitzel/Farmaco_NTZ184) [ Java8, JDBC, Mysql, etc ]
+  - [Personal expenses manager](https://github.com/andresWeitzel/Gestor_Gastos_Personales) [Java8, JDBC, Mysql, etc]
+  - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Desktop_App)
 
 <br>
 
@@ -452,24 +451,22 @@
 <!------BASE DE DATOS------>
 
 <details>
- <summary> Bases de datos </summary>
+<summary> Databases </summary>
   
- <br>
+  <br>
  
- - [Diseño, Modelado, Desarrollo, Programación, Gestión y Admin de una db de inmobiliaria ](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [ PostgreSQL, DBeaver, etc ]
- - [Base de Datos acerca de Dispositivos Electrónicos ](https://github.com/andresWeitzel/db_dispositivos_electronicos_postgreSQL) [ PostgreSQL, DBeaver, etc ]
- - [DB Mercado Libre productos, categorías, usuarios, etc](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [ Mysql, DBeaver, etc ]
- - [Microdb productos de Mercado Libre](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [ Mysql, DBeaver, etc ]
- - [DB PedidosYa envíos](https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL) [ Mysql ]
- - [Microdb Cisco devices](https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql) [ Mysql ]
- - [DB para componentes de microelectrónica](https://github.com/andresWeitzel/db_microelectronica_Oracle) [ Oracle XE21c, DBeaver, etc ]
- - [DB productos de electrónica](https://github.com/andresWeitzel/db_ElectroThings_MongoDB) [ MongoDB, MongoDB Compass, DBeaver, etc ]
- - [DB productos de supermercado](https://github.com/andresWeitzel/db_supermercado_PostgreSQL) [ PostgreSQL, SQLDeveloper, DBeaver, etc ]
- - [DB productos de indumentaria](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql) [ Mysql, DBeaver, etc]
- - Otros
- - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Database_Projects) 
-
- 
+  - [Design, Modeling, Development, Programming, Management and Admin of a real estate db](https://github.com/andresWeitzel/db_Inmobiliaria_PostgreSQL) [PostgreSQL, DBeaver, etc]
+  - [Database about Electronic Devices](https://github.com/andresWeitzel/db_dispósitos_electronicos_postgreSQL) [PostgreSQL, DBeaver, etc]
+  - [DB Mercado Libre products, categories, users, etc](https://github.com/andresWeitzel/Microdb_MercadoLibre_Mysql) [Mysql, DBeaver, etc]
+  - [Microdb Mercado Libre products](https://github.com/andresWeitzel/Microdb_MercadoLibre_Productos_Mysql) [Mysql, DBeaver, etc]
+  - [DB OrdersYa Envios](https://github.com/andresWeitzel/db_PedidosYaEnvios_MySQL) [ Mysql ]
+  - [Microdb Cisco devices](https://github.com/andresWeitzel/Microdb_Cisco_Devices_Mysql) [ Mysql ]
+  - [DB for microelectronics components](https://github.com/andresWeitzel/db_microelectronica_Oracle) [Oracle XE21c, DBeaver, etc]
+  - [DB electronics products](https://github.com/andresWeitzel/db_ElectroThings_MongoDB) [MongoDB, MongoDB Compass, DBeaver, etc]
+  - [DB supermarket products](https://github.com/andresWeitzel/db_supermercado_PostgreSQL) [PostgreSQL, SQLDeveloper, DBeaver, etc]
+  - [DB clothing products](https://github.com/andresWeitzel/Gestion_BaseDeDatos_Mysql) [Mysql, DBeaver, etc]
+  - Others
+  - [`Central Project Repository`](https://github.com/andresWeitzel/Database_Projects)
 <br>
 
 </details>
@@ -481,16 +478,15 @@
 <!------SISTEMAS EMBEBIDOS------>
 
 <details>
- <summary> Sistemas embebidos </summary>
+<summary> Embedded systems </summary>
  
- <br>
+  <br>
  
-- [Máquina de Estado con Memoria EEPROM y Multiplexación ](https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware) [ Arduino, Memoria EEPROM, Transistores 2N3904, Displays 7 Segmentos, Pulsadores, Leds, Potenciómetro, etc ]
-- [Sistema de Riego Automático para Plantas ](https://github.com/andresWeitzel/SistemaRiegoAutomatico/tree/master) [ Sensor YL-69, Sensor MH, Sensor MH-RD, Sensor PT-100, Módulo Relés, Módulo I2C / Display LCD, Módulo Buzzer, Arduino Uno, Leds y Resistores, etc ]
-- [Sistema de control para tanque de agua ](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua) [ Arduino mega, sensores, etc ]
-- [Sistema de sensado de control y temperatura ](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11) [ Esp8266, DHT11, etc ]
-- [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Embedded_System) 
-
+- [State Machine with EEPROM Memory and Multiplexing](https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware) [ Arduino, EEPROM Memory, 2N3904 Transistors, 7 Segment Displays, Push Buttons, Leds, Potentiometer, etc ]
+- [Automatic Plant Irrigation System](https://github.com/andresWeitzel/SistemaRiegoAutomatico/tree/master) [YL-69 Sensor, MH Sensor, MH-RD Sensor, PT-100 Sensor, Relay Module, I2C Module / LCD Display, Buzzer Module, Arduino Uno, Leds and Resistors, etc ]
+- [Control system for water tank](https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua) [Arduino mega, sensors, etc.]
+- [Control and temperature sensing system](https://github.com/andresWeitzel/Sensado_ESP8266_DHT11) [Esp8266, DHT11, etc]
+- [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Embedded_System)
 <br>
 
 </details>
@@ -519,7 +515,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/aws-img.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   
   
   </div>
@@ -537,7 +533,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest & Microservicios
+  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest & Microservices
 
 </div>  
 
@@ -549,7 +545,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/api-rest.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)
   
   
   </div>
@@ -568,7 +564,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservicios
+  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservices
 
 </div>  
 
@@ -580,7 +576,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/graphql.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
   
   
   </div>
@@ -599,7 +595,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web 
+  ##  <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Web Applications
 
 </div>  
 
@@ -611,7 +607,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/web-app.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_App)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Web_App)
   
   
   </div>
@@ -630,7 +626,7 @@
  
 <div align="center">
   
-## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web
+## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Web Sites
 
 </div>  
 
@@ -642,7 +638,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/webSites.jpg" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_Sites)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Web_Sites)
   
   
   </div>
@@ -661,7 +657,7 @@
  
 <div align="center">
   
-## <img width="30" height="30" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Aplicaciones de Escritorio
+## <img width="30" height="30" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Desktop App
 
 
 </div>  
@@ -674,7 +670,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/desktopApp.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Desktop_App)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Desktop_App)
   
   
   </div>
@@ -693,7 +689,7 @@
  
 <div align="center">
   
-## <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
+## <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Databases
 
 </div>  
 
@@ -705,7 +701,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/database.jpg" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Database_Projects)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Database_Projects)
   
   
   </div>
@@ -723,7 +719,7 @@
  
 <div align="center">
   
-## <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" />  Sistemas Embebidos
+## <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" />  Embedded Systems
 
 </div>  
 
@@ -735,7 +731,7 @@
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/embeddedSystem.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Embedded_System)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Embedded_System)
   
   
   </div>
