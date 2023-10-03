@@ -5,10 +5,10 @@
 
 <p align="right">
     <a href="https://github.com/andresWeitzel/andresWeitzel/blob/main/translations/README.es.md" target="_blank">
-      <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/arg-flag.jpg" width="5%" height="5%" />
+      <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/andresWeitzel" target="_blank">
-      <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/eeuu-flag.jpg" width="5%" height="5%" />
+      <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </p>
 
