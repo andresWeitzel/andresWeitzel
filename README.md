@@ -1,16 +1,16 @@
- <!-----------------------------------------PRESSENTACIÓN------------------------------------------------------->
-<p align="center" width="100%">
-<img width="100%" height="50%"  src="https://github.com/andresWeitzel/Graphics/blob/main/Gifs/serverraum-v02.gif" />
-</p>
+ <!----------Presentation---------------->
+<div align="center" width="100%">
+<img width="100%" height="50%"  src="./assets/gifs/social-networks/central-network.gif" />
+</div>
 
-<p align="right">
+<div align="right">
     <a href="https://github.com/andresWeitzel/andresWeitzel/blob/main/translations/README.es.md" target="_blank">
       <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/translation/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/andresWeitzel" target="_blank">
       <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/translation/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
-</p>
+</div>
 
  
 <div align="center">
@@ -29,9 +29,7 @@
 
 </div>  
 
-
-
-<!-----------------------------------------FIN PRESSENTACIÓN------------------------------------------------------->
+ <!----------End Presentation---------------->
 
 </br>
 
