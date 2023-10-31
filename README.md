@@ -27,6 +27,7 @@
 * I would like to be able to contribute, in the near future, in the area of Artificial Intelligence and Microelectronics to help prevent and cure chronic diseases in Animals and Human Beings.
 * I contribute and support the Free Software Movement.
 
+
 </div>  
 
  <!----------End Presentation---------------->
