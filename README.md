@@ -246,17 +246,17 @@
 * Embedded System Stack
 
 <div style="display: inline-block;">
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/raspberry.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/arduino.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/esp8266.png" />
-  <img width="35" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
-  <img width="45" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/micropython.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/microchip.png" />
-   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/piccompiler.png" />
-    <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/thonny.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/c++.png" />
+    <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/raspberry.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/arduino.png" />
+    <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/esp8266.png" />
+  <img width="35" height="40" src="./assets/img/technology-stack/embedded-systems/iot.png" />
+  <img width="45" height="40" src="./assets/img/technology-stack/embedded-systems/fritzing.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/micropython.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/microchip.png" />
+   <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/piccompiler.png" />
+    <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/thonny.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/linux.png" />
 </div>
 
 <!------FIN EMBEDDED SYSTEM STACK------>
@@ -277,7 +277,7 @@
 <!--CANAL DE YOUTUBE-->
 <div>
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" /></a> 
+<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="./assets/gifs/social-networks/youtubeLogo.gif" /></a> 
  
  ***( PROGRAMMING, ROBOTICS, COMPUTING AND MORE.. )*** ✔</a>  
 </div> 
@@ -286,7 +286,7 @@
  <!--GITLAB-->
 <div>
 <a href="https://gitlab.com/andres-weitzel" target="_blank">
-<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" /></a> 
+<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="./assets/gifs/social-networks/gitlab.gif"/></a> 
  
  ***( OTHERS PROJECTS.. )*** ✔</a>  
 </div> 
@@ -295,13 +295,13 @@
   <!--LINKEDIN-->
 <div>
 <a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
-<img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
+<img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="./assets/gifs/social-networks/linkedin.gif" /></a> 
  
  ***( WORK CONNECTION.. )*** ✔</a>  
 </div> 
  <!--FIN LINKEDIN-->
  
-<!-----------------------------------------FIN REDES SOCIALES------------------------------------------------------->
+<!--------FIN REDES SOCIALES---------------------->
 
 <br>
 <br>
@@ -309,7 +309,7 @@
 
 
 
-<!-----------------------------------------PROYECTOS------------------------------------------------------->
+<!---------PROYECTOS------------------------->
 
 ---
 <div align="center">
