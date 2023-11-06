@@ -809,10 +809,5 @@
  > * Aplicación de Escritorio para la gestión de tareas personales
  > * Otros
  
- > Los otros 5 proyectos a "gran escala personal" son : 
- > * Planificación de algoritmos (estilos bots) que ayuden a la codificación en paralelo ( idea planificada : Generación Automática de procedimientos almacenados y funciones en base de datos, tarea repetitiva y escalabilidad alta de código. Gran margen de error, revisión de código semi automatizada  )
- > * Aplicación Generadora de Contextualización Física (objetos, secuencias, ubicaciones) en base a una idea como parámetro de entrada para varios algoritmos de IA y Redes Neuronales (etapa de planificación general). La idea surgió en base a poder utilizar toda la potencia de renderizado actual de una cpu/gpu medianamente convencional
- > * Sistema de monitorización de presión y oxigenación sanguínea(estilo oxímetro) para prevenir insuficiencias cardiacas aplicando algoritmos de IA tanto para la manipulación de muestreos en vista dashboard en tiempo de recopilación  y manipulación de datos desde diferentes bases de datos (estilo microservicios) que almacenen las actividades, localizaciones y otras ideas en relación a la muestra obtenida, generación de reportes programados y gestión de revisión automática por algoritmos de detección según patrones médicos ingresados.
-> * Otros privados
 
 <!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
