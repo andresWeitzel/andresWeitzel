@@ -803,10 +803,5 @@
 > * Desktop application for managing personal tasks
 > * Others
  
-> The other 5 "large personal scale" projects are:
-> * Planning of algorithms (bot styles) that help parallel coding (planned idea: Automatic generation of stored procedures and functions in database, repetitive task and high code scalability. Large margin of error, semi-automated code review )
-> * Physical Contextualization Generator Application (objects, sequences, locations) based on an idea as an input parameter for various AI algorithms and Neural Networks (general planning stage). The idea arose based on being able to use all the current rendering power of a fairly conventional CPU/GPU.
-> * Blood pressure and oxygenation monitoring system (oximeter style) to prevent heart failure by applying AI algorithms both for the manipulation of sampling in dashboard view at the time of collection and manipulation of data from different databases (microservices style) that store activities, locations and other ideas in relation to the sample obtained, generation of scheduled reports and management of automatic review by detection algorithms according to entered medical patterns.
-> * Other private
 
 <!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
