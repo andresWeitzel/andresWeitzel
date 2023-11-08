@@ -46,15 +46,7 @@
 
 <br>
 
- <!------RECENT ACTIVITIES------>
-<div style="display: inline-block;">
-  
-![Metrics](./metrics.plugin.activity.svg)
 
-</div>
-<!------FIN RECENT ACTIVITIES------>
-
-<br>
 
 <!------CALENDARIO METRICS------>
 
@@ -80,17 +72,16 @@
 
 <br>
 
-
-
-<!------CÓDIGO COMMITS METRICS------>
-
+ <!------RECENT ACTIVITIES------>
 <div style="display: inline-block;">
   
-![Lines-History](./metrics.plugin.lines.history.svg)
+![Metrics](./metrics.plugin.activity.svg)
 
 </div>
+<!------FIN RECENT ACTIVITIES------>
 
-<!------FIN CÓDIGO COMMITS METRICS------>
+<br>
+
 
 <!------------FIN ESTADISTICAS------------------>
 
