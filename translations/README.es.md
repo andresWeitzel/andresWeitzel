@@ -71,27 +71,15 @@
 
 <br>
 
-<!------LICENCIAS METRICS------>
-
+ <!------RECENT ACTIVITIES------>
 <div style="display: inline-block;">
   
-![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.licenses.ratio.svg)
+![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.activity.svg)
 
 </div>
-
-<!------FIN LICENCIAS METRICS------>
+<!------FIN RECENT ACTIVITIES------>
 
 <br>
-
-<!------CÓDIGO COMMITS METRICS------>
-
-<div style="display: inline-block;">
-  
-![Lines-History](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.lines.history.svg)
-
-</div>
-
-<!------FIN CÓDIGO COMMITS METRICS------>
 
 <!--------------------------FIN ESTADISTICAS------------------------------------->
 
