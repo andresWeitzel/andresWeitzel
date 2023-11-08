@@ -46,6 +46,16 @@
 
 <br>
 
+ <!------RECENT ACTIVITIES------>
+<div style="display: inline-block;">
+  
+![Metrics](./metrics.plugin.activity.svg)
+
+</div>
+<!------FIN RECENT ACTIVITIES------>
+
+<br>
+
 <!------CALENDARIO METRICS------>
 
 <div style="display: inline-block;">
@@ -70,17 +80,7 @@
 
 <br>
 
-<!------LICENCIAS METRICS------>
 
-<div style="display: inline-block;">
-  
-![Metrics](./metrics.plugin.licenses.ratio.svg)
-
-</div>
-
-<!------FIN LICENCIAS METRICS------>
-
-<br>
 
 <!------CÓDIGO COMMITS METRICS------>
 

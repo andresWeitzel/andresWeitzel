@@ -1,6 +1,6 @@
-name: Metrics
+name: Recent activity
 on:
-  # Schedule updates (each hour)
+  # Schedule updates
   schedule: [{cron: "0 23 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   push: {branches: ["master", "main"]}
@@ -12,13 +12,10 @@ jobs:
       
     - uses: lowlighter/metrics@latest
       with:
-          name : Licencias
-          filename: metrics.plugin.licenses.ratio.svg
+          filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-          plugin_licenses_legal: no
-          plugin_licenses_ratio: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
