@@ -15,7 +15,7 @@
  
 <div align="center">
   
-#  <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> My profile  
+#  <img width="50" height="40"  src="./assets/gifs/spheres/world-blue-sphere.gif" /> My profile  
 
 </div>  
  
@@ -46,18 +46,6 @@
 
 <br>
 
-<!------CALENDARIO METRICS------>
-
-<div style="display: inline-block;">
-  
-![Full-Year-Calendar](./metrics.plugin.isocalendar.svg)
-  
-</div>
-
-<!------FIN CALENDARIO METRICS------>
-
-<br>
-
 <!------NOTABLE CONTRIBUTION METRICS------>
 
 <div style="display: inline-block;">
@@ -67,6 +55,18 @@
 </div>
 
 <!------FIN NOTABLE CONTRIBUTION METRICS------>
+
+<br>
+
+<!------CALENDARIO METRICS------>
+
+<div style="display: inline-block;">
+  
+![Full-Year-Calendar](./metrics.plugin.isocalendar.svg)
+  
+</div>
+
+<!------FIN CALENDARIO METRICS------>
 
 <br>
 
@@ -92,12 +92,11 @@
 
 <br>
 
+<br>
+
 
 <!------------FIN ESTADISTICAS------------------>
 
-
-  
-<br>
 
 <!-----STACK LENGUAJES Y TECNOLOGÍAS ------------>
 

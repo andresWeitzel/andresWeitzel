@@ -15,7 +15,7 @@
  
 <div align="center">
   
-#  <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/fb4dbe3a8f97a5c52568a23dd97d15-unscreen.gif" /> Mi Perfil  
+#  <img width="50" height="40"  src="./assets/gifs/spheres/world-blue-sphere.gif" /> Mi Perfil  
 
 </div>  
  
@@ -47,18 +47,6 @@
 
 <br>
 
-<!------CALENDARIO METRICS------>
-
-<div style="display: inline-block;">
-  
-![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.svg)
-  
-</div>
-
-<!------FIN CALENDARIO METRICS------>
-
-<br>
-
 <!------NOTABLE CONTRIBUTION METRICS------>
 
 <div style="display: inline-block;">
@@ -67,9 +55,24 @@
   
 </div>
 
-<!------FIN NOTABLE CONTRIBUTION METRICS------>
 
 <br>
+
+<!------CALENDARIO METRICS------>
+
+<div style="display: inline-block;">
+  
+![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.svg)
+  
+</div>
+
+<br>
+
+
+<!------FIN CALENDARIO METRICS------>
+
+
+<!------FIN NOTABLE CONTRIBUTION METRICS------>
 
 
 <!------HÁBITOS METRICS------>
@@ -93,13 +96,15 @@
 
 <br>
 
-<!--------------------------FIN ESTADISTICAS------------------------------------->
-
-
   
 <br>
 
-<!-----------------------------------STACK LENGUAJES Y TECNOLOGÍAS ---------------------------------------------->
+
+<!---------FIN ESTADISTICAS----------->
+
+
+
+<!------STACK LENGUAJES Y TECNOLOGÍAS ------------>
 
 ---
 ## Lenguajes y Tecnologías
@@ -110,21 +115,22 @@
 
 * Frontend Stack
 
+
 <div style="display: inline-block;">
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
-  <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
-  <img width="35" height="36" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="45" height="37" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/js.png" />
-   <img width="45" height="37" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angularMaterial.png" />
-  <img width="38" height="36" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/typescript.png" />
-  <img width="38" height="36" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/reactJs.png" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/jquery.png" />
-   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/high.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/thymeleaf.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/sublime.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/frontend/html5.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/frontend/css3.png" />
+  <img width="42" height="44" src="./assets/img/technology-stack/frontend/scss.png" />
+  <img width="35" height="36" src="./assets/img/technology-stack/frontend/bootstrap.png" />
+  <img width="45" height="37" src="./assets/img/technology-stack/frontend/js.png" />
+   <img width="45" height="37" src="./assets/img/technology-stack/frontend/angularMaterial.png" />
+  <img width="38" height="36" src="./assets/img/technology-stack/frontend/typescript.png" />
+  <img width="38" height="36" src="./assets/img/technology-stack/frontend/reactJs.png" />
+  <img width="45" height="44" src="./assets/img/technology-stack/frontend/jquery.png" />
+   <img width="45" height="45" src="./assets/img/technology-stack/frontend/high.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/frontend/angular.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/frontend/vsc.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/frontend/thymeleaf.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/frontend/sublime.png" />
 <div>
 <!------FIN FRONTEND STACK------>
 
@@ -135,24 +141,24 @@
 * Backend Stack
 
 <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sequelize.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/nodeJs.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-   <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/jsf.png" />
-  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
- <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img width="50" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="43" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/log4j.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/eclipse.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/netbeans.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
- <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
-   <img width="45" height="46" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/cmd.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/postman.png" />
+   <img width="40" height="40" src="./assets/img/technology-stack/backend/sequelize.png" />
+   <img width="40" height="40" src="./assets/img/technology-stack/backend/nodeJs.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/backend/java.png" />
+  <img width="40" height="38" src="./assets/img/technology-stack/backend/springBoot.png" />
+  <img width="40" height="38" src="./assets/img/technology-stack/backend/hibernate.png" />
+   <img width="45" height="44" src="./assets/img/technology-stack/backend/jsf.png" />
+  <img width="35" height="35" src="./assets/img/technology-stack/backend/graphql.png" />
+  <img width="45" height="44" src="./assets/img/technology-stack/backend/maven.png" />
+ <img width="35" height="35" src="./assets/img/technology-stack/backend/nestjs.png" />
+  <img width="50" height="55" src="./assets/img/technology-stack/backend/lombok.png" />
+  <img width="43" height="42" src="./assets/img/technology-stack/backend/log4j.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/backend/eclipse.png" />
+  <img width="44" height="44" src="./assets/img/technology-stack/backend/netbeans.png" />
+  <img width="44" height="44" src="./assets/img/technology-stack/backend/sts.png" />
+ <img width="40" height="40" src="./assets/img/technology-stack/backend/express.png" /> 
+   <img width="45" height="46" src="./assets/img/technology-stack/backend/cmd.png" />
+  <img width="44" height="44" src="./assets/img/technology-stack/backend/git.png" />
+  <img width="44" height="44" src="./assets/img/technology-stack/backend/postman.png" />
 <div>
 <!------FIN BACKEND STACK------>
 
@@ -163,13 +169,13 @@
 * WebService Stack
 
 <div style="display: inline-block;">
-  <img width="42" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/microservices.png" />
-  <img width="42" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/apirest.jpg" />
-  <img width="50" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/swagger.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/openapi.png" />
-  <img width="50" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/springcloud.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/grafana.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/webservice/prometheus.png" />
+  <img width="42" height="42" src="./assets/img/technology-stack/webservice/microservices.png" />
+  <img width="42" height="42" src="./assets/img/technology-stack/webservice/apirest.jpg" />
+  <img width="50" height="50" src="./assets/img/technology-stack/webservice/swagger.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/webservice/openapi.png" />
+  <img width="50" height="45" src="./assets/img/technology-stack/webservice/springcloud.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/webservice/grafana.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/webservice/prometheus.png" />
 <div>
 
 <!------FIN WEBSERVICE STACK------>
@@ -181,13 +187,13 @@
 * AWS Stack
 
 <div style="display: inline-block;">
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/lambda.png" />
-  <img width="42" height="52" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/s3.png" />
-  <img width="58" height="56" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/api-gateway.png" />
-  <img width="38" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/sqs.png" />
-  <img width="45" height="52" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/DynamoDB.png" />
-  <img width="40" height="52" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/rds.png" />
-  <img width="50" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/aws/parameterStore.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/aws/lambda.png" />
+  <img width="42" height="52" src="./assets/img/technology-stack/aws/s3.png" />
+  <img width="58" height="56" src="./assets/img/technology-stack/aws/api-gateway.png" />
+  <img width="38" height="50" src="./assets/img/technology-stack/aws/sqs.png" />
+  <img width="45" height="52" src="./assets/img/technology-stack/aws/DynamoDB.png" />
+  <img width="40" height="52" src="./assets/img/technology-stack/aws/rds.png" />
+  <img width="50" height="50" src="./assets/img/technology-stack/aws/parameterStore.png" />
 </div>
 
 <!------FIN AWS STACK------>
@@ -200,18 +206,14 @@
 * Database Stack
 
 <div style="display: inline-block;">
-    <img width="45" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" /> 
-   <img width="47" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mysql.png" /> 
-   <img width="43" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/workbeanch.png" /> 
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
-    <img width="55" height="55" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongo.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/mongodb-compass.png" />
-     <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/firebase.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/dbeaver.png" />
-     <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/xampp.png" />
-  <div>
+  <img width="45" height="45" src="./assets/img/technology-stack/aws/lambda.png" />
+  <img width="42" height="52" src="./assets/img/technology-stack/aws/s3.png" />
+  <img width="58" height="56" src="./assets/img/technology-stack/aws/api-gateway.png" />
+  <img width="38" height="50" src="./assets/img/technology-stack/aws/sqs.png" />
+  <img width="45" height="52" src="./assets/img/technology-stack/aws/DynamoDB.png" />
+  <img width="40" height="52" src="./assets/img/technology-stack/aws/rds.png" />
+  <img width="50" height="50" src="./assets/img/technology-stack/aws/parameterStore.png" />
+</div>
 
   <!------FIN DATABASE STACK------>
 
@@ -222,12 +224,12 @@
 * Data Science Stack
 
 <div style="display: inline-block;">
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/python.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/numpy.png" />
-  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/pandas.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/matplotlib.png" />
-  <img width="42" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/pycharm.png" />
-  <img width="40" height="42" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/datascience/jupyter.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/backend/python.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/datascience/numpy.png" />
+  <img width="38" height="35" src="./assets/img/technology-stack/datascience/pandas.png" />
+    <img width="40" height="40" src="./assets/img/technology-stack/datascience/matplotlib.png" />
+  <img width="42" height="44" src="./assets/img/technology-stack/datascience/pycharm.png" />
+  <img width="40" height="42" src="./assets/img/technology-stack/datascience/jupyter.png" />
 </div>
 <!------FIN DATASCIENCE STACK------>
 
@@ -238,17 +240,17 @@
 * Embedded System Stack
 
 <div style="display: inline-block;">
-   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/raspberry.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/arduino.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/esp8266.png" />
-  <img width="35" height="40" src="https://cdn-icons-png.flaticon.com/512/6080/6080697.png" />
-  <img width="45" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/fritzing_94885.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/micropython.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/microchip.png" />
-   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/piccompiler.png" />
-    <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/embebed/thonny.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/c++.png" />
+    <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/raspberry.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/arduino.png" />
+    <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/esp8266.png" />
+  <img width="35" height="40" src="./assets/img/technology-stack/embedded-systems/iot.png" />
+  <img width="45" height="40" src="./assets/img/technology-stack/embedded-systems/fritzing.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/micropython.png" />
+  <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/microchip.png" />
+   <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/piccompiler.png" />
+    <img width="45" height="45" src="./assets/img/technology-stack/embedded-systems/thonny.png" />
+  <img width="40" height="40" src="./assets/img/technology-stack/embedded-systems/linux.png" />
 </div>
 
 <!------FIN EMBEDDED SYSTEM STACK------>
