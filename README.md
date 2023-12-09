@@ -607,7 +607,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
+  ##  <img width="40" height="40" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
 
 </div>  
 
@@ -638,7 +638,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="38"   src="./assets/gifs/stacks/web-app.gif" /> Web Applications
+  ##  <img width="45" height="38"   src="./assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -669,7 +669,7 @@
  
 <div align="center">
   
-## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Web Sites
+## <img width="50" height="40"  src="./assets/gifs/stacks/websites.gif" /> Web Sites
 
 </div>  
 
@@ -700,7 +700,7 @@
  
 <div align="center">
   
-## <img width="30" height="30" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Desktop App
+## <img width="30" height="30" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
 
 
 </div>  
