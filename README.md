@@ -46,8 +46,6 @@
 
 <br>
 
-
-
 <!------CALENDARIO METRICS------>
 
 <div style="display: inline-block;">
@@ -57,6 +55,18 @@
 </div>
 
 <!------FIN CALENDARIO METRICS------>
+
+<br>
+
+<!------NOTABLE CONTRIBUTION METRICS------>
+
+<div style="display: inline-block;">
+  
+![Notable-Contributions](./metrics.plugin.notable.indepth.svg)
+  
+</div>
+
+<!------FIN NOTABLE CONTRIBUTION METRICS------>
 
 <br>
 
@@ -93,15 +103,6 @@
 
 ---
 ## Languages and technologies
-
-<!------LENGUAJES METRIC------>
-
-<div style="display: inline-block;">
-  
-![Most-Used-languages](./metrics.plugin.languages.details.svg)
-  
-</div>
-<!------FIN LENGUAJES METRIC------>
 
 <br>
 
