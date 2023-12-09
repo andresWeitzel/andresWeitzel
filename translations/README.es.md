@@ -5,10 +5,10 @@
 
 <div align="right">
     <a href="./README.es.md" target="_blank">
-      <img src=".../assets/img/translation/arg-flag.jpg" width="10%" height="10%" />
+      <img src="../assets/img/translation/arg-flag.jpg" width="10%" height="10%" />
   </a> 
    <a href="https://github.com/andresWeitzel/andresWeitzel" target="_blank">
-      <img src=".../assets/img/translation/eeuu-flag.jpg" width="10%" height="10%" />
+      <img src="../assets/img/translation/eeuu-flag.jpg" width="10%" height="10%" />
   </a> 
 </div>
 
