@@ -46,18 +46,6 @@
 
 <br>
 
-<!------NOTABLE CONTRIBUTION METRICS------>
-
-<div style="display: inline-block;">
-  
-![Notable-Contributions](./metrics.plugin.notable.indepth.svg)
-  
-</div>
-
-<!------FIN NOTABLE CONTRIBUTION METRICS------>
-
-<br>
-
 <!------CALENDARIO METRICS------>
 
 <div style="display: inline-block;">
@@ -68,8 +56,21 @@
 
 <!------FIN CALENDARIO METRICS------>
 
+
 <br>
 
+<!------NOTABLE CONTRIBUTION METRICS------>
+
+<div style="display: inline-block;">
+  
+![Notable-Contributions](./metrics.plugin.notable.indepth.svg)
+  
+</div>
+
+<!------FIN NOTABLE CONTRIBUTION METRICS------>
+
+
+<br>
 
 <!------HÁBITOS METRICS------>
 
