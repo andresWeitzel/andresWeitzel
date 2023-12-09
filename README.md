@@ -545,7 +545,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest & Microservices
+  ##  <img width="38" height="35" src="./assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
 
 </div>  
 
@@ -576,7 +576,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservices
+  ##  <img width="38" height="35" src="./assets/gifs/stacks/graphql.gif" />  GraphQL & Microservices
 
 </div>  
 
@@ -607,7 +607,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  RPC & Microservices
+  ##  <img width="38" height="35" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
 
 </div>  
 
