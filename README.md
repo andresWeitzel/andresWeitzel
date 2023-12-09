@@ -700,7 +700,7 @@
  
 <div align="center">
   
-## <img width="40" height="33" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
+## <img width="45" height="32" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
 
 
 </div>  
@@ -732,7 +732,7 @@
  
 <div align="center">
   
-## <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Databases
+## <img width="40" height="35" src="./assets/gifs/stacks/database.gif" /> Databases
 
 </div>  
 
@@ -762,7 +762,7 @@
  
 <div align="center">
   
-## <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" />  Embedded Systems
+## <img width="40" height="40" src="./assets/gifs/stacks/embedded-system.gif" />  Embedded Systems
 
 </div>  
 
