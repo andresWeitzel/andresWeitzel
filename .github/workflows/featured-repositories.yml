@@ -15,4 +15,4 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_repositories: yes
-        plugin_repositories_featured: andresWeitzel/Material_de_Estudio, /andresWeitzel/App_MicroFrontEnd_Productos_Supermercado, /andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB
+        plugin_repositories_featured: andresWeitzel/Material_de_Estudio, andresWeitzel/App_MicroFrontEnd_Productos_Supermercado, andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB
