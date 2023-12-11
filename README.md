@@ -93,6 +93,17 @@
 
 <br>
 
+
+ <!------FEATURED REPOSITORIES------>
+<div style="display: inline-block;">
+  
+![Featured-repositories](./metrics.plugin.featured.repositories.svg)
+
+</div>
+<!------FIN FEATURED REPOSITORIES------>
+
+<br>
+
 <br>
 
 
@@ -607,7 +618,7 @@
  
 <div align="center">
   
-  ##  <img width="45" height="42" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
+  ##  <img width="48" height="42" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
 
 </div>  
 
