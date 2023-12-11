@@ -69,6 +69,16 @@
 
 <!------FIN NOTABLE CONTRIBUTION METRICS------>
 
+<br>
+
+ <!------FEATURED REPOSITORIES------>
+<div style="display: inline-block;">
+  
+![Featured-repositories](./metrics.plugin.featured.repositories.svg)
+
+</div>
+<!------FIN FEATURED REPOSITORIES------>
+
 
 <br>
 
@@ -91,16 +101,6 @@
 </div>
 <!------FIN RECENT ACTIVITIES------>
 
-<br>
-
-
- <!------FEATURED REPOSITORIES------>
-<div style="display: inline-block;">
-  
-![Featured-repositories](./metrics.plugin.featured.repositories.svg)
-
-</div>
-<!------FIN FEATURED REPOSITORIES------>
 
 <br>
 
