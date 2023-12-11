@@ -732,7 +732,7 @@
  
 <div align="center">
   
-## <img width="45" height="38" src="./assets/gifs/stacks/database.gif" /> Databases
+## <img width="50" height="38" src="./assets/gifs/stacks/database.gif" /> Databases
 
 </div>  
 
