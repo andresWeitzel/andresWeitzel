@@ -46,6 +46,17 @@
 
 <br>
 
+ <!------FEATURED REPOSITORIES------>
+<div style="display: inline-block;">
+  
+![Featured-repositories](./metrics.plugin.featured.repositories.svg)
+
+</div>
+<!------FIN FEATURED REPOSITORIES------>
+
+
+<br>
+
 <!------CALENDARIO METRICS------>
 
 <div style="display: inline-block;">
@@ -55,7 +66,6 @@
 </div>
 
 <!------FIN CALENDARIO METRICS------>
-
 
 <br>
 
@@ -71,16 +81,6 @@
 
 <br>
 
- <!------FEATURED REPOSITORIES------>
-<div style="display: inline-block;">
-  
-![Featured-repositories](./metrics.plugin.featured.repositories.svg)
-
-</div>
-<!------FIN FEATURED REPOSITORIES------>
-
-
-<br>
 
 <!------HÁBITOS METRICS------>
 
