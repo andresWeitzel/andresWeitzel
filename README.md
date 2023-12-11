@@ -607,7 +607,7 @@
  
 <div align="center">
   
-  ##  <img width="40" height="40" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
+  ##  <img width="45" height="42" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
 
 </div>  
 
@@ -732,7 +732,7 @@
  
 <div align="center">
   
-## <img width="40" height="35" src="./assets/gifs/stacks/database.gif" /> Databases
+## <img width="45" height="38" src="./assets/gifs/stacks/database.gif" /> Databases
 
 </div>  
 
@@ -762,7 +762,7 @@
  
 <div align="center">
   
-## <img width="40" height="40" src="./assets/gifs/stacks/embedded-system.gif" />  Embedded Systems
+## <img width="40" height="38" src="./assets/gifs/stacks/embedded-system.gif" />  Embedded Systems
 
 </div>  
 
