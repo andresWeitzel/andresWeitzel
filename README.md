@@ -54,19 +54,6 @@
 </div>
 <!------FIN FEATURED REPOSITORIES------>
 
-
-<br>
-
-<!------CALENDARIO METRICS------>
-
-<div style="display: inline-block;">
-  
-![Full-Year-Calendar](./metrics.plugin.isocalendar.svg)
-  
-</div>
-
-<!------FIN CALENDARIO METRICS------>
-
 <br>
 
 <!------NOTABLE CONTRIBUTION METRICS------>
@@ -78,6 +65,19 @@
 </div>
 
 <!------FIN NOTABLE CONTRIBUTION METRICS------>
+
+<br>
+
+
+<!------CALENDARIO METRICS------>
+
+<div style="display: inline-block;">
+  
+![Full-Year-Calendar](./metrics.plugin.isocalendar.svg)
+  
+</div>
+
+<!------FIN CALENDARIO METRICS------>
 
 <br>
 
