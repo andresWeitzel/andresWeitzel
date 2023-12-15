@@ -57,6 +57,16 @@
 
 <!------FIN CALENDARIO METRICS------>
 
+<br>
+
+ <!------FEATURED REPOSITORIES------>
+<div style="display: inline-block;">
+  
+![Featured-repositories](./metrics.plugin.featured.repositories.svg)
+
+</div>
+ <!------FIN FEATURED REPOSITORIES------>
+
 
 <br>
 
@@ -544,7 +554,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" />  Api-Rest & Microservicios
+  ##   <img width="40" height="38" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservicios
 
 </div>  
 
@@ -575,7 +585,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  GraphQL & Microservicios
+  ##  <img width="45" height="40" src="../assets/gifs/stacks/graphql.gif" />   GraphQL & Microservicios
 
 </div>  
 
@@ -606,7 +616,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" />  RPC & Microservices
+  ##  <img width="48" height="42" src="../assets/gifs/stacks/grpc.gif"/>  RPC & Microservices
 
 </div>  
 
@@ -638,7 +648,7 @@
  
 <div align="center">
   
-  ##  <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web 
+  ##  <img width="55" height="38" src="../assets/gifs/stacks/web-app.gif" /> Aplicaciones Web 
 
 </div>  
 
@@ -669,7 +679,7 @@
  
 <div align="center">
   
-## <img width="50" height="40"  src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere01-unscreen.gif" /> Sitios Web
+## <img width="52" height="35" src="../assets/gifs/stacks/websites.gif"/> Sitios Web
 
 </div>  
 
@@ -700,7 +710,7 @@
  
 <div align="center">
   
-## <img width="30" height="30" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere06-unscreen.gif" /> Aplicaciones de Escritorio
+## <img width="45" height="32" src="../assets/gifs/stacks/desktop-app.gif"/> Aplicaciones de Escritorio
 
 
 </div>  
@@ -732,7 +742,7 @@
  
 <div align="center">
   
-## <img width="40" height="35" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere05-unscreen.gif" /> Bases de Datos
+## <img width="55" height="40" src="../assets/gifs/stacks/database.gif"/> Bases de Datos
 
 </div>  
 
@@ -762,7 +772,7 @@
  
 <div align="center">
   
-## <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere11-unscreen.gif" />  Sistemas Embebidos
+## <img width="40" height="38" src="./assets/gifs/stacks/embedded-system.gif"/>  Sistemas Embebidos
 
 </div>  
 

@@ -649,7 +649,7 @@
  
 <div align="center">
   
-  ##  <img width="55" height="38"   src="./assets/gifs/stacks/web-app.gif" /> Web Applications
+  ##  <img width="55" height="38" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -680,7 +680,7 @@
  
 <div align="center">
   
-## <img width="52" height="35"  src="./assets/gifs/stacks/websites.gif" /> Web Sites
+## <img width="52" height="35" src="./assets/gifs/stacks/websites.gif" /> Web Sites
 
 </div>  
 
@@ -743,7 +743,7 @@
  
 <div align="center">
   
-## <img width="55" height="40" src="./assets/gifs/stacks/database.gif" /> Databases
+## <img width="55" height="40" src="./assets/gifs/stacks/database.gif"/> Databases
 
 </div>  
 
@@ -773,7 +773,7 @@
  
 <div align="center">
   
-## <img width="40" height="38" src="./assets/gifs/stacks/embedded-system.gif" />  Embedded Systems
+## <img width="40" height="38" src="./assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
 
 </div>  
 
