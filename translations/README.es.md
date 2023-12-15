@@ -772,7 +772,7 @@
  
 <div align="center">
   
-## <img width="40" height="38" src="./assets/gifs/stacks/embedded-system.gif"/>  Sistemas Embebidos
+## <img width="40" height="38" src="../assets/gifs/stacks/embedded-system.gif"/>  Sistemas Embebidos
 
 </div>  
 
