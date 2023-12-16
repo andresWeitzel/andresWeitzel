@@ -40,7 +40,7 @@
  <!------GENERALES METRICS------>
 <div style="display: inline-block;">
   
-![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/github-metrics.svg)
+![Metrics](../github-metrics.svg)
 
 </div>
 <!------FIN GENERALES METRICS------>
@@ -51,7 +51,7 @@
 
 <div style="display: inline-block;">
   
-![Full-Year-Calendar](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.isocalendar.svg)
+![Full-Year-Calendar](../metrics.plugin.isocalendar.svg)
   
 </div>
 
@@ -62,7 +62,7 @@
  <!------FEATURED REPOSITORIES------>
 <div style="display: inline-block;">
   
-![Featured-repositories](./metrics.plugin.featured.repositories.svg)
+![Featured-repositories](../metrics.plugin.featured.repositories.svg)
 
 </div>
  <!------FIN FEATURED REPOSITORIES------>
@@ -87,7 +87,7 @@
 
 <div style="display: inline-block;">
   
-![Activities-Charts](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.habits.charts.svg)
+![Activities-Charts](../metrics.plugin.habits.charts.svg)
 
 </div>
 <!------FIN HÁBITOS METRICS------>
@@ -97,19 +97,16 @@
  <!------RECENT ACTIVITIES------>
 <div style="display: inline-block;">
   
-![Metrics](https://github.com/andresWeitzel/andresWeitzel/blob/main/metrics.plugin.activity.svg)
+![Metrics](../metrics.plugin.activity.svg)
 
 </div>
 <!------FIN RECENT ACTIVITIES------>
 
-<br>
-
-  
-<br>
-
-
 <!---------FIN ESTADISTICAS----------->
 
+<br>
+  
+<br>
 
 
 <!------STACK LENGUAJES Y TECNOLOGÍAS ------------>
@@ -122,7 +119,6 @@
 <!------FRONTEND STACK------>
 
 * Frontend Stack
-
 
 <div style="display: inline-block;">
   <img width="40" height="40" src="../assets/img/technology-stack/frontend/html5.png" />
@@ -263,13 +259,13 @@
 
 <!------FIN EMBEDDED SYSTEM STACK------>
 
-<!--------------------------------FIN STACK LENGUAJES Y TECNOLOGÍAS ------------------------------------------->
+<!-----FIN STACK LENGUAJES Y TECNOLOGÍAS------->
 
 
 <br>
 
 
-<!-----------------------------------------REDES SOCIALES------------------------------------------------------->
+<!--------REDES SOCIALES------------>
 
 ---
 ## Redes Sociales
@@ -279,7 +275,7 @@
 <!--CANAL DE YOUTUBE-->
 <div>
 <a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" /></a> 
+<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="../assets/gifs/social-networks/youtubeLogo.gif" /></a> 
  
  ***(PROGRAMACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
 </div> 
@@ -288,7 +284,7 @@
  <!--GITLAB-->
 <div>
 <a href="https://gitlab.com/andres-weitzel" target="_blank">
-<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/gitlab.gif" /></a> 
+<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="../assets/gifs/social-networks/gitlab.gif" /></a> 
  
  ***(OTROS PROYECTOS..)*** ✔</a>  
 </div> 
@@ -297,7 +293,7 @@
   <!--LINKEDIN-->
 <div>
 <a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
-<img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/linkedinGif.gif" /></a> 
+<img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="../assets/gifs/social-networks/linkedin.gif" /></a> 
  
  ***(CONEXIÓN LABORAL..)*** ✔</a>  
 </div> 
@@ -532,9 +528,9 @@
 
 <div align="center">
   
-  <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/aws-img.jpg" >
-  </a>
+<a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
+  <img src="../assets/img/projects-developments/aws-img.jpg" >
+</a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   
@@ -554,7 +550,7 @@
  
 <div align="center">
   
-  ##   <img width="40" height="38" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservicios
+  ## <img width="40" height="38" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservicios
 
 </div>  
 
@@ -563,7 +559,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/api-rest.png" >
+  <img src="../assets/img/projects-developments/api-rest.png" >
   </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)
@@ -594,7 +590,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/graphql.png" >
+  <img src="../assets/img/projects-developments/graphql.png" >
   </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
@@ -625,7 +621,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/RPC_Microservices_Projects" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/RPC.jpg" >
+  <img src="../assets/img/projects-developments/RPC.jpg" >
   </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/RPC_Microservices_Projects)
@@ -657,7 +653,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Web_App" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/web-app.jpg" >
+  <img src="../assets/img/projects-developments/web-app.jpg" >
   </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_App)
@@ -688,7 +684,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Web_Sites" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/webSites.jpg" >
+  <img src="../assets/img/projects-developments/webSites.jpg" >
   </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_Sites)
@@ -720,7 +716,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Desktop_App" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/desktop-app.jpg" >
+  <img src="../assets/img/projects-developments/desktop-app.jpg" >
   </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Desktop_App)
@@ -751,7 +747,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Database_Projects" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/database.jpg" >
+  <img src="../assets/img/projects-developments/database.jpg" >
   </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Database_Projects)
@@ -780,9 +776,9 @@
 
 <div align="center">
   
-  <a href="https://github.com/andresWeitzel/Proyectos_Embedded_System" target="_blank">
-  <img src="https://github.com/andresWeitzel/andresWeitzel/blob/main/assets/img/projects-developments/embeddedSystem.jpg" >
-  </a>
+<a href="https://github.com/andresWeitzel/Proyectos_Embedded_System" target="_blank">
+  <img src="../assets/img/projects-developments/embeddedSystem.jpg" >
+</a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Embedded_System)
   
@@ -811,4 +807,4 @@
  > * Otros
  
 
-<!-----------------------------------------FIN PROYECTOS------------------------------------------------------->
+<!------FIN PROYECTOS------------>
