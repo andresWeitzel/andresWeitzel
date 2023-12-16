@@ -1,0 +1,18 @@
+name: Featured repositories
+on:
+  # Schedule updates
+  schedule: [{cron: "0 23 * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.featured.repositories.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_repositories: yes
+        plugin_repositories_featured: andresWeitzel/Material_de_Estudio, andresWeitzel/Microservicios_Spring_Cloud_Netflix_Spring_Boot, andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB, andresWeitzel/App_MicroFrontEnd_Productos_Supermercado, andresWeitzel/Modulo_GPT-J-6B_NLP_NodeJs, andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf, andresWeitzel/Microservicio_ProductosSupermercado, andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB, andresWeitzel/ApiRest_Microelectronica_SpringBoot_Oracle, andresWeitzel/MaquinaDeEstado_EEPROM_Hardware

@@ -1,0 +1,20 @@
+name: Recent activity
+on:
+  # Schedule updates
+  schedule: [{cron: "0 23 * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lowlighter/metrics@latest
+      with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 15
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
