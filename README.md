@@ -336,6 +336,7 @@
   - [BackupSystem_SQS_SNS_S3_DynamoDB_AWS Mining Plants](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [ SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Serverless-Framework, Lambda, etc. ]
   - [CRUD model for managing objects with Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, Serverless-Framework etc. ]
   - [CRUD of payments objects from Mercado Pago with DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless-Framework, etc. ]
+  - [Microservice OpenWeather Nodejs Jest](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [ NodeJS, Jest, Serverless-Framework, etc. ]
   - [App for using the Amazon SQS service from AWS with FIFO queues](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, Serverless-Framework etc. ]
   - [CRUD App for using the Amazon SNS service](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, Serverless-Framework etc. ]
   - Others.
@@ -363,6 +364,7 @@
   - [Api Rest electronic devices](https://github.com/andresWeitzel/ApiRest_Dispósitos_Electronicos_ExpressJS) [ Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, etc. ]
   - [Api Rest for statistical management of bioethanol production and sales](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS) [ Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, etc. ]
   - [ApiRest_Microcomponentes_](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [ Spring Boot-MVC-Security-JPA, Lombok, OracleXE, SpringFox, etc. ]
+  - [Microservice OpenWeather Nodejs Jest](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [ NodeJS, Jest, Serverless-Framework, etc. ]
   - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc. ]
   - [MedMask Covid-19 Project](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc. ]
   - Others.
