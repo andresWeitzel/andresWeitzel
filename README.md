@@ -367,6 +367,7 @@
   - [Centralized Version Control System Nodejs](https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs) [ TypeScript, NodeJs, ExpressJS, etc. ]
   - [Microservice Paypal Orders Express](https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express) [ Typescript, NodeJS, Express, etc. ]
   - [Microservice OpenWeather Nodejs Jest](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [ NodeJS, Jest, Serverless-Framework, etc. ]
+  - [Microservice Employess NestJS](https://github.com/andresWeitzel/Microservice_Employees_NestJS) [ NestJS, Typescript, TypeORM, etc. ]
   - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc. ]
   - [MedMask Covid-19 Project](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc. ]
   - Others.
