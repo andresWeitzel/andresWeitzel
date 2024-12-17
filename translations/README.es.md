@@ -56,6 +56,15 @@
 </div>
  <!------FIN FEATURED REPOSITORIES------>
 
+ <br>
+
+ <!------RECENT ACTIVITIES------>
+<div style="display: inline-block;">
+  
+![Metrics](../metrics.plugin.activity.svg)
+
+</div>
+<!------FIN RECENT ACTIVITIES------>
 
 
 <!---------FIN ESTADISTICAS----------->
