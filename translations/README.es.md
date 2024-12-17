@@ -47,17 +47,6 @@
 
 <br>
 
-<!------CALENDARIO METRICS------>
-
-<div style="display: inline-block;">
-  
-![Full-Year-Calendar](../metrics.plugin.isocalendar.svg)
-  
-</div>
-
-<!------FIN CALENDARIO METRICS------>
-
-<br>
 
  <!------FEATURED REPOSITORIES------>
 <div style="display: inline-block;">
@@ -68,39 +57,6 @@
  <!------FIN FEATURED REPOSITORIES------>
 
 
-<br>
-
-<!------NOTABLE CONTRIBUTION METRICS------>
-
-<div style="display: inline-block;">
-  
-![Notable-Contributions](../metrics.plugin.notable.indepth.svg)
-  
-</div>
-
-<!------FIN NOTABLE CONTRIBUTION METRICS------>
-
-<br>
-
-
-<!------HÁBITOS METRICS------>
-
-<div style="display: inline-block;">
-  
-![Activities-Charts](../metrics.plugin.habits.charts.svg)
-
-</div>
-<!------FIN HÁBITOS METRICS------>
-
-<br>
-
- <!------RECENT ACTIVITIES------>
-<div style="display: inline-block;">
-  
-![Metrics](../metrics.plugin.activity.svg)
-
-</div>
-<!------FIN RECENT ACTIVITIES------>
 
 <!---------FIN ESTADISTICAS----------->
 
