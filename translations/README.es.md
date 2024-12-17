@@ -290,6 +290,7 @@
  - [BackupSystem_SQS_SNS_S3_DynamoDB_AWS Plantas Mineras](https://github.com/andresWeitzel/BackupSystem_SQS_SNS_S3_DynamoDB_AWS) [ SQS, SNS, Typescript, S3, DynamoDB, Api Gateway, Cloudwatch, Serverless-Framework, Lambda, etc. ]
  - [Modelo CRUD para el manejo de objetos con Amazon S3](https://github.com/andresWeitzel/CRUD_Amazon_S3_AWS) [ Amazon S3, Nodejs, Api Gateway, Serverless-Framework etc ]
  - [CRUD de objetos payments de Mercado pago con DynamoDB](https://github.com/andresWeitzel/CRUD_Amazon_DynamoDB_AWS) [ DynamoDB, Typescript, Serverless-Framework, etc ]
+ - [Microservicio OpenWeather Nodejs Jest](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [ NodeJS, Jest, Serverless-Framework, etc. ]
  - [App para el uso del servicio Amazon SQS de AWS con colas FIFO](https://github.com/andresWeitzel/Producer_Consumer_SQS_FIFO_AWS) [ NodeJs, ElasticMQ, Amazon SQS, Serverless-Framework etc ]
  - [App CRUD para el uso del servicio Amazon SNS](https://github.com/andresWeitzel/CRUD_SNS_NodeJS_AWS) [ Amazon SNS, SSM, NodeJs, Serverless-Framework etc ]
  - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
@@ -314,7 +315,12 @@
  - [Api Rest Electrothings](https://github.com/andresWeitzel/ApiRest_ElectroThingsV1_SpringBoot_MongoDB) [ Spring Boot-MVC-Security-JPA, Lombok, MongoDB, etc ]
  - [Api Rest Pedidos Ya](https://github.com/andresWeitzel/ApiRest_PedidosYaEnvios_NestJS) [ NestJS, NodeJS, Typescript, TypeORM, dotenv, cors, swagger, swagger-ui, MySQL, etc. ]
  - [Api Rest dispositivos electrónicos](https://github.com/andresWeitzel/ApiRest_Dispositivos_Electronicos_ExpressJS) [ Express, Morgan, NodeJS, Sequelize, dotenv, cors, express-validator, nodemon, swagger, swagger-ui, PostgreSQL, etc. ]
+ - [Api Rest para el manejo estadístico de producción y ventas de bioetanol](https://github.com/andresWeitzel/Api_Bioetanol_Estadisticas_DynamoDB_AWS) [ Serverless-Framework, Api-Gateway, NodeJs, DynamoDB, Systems Manager Parameter Store, Lambda, etc.]
+ - [Sistema de control de versiones centralizado](https://github.com/andresWeitzel/Centralized_Version_Control_System_V1_Nodejs) [ TypeScript, NodeJs, ExpressJS, etc. ]
  - [ApiRest_Microcomponentes_](https://github.com/andresWeitzel/ApiRest_Microcomponentes_SpringBoot) [ Spring Boot-MVC-Security-JPA, Lombok, OracleXE, SpringFox, etc ]
+ - [Microservicio Paypal Orders Express](https://github.com/andresWeitzel/Microservice_Paypal_Orders_Express) [ Typescript, NodeJS, Express, etc. ]
+ - [Microservicio OpenWeather Nodejs Jest](https://github.com/andresWeitzel/Microservice_OpenWeather_Nodejs_Jest_AWS) [ NodeJS, Jest, Serverless-Framework, etc. ]
+ - [Microservicio Empleados NestJS](https://github.com/andresWeitzel/Microservice_Employees_NestJS) [ NestJS, Typescript, TypeORM, etc. ]
  - [CRUD Api Rest ](https://github.com/andresWeitzel/Api_Rest_Spring_Productos) [ Spring Boot, JPA-Hibernate, Mysql, etc ]
  - [Proyecto MedMask Covid-19 ](https://github.com/andresWeitzel/medmask) [ PHP, Mysql, etc ]
  - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)  
