@@ -89,7 +89,7 @@
 
 <div style="display: inline-block;">
   <img width="40" height="40" alt="HTML5 Icon" src="../assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" alt="CSS3 Icon" src="../assets/icons/frontend/png/css3.png" />
+  <img width="40" height="40" alt="CSS3 Icon" src="../assets/icons/frontend/png/css.png" />
   <img width="42" height="44" alt="SCSS Icon" src="../assets/icons/frontend/png/scss.png" />
   <img width="45" height="37" alt="JavaScript Icon" src="../assets/icons/frontend/png/js.png" />
   <img width="40" height="40" alt="Vite Icon" src="../assets/icons/frontend/png/vite.png" />
@@ -99,14 +99,12 @@
   <img width="38" height="36" alt="ReactJS Icon" src="../assets/icons/frontend/png/react-js.png" />
   <img width="38" height="38" alt="Next.js Icon" src="../assets/icons/frontend/png/nextjs.png" />
   <img width="45" height="44" alt="jQuery Icon" src="../assets/icons/frontend/png/jquery.png" />
-  <img width="45" height="45" alt="Visual Studio Code Icon" src="../assets/icons/devops/png/vsc.png" />
   <img width="40" height="40" alt="Material UI Icon" src="../assets/icons/frontend/png/material-ui.png" />
   <img width="45" height="45" alt="Highcharts Icon" src="../assets/icons/frontend/png/highchart.png" />
   <img width="40" height="40" alt="Angular Icon" src="../assets/icons/frontend/png/angular.png" />
-  <img width="45" height="45" alt="Thymeleaf Icon" src="../assets/icons/backend/java/png/thymeleaf.png" />
+  <img width="38" height="38" alt="Thymeleaf Icon" src="../assets/icons/backend/java/png/thymeleaf.png" />
   <img width="40" height="40" alt="GSAP Icon" src="../assets/icons/frontend/png/gsap.png" />
   <img width="40" height="40" alt="Vitest Icon" src="../assets/icons/frontend/png/vitest.png" />
-  <img width="45" height="45" alt="Sublime Text Icon" src="../assets/icons/frontend/png/sublime.png" />
   <img width="45" height="45" alt="Primefaces Icon" src="../assets/icons/backend/java/png/primefaces.png" />
 </div>
 
