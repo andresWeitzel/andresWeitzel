@@ -88,7 +88,7 @@
 * Frontend Stack
 
 <div style="display: inline-block;">
-  <img width="40" height="40" src="../assets/img/technology-stack/frontend/html5.png" />
+  <img width="40" height="40" alt="HTML5 Icon" src="../assets/icons/frontend/svg/html.svg" />
   <img width="40" height="40" src="../assets/img/technology-stack/frontend/css3.png" />
   <img width="42" height="44" src="../assets/img/technology-stack/frontend/scss.png" />
   <img width="35" height="36" src="../assets/img/technology-stack/frontend/bootstrap.png" />
