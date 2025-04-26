@@ -88,19 +88,25 @@
 * Frontend Stack
 
 <div style="display: inline-block;">
-  <img width="40" height="40" alt="HTML5 Icon" src="../assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" alt="HTML5 Icon" src="../assets/icons/frontend/png/html.png" />
   <img width="40" height="40" src="../assets/img/technology-stack/frontend/css3.png" />
   <img width="42" height="44" src="../assets/img/technology-stack/frontend/scss.png" />
   <img width="35" height="36" src="../assets/img/technology-stack/frontend/bootstrap.png" />
+ <img width="40" height="40" alt="Redux Icon" src="../assets/icons/frontend/png/redux.png" />
+ <img width="40" height="40" alt="Vite Icon" src="../assets/icons/frontend/png/vite.png" />
   <img width="45" height="37" src="../assets/img/technology-stack/frontend/js.png" />
    <img width="45" height="37" src="../assets/img/technology-stack/frontend/angularMaterial.png" />
-  <img width="38" height="36" src="../assets/img/technology-stack/frontend/typescript.png" />
   <img width="38" height="36" src="../assets/img/technology-stack/frontend/reactJs.png" />
+ <img width="40" height="40" alt="Nextjs Icon" src="../assets/icons/frontend/png/nextjs.png" />
+    <img width="38" height="36" src="../assets/img/technology-stack/frontend/typescript.png" />
   <img width="45" height="44" src="../assets/img/technology-stack/frontend/jquery.png" />
+ <img width="45" height="45" src="../assets/img/technology-stack/frontend/vsc.png" />
+ <img width="40" height="40" alt="Material UI Icon" src="../assets/icons/frontend/png/material-ui.png" />
    <img width="45" height="45" src="../assets/img/technology-stack/frontend/high.png" />
   <img width="40" height="40" src="../assets/img/technology-stack/frontend/angular.png" />
-  <img width="45" height="45" src="../assets/img/technology-stack/frontend/vsc.png" />
   <img width="45" height="45" src="../assets/img/technology-stack/frontend/thymeleaf.png" />
+ <img width="40" height="40" alt="GSAP Icon" src="../assets/icons/frontend/png/gsap.png" />
+ <img width="40" height="40" alt="Vitest Icon" src="../assets/icons/frontend/png/vitest.png" />
   <img width="45" height="45" src="../assets/img/technology-stack/frontend/sublime.png" />
 <div>
 <!------FIN FRONTEND STACK------>
