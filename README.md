@@ -114,8 +114,16 @@
 * Backend Stack
 
 <div style="display: inline-block;">
-   <img width="40" height="40" src="./assets/img/technology-stack/backend/sequelize.png" />
-   <img width="40" height="40" src="./assets/img/technology-stack/backend/nodeJs.png" />
+   <img width="40" height="40" alt="Nodejs Icon" src="./assets/icons/backend/javascript-typescript/png/node-js.png" />
+   <img width="40" height="38" alt="Spring Boot Icon" src="./assets/icons/backend/java/png/spring-boot.png" />
+   <img width="40" height="38" alt="Spring Batch Icon" src="./assets/icons/backend/java/png/spring-batch.png" />
+   <img width="40" height="38" alt="Spring Security Icon" src="./assets/icons/backend/java/png/spring-security.png" />
+   <img width="40" height="38" alt="Spring WebFlux Icon" src="./assets/icons/backend/java/png/spring-webflux.png" />
+   <img width="40" height="38" alt="Spring Tool Suite Icon" src="./assets/icons/backend/java/png/sts.png" />
+   <img width="40" height="38" alt="JUnit Icon" src="./assets/icons/backend/java/png/junit.png" />
+
+ 
+<!--    <img width="40" height="40" src="./assets/img/technology-stack/backend/sequelize.png" />
   <img width="45" height="45" src="./assets/img/technology-stack/backend/java.png" />
   <img width="40" height="38" src="./assets/img/technology-stack/backend/springBoot.png" />
   <img width="40" height="38" src="./assets/img/technology-stack/backend/hibernate.png" />
@@ -131,7 +139,7 @@
  <img width="40" height="40" src="./assets/img/technology-stack/backend/express.png" /> 
    <img width="45" height="46" src="./assets/img/technology-stack/backend/cmd.png" />
   <img width="44" height="44" src="./assets/img/technology-stack/backend/git.png" />
-  <img width="44" height="44" src="./assets/img/technology-stack/backend/postman.png" />
+  <img width="44" height="44" src="./assets/img/technology-stack/backend/postman.png" /> -->
 <div>
 <!------FIN BACKEND STACK------>
 
