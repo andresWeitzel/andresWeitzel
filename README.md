@@ -75,9 +75,12 @@
 
 <!-----STACKS TECHNICAL EXPERIENCE ------------>
 
+
+<div align="center">
+
 ## Technical experience
 
-<br>
+</div>
 
 <!------FRONTEND STACK------>
 
@@ -234,16 +237,18 @@
 
 <!---------FIN STACKS TECHNICAL EXPERIENCE --------->
 
-
 <br>
-
+<br>
+<br>
 <br>
 
 <!------------REDES SOCIALES------------------>
 
+<div align="center">
+
 ## Socials Networks
 
-</br>
+</div>
 
 <!--CANAL DE YOUTUBE-->
 <div>
@@ -275,7 +280,8 @@
 <!--------FIN REDES SOCIALES---------------------->
 
 <br>
-
+<br>
+<br>
 <br>
 
 <!---------PROYECTOS------------------------->
