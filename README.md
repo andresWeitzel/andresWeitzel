@@ -114,13 +114,13 @@
 * Backend Stack
 
 <div style="display: inline-block;">
-   <img width="40" height="40" alt="Nodejs Icon" src="./assets/icons/backend/javascript-typescript/png/node-js.png" />
-   <img width="40" height="38" alt="Spring Boot Icon" src="./assets/icons/backend/java/png/spring-boot.png" />
-   <img width="40" height="38" alt="Spring Batch Icon" src="./assets/icons/backend/java/png/spring-batch.png" />
-   <img width="40" height="38" alt="Spring Security Icon" src="./assets/icons/backend/java/png/spring-security.png" />
+   <img width="40" height="40" alt="Nodejs Icon" src="./assets/icons/backend/javascript-typescript/png/nodejs.png" />
+   <img width="38" height="36" alt="Spring Boot Icon" src="./assets/icons/backend/java/png/spring-boot.png" />
+   <img width="38" height="36" alt="Spring Batch Icon" src="./assets/icons/backend/java/png/spring-batch.png" />
+   <img width="40" height="36" alt="Spring Security Icon" src="./assets/icons/backend/java/png/spring-security.png" />
    <img width="40" height="38" alt="Spring WebFlux Icon" src="./assets/icons/backend/java/png/spring-webflux.png" />
    <img width="40" height="38" alt="Spring Tool Suite Icon" src="./assets/icons/backend/java/png/sts.png" />
-   <img width="40" height="38" alt="JUnit Icon" src="./assets/icons/backend/java/png/junit.png" />
+   <img width="38" height="36" alt="JUnit Icon" src="./assets/icons/backend/java/png/junit.png" />
 
  
 <!--    <img width="40" height="40" src="./assets/img/technology-stack/backend/sequelize.png" />
