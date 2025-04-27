@@ -73,10 +73,10 @@
 <br>
 
 
-<!-----STACK LENGUAJES Y TECNOLOGÍAS ------------>
+<!-----STACKS TECHNICAL EXPERIENCE ------------>
 
 ---
-## Languages and technologies
+## Technical experience
 
 <br>
 
@@ -233,7 +233,7 @@
 
 <!------FIN EMBEDDED SYSTEM STACK------>
 
-<!---------FIN STACK LENGUAJES Y TECNOLOGÍAS --------->
+<!---------FIN STACKS TECHNICAL EXPERIENCE --------->
 
 
 <br>
