@@ -122,16 +122,16 @@
    <img width="42" height="40" alt="Spring Tool Suite Icon" src="./assets/icons/backend/java/png/sts.png" />
    <img width="36" height="34" alt="JUnit Icon" src="./assets/icons/backend/java/png/junit.png" />
    <img width="45" height="45" alt="Java Icon" src="./assets/icons/backend/java/png/java.png" />
-   <img width="50" height="55" alt="Lombok Icon" src="./assets/icons/backend/java/png/lombok.png" />
-   <img width="35" height="35" alt="NestJS Icon" src="./assets/icons/backend/java/png/nestjs.png" />
+   <img width="50" height="53" alt="Lombok Icon" src="./assets/icons/backend/java/png/lombok.png" />
+   <img width="35" height="35" alt="NestJS Icon" src="./assets/icons/backend/javascript-typescript/png/nestjs.png" />
+   <img width="45" height="44" alt="JSF Icon" src="./assets/icons/backend/java/png/jsf.png" />
+   <img width="43" height="42" alt="Log4j Icon" src="./assets/icons/backend/java/png/log-four-j.png" />
 
  
 <!--    <img width="40" height="40" src="./assets/img/technology-stack/backend/sequelize.png" />
   <img width="40" height="38" src="./assets/img/technology-stack/backend/hibernate.png" />
-   <img width="45" height="44" src="./assets/img/technology-stack/backend/jsf.png" />
   <img width="35" height="35" src="./assets/img/technology-stack/backend/graphql.png" />
   <img width="45" height="44" src="./assets/img/technology-stack/backend/maven.png" />
-  <img width="43" height="42" src="./assets/img/technology-stack/backend/log4j.png" />
   <img width="40" height="40" src="./assets/img/technology-stack/backend/eclipse.png" />
   <img width="44" height="44" src="./assets/img/technology-stack/backend/netbeans.png" />
  <img width="40" height="40" src="./assets/img/technology-stack/backend/express.png" /> 
