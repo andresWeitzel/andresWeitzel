@@ -76,10 +76,9 @@
 <br>
 
 
-<!------STACK LENGUAJES Y TECNOLOGÍAS ------------>
+<!------STACK EXPERIENCIA TÉCNICA ------------>
 
----
-## Lenguajes y Tecnologías
+## Experiencia Técnica
 
 <br>
 
@@ -232,15 +231,17 @@
 
 <!------FIN EMBEDDED SYSTEM STACK------>
 
-<!-----FIN STACK LENGUAJES Y TECNOLOGÍAS------->
+<!-----FIN EXPERIENCIA TÉCNICA ------->
 
 
+<br>
+<br>
+<br>
 <br>
 
 
 <!--------REDES SOCIALES------------>
 
----
 ## Redes Sociales
 
 </br>
@@ -277,18 +278,13 @@
 <br>
 <br>
 <br>
-
+<br>
 
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
----
-<div align="center">
-
 ## Proyectos y Desarrollos
 
-</div>
- 
  > Mis Proyectos, Códigos, Plantillas y Material los declaro OPEN SOURCE y Bajo [Licencia GNU GPL (GENERAL PUBLIC LICENSE)](https://www.gnu.org/licenses/gpl-3.0.html). 
 
 
