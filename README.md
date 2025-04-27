@@ -237,10 +237,10 @@
 
 <br>
 
+<br>
 
 <!------------REDES SOCIALES------------------>
 
----
 ## Socials Networks
 
 </br>
@@ -275,12 +275,12 @@
 <!--------FIN REDES SOCIALES---------------------->
 
 <br>
-<br>
+
 <br>
 
 <!---------PROYECTOS------------------------->
 
----
+
 <div align="center">
 
 ## Projects and developments
