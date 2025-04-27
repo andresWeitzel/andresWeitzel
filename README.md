@@ -70,8 +70,6 @@
 
 <br>
 
-<br>
-
 <!------------REDES SOCIALES------------------>
 
 ## Socials Networks
@@ -105,6 +103,7 @@
  
 <!--------FIN REDES SOCIALES---------------------->
 
+<br>
 <br>
 <br>
 
