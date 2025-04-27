@@ -121,11 +121,11 @@
    <img width="40" height="38" alt="Spring WebFlux Icon" src="./assets/icons/backend/java/png/spring-webflux.png" />
    <img width="42" height="40" alt="Spring Tool Suite Icon" src="./assets/icons/backend/java/png/sts.png" />
    <img width="36" height="34" alt="JUnit Icon" src="./assets/icons/backend/java/png/junit.png" />
-   <img width="45" height="45" alt="Java Icon" src="./assets/icons/backend/java/png/java.png" />
-   <img width="50" height="53" alt="Lombok Icon" src="./assets/icons/backend/java/png/lombok.png" />
    <img width="35" height="35" alt="NestJS Icon" src="./assets/icons/backend/javascript-typescript/png/nestjs.png" />
+   <img width="50" height="53" alt="Lombok Icon" src="./assets/icons/backend/java/png/lombok.png" />
+   <img width="45" height="45" alt="Java Icon" src="./assets/icons/backend/java/png/java.png" />
    <img width="45" height="44" alt="JSF Icon" src="./assets/icons/backend/java/png/jsf.png" />
-   <img width="43" height="42" alt="Log4j Icon" src="./assets/icons/backend/java/png/log-four-j.png" />
+   <img width="41" height="40" alt="Log4j Icon" src="./assets/icons/backend/java/png/log-four-j.png" />
 
  
 <!--    <img width="40" height="40" src="./assets/img/technology-stack/backend/sequelize.png" />
