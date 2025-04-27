@@ -76,11 +76,7 @@
 <!-----STACKS TECHNICAL EXPERIENCE ------------>
 
 
-<div align="center">
-
 ## Technical experience
-
-</div>
 
 <!------FRONTEND STACK------>
 
@@ -244,11 +240,7 @@
 
 <!------------REDES SOCIALES------------------>
 
-<div align="center">
-
 ## Socials Networks
-
-</div>
 
 <!--CANAL DE YOUTUBE-->
 <div>
@@ -286,13 +278,8 @@
 
 <!---------PROYECTOS------------------------->
 
-
-<div align="center">
-
 ## Projects and developments
 
-</div>
- 
  > I declare my Projects, Codes, Templates and Material OPEN SOURCE and Under [Licence GNU GPL (GENERAL PUBLIC LICENSE)](https://www.gnu.org/licenses/gpl-3.0.html). 
 
 
