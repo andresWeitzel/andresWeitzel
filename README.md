@@ -75,7 +75,6 @@
 
 <!-----STACKS TECHNICAL EXPERIENCE ------------>
 
----
 ## Technical experience
 
 <br>
