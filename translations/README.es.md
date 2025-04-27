@@ -72,7 +72,42 @@
 <!---------FIN ESTADISTICAS----------->
 
 <br>
-  
+
+<!------------REDES SOCIALES------------------>
+
+## Socials Networks
+
+<!--CANAL DE YOUTUBE-->
+<div>
+<a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
+<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="./assets/gifs/social-networks/youtubeLogo.gif" /></a> 
+ 
+ ***( PROGRAMMING, ROBOTICS, COMPUTING AND MORE.. )*** ✔</a>  
+</div> 
+ <!--FIN CANAL DE YOUTUBE-->
+ 
+ <!--GITLAB-->
+<div>
+<a href="https://gitlab.com/andres-weitzel" target="_blank">
+<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="./assets/gifs/social-networks/gitlab.gif"/></a> 
+ 
+ ***( OTHERS PROJECTS.. )*** ✔</a>  
+</div> 
+ <!--FIN GITLAB-->
+ 
+  <!--LINKEDIN-->
+<div>
+<a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
+<img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="./assets/gifs/social-networks/linkedin.gif" /></a> 
+ 
+ ***( WORK CONNECTION.. )*** ✔</a>  
+</div> 
+ <!--FIN LINKEDIN-->
+ 
+<!--------FIN REDES SOCIALES---------------------->
+
+<br>
+<br>
 <br>
 
 
@@ -233,53 +268,9 @@
 
 <!-----FIN EXPERIENCIA TÉCNICA ------->
 
-
-<br>
-<br>
-<br>
 <br>
 
-
-<!--------REDES SOCIALES------------>
-
-## Redes Sociales
-
-</br>
-
-<!--CANAL DE YOUTUBE-->
-<div>
-<a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
-<img align="left" alt="andresWeitzel | YouTube" width="87" height="80" src="../assets/gifs/social-networks/youtubeLogo.gif" /></a> 
- 
- ***(PROGRAMACIÓN, ROBÓTICA, INFORMÁTICA Y MÁS..)*** ✔</a>  
-</div> 
- <!--FIN CANAL DE YOUTUBE-->
- 
- <!--GITLAB-->
-<div>
-<a href="https://gitlab.com/andres-weitzel" target="_blank">
-<img align="left" alt="andresWeitzel | Gitlab" width="87" height="80" src="../assets/gifs/social-networks/gitlab.gif" /></a> 
- 
- ***(OTROS PROYECTOS..)*** ✔</a>  
-</div> 
- <!--FIN GITLAB-->
- 
-  <!--LINKEDIN-->
-<div>
-<a href="https://www.linkedin.com/in/andres-weitzel/" target="_blank">
-<img align="left" alt="andresWeitzel | Linkedin" width="68" height="66" src="../assets/gifs/social-networks/linkedin.gif" /></a> 
- 
- ***(CONEXIÓN LABORAL..)*** ✔</a>  
-</div> 
- <!--FIN LINKEDIN-->
- 
-<!-----------------------------------------FIN REDES SOCIALES------------------------------------------------------->
-
 <br>
-<br>
-<br>
-<br>
-
 
 <!-----------------------------------------PROYECTOS------------------------------------------------------->
 
