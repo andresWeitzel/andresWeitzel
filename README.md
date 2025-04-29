@@ -187,13 +187,24 @@
   <img width="38" height="36" alt="Prometheus Icon" src="./assets/icons/devops/png/prometheus.png" />
   <img width="38" height="36" alt="Gitlab Icon" src="./assets/icons/devops/png/gitlab.png" />
   <img width="38" height="36" alt="Apache Tomcat Icon" src="./assets/icons/devops/png/apache-tomcat.png" />
-  <img width="35" height="33" alt="Drawio Icon" src="./assets/icons/devops/png/drawio.png" />
-  <img width="38" height="36" alt="Grafana Icon" src="./assets/icons/devops/png/grafana.png" />
-  <img width="42" height="40" alt="Sublime Icon" src="./assets/icons/devops/png/sublime.png" />
-  <img width="38" height="36" alt="AWS Icon" src="./assets/icons/devops/png/aws.png" />
-  <img width="36" height="34" alt="Linux Icon" src="./assets/icons/devops/png/linux.png" />
+  <img width="33" height="31" alt="Drawio Icon" src="./assets/icons/devops/png/drawio.png" />
+  <img width="36" height="34" alt="Grafana Icon" src="./assets/icons/devops/png/grafana.png" />
+  <img width="34" height="32" alt="Linux Icon" src="./assets/icons/devops/png/linux.png" />
   <img width="38" height="36" alt="Sonarqube Icon" src="./assets/icons/devops/png/sonarqube.png" />
-  <img width="38" height="36" alt="Kubernate Icon" src="./assets/icons/devops/png/kubernetes.png" />
+  <img width="36" height="34" alt="Kubernate Icon" src="./assets/icons/devops/png/kubernetes.png" />
+  <img width="36" height="34" alt="VSC Icon" src="./assets/icons/devops/png/vsc.png" />
+  <img width="36" height="34" alt="Gradle Icon" src="./assets/icons/devops/png/gradle.png" />
+  <img width="36" height="34" alt="Microservices Icon" src="./assets/icons/devops/png/microservices.png" />
+  <img width="36" height="34" alt="Docker Icon" src="./assets/icons/devops/png/docker.png" />
+  <img width="36" height="34" alt="Bitbucket Icon" src="./assets/icons/devops/png/bitbucket.png" />
+  <img width="36" height="34" alt="Jira Icon" src="./assets/icons/devops/png/jira.png" />
+  <img width="36" height="34" alt="Confluence Icon" src="./assets/icons/devops/png/confluence.png" />
+  <img width="36" height="34" alt="Datadog Icon" src="./assets/icons/devops/png/datadog.png" />
+  <img width="36" height="34" alt="Heroku Icon" src="./assets/icons/devops/png/heroku.png" />
+  <img width="38" height="36" alt="AWS Icon" src="./assets/icons/devops/png/aws.png" />
+  <img width="38" height="36" alt="Circle CI Icon" src="./assets/icons/devops/png/ci-circle.png" />
+  <img width="38" height="36" alt="Github Icon" src="./assets/icons/devops/png/github.png" />
+  <img width="38" height="36" alt="CMD Icon" src="./assets/icons/devops/png/command-line.png" />
 <div>
 
 <!------FIN DEVOPS STACK------>
