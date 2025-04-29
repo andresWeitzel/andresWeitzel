@@ -180,13 +180,13 @@
 <div style="display: inline-block;">
   <img width="38" height="36" alt="Openshift Icon" src="./assets/icons/devops/png/openshift.png" />
   <img width="38" height="36" alt="Npm Icon" src="./assets/icons/devops/png/npm.png" />
-  <img width="38" height="36" alt="Maven Icon" src="./assets/icons/devops/png/maven.png" />
-  <img width="38" height="36" alt="Jenkins Icon" src="./assets/icons/devops/png/jenkins.png" />
-  <img width="38" height="36" alt="Git Icon" src="./assets/icons/devops/png/git.png" />
-  <img width="38" height="36" alt="Postman Icon" src="./assets/icons/devops/png/postman.png" />
+  <img width="34" height="34" alt="Maven Icon" src="./assets/icons/devops/png/maven.png" />
+  <img width="40" height="38" alt="Jenkins Icon" src="./assets/icons/devops/png/jenkins.png" />
+  <img width="40" height="38" alt="Git Icon" src="./assets/icons/devops/png/git.png" />
+  <img width="40" height="38" alt="Postman Icon" src="./assets/icons/devops/png/postman.png" />
   <img width="38" height="36" alt="Prometheus Icon" src="./assets/icons/devops/png/prometheus.png" />
   <img width="38" height="36" alt="Gitlab Icon" src="./assets/icons/devops/png/gitlab.png" />
-  <img width="38" height="36" alt="Drawio Icon" src="./assets/icons/devops/png/drawio.png" />
+  <img width="35" height="33" alt="Drawio Icon" src="./assets/icons/devops/png/drawio.png" />
   <img width="38" height="36" alt="Grafana Icon" src="./assets/icons/devops/png/grafana.png" />
 <div>
 
