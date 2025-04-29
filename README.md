@@ -168,7 +168,6 @@
    <img width="38" height="38" alt="Typeorm Icon" src="./assets/icons/backend/javascript-typescript/png/typeorm.png" />
    <img width="38" height="38" alt="Express-js Icon" src="./assets/icons/backend/javascript-typescript/png/express-js.png" />
    <img width="35" height="35" alt="Hibernate Icon" src="./assets/icons/backend/java/png/hibernate.png" />
-   <img width="42" height="42" alt="Primefaces Icon" src="./assets/icons/backend/java/png/primefaces.png" />
 
 <div>
 <!------FIN BACKEND STACK------>
