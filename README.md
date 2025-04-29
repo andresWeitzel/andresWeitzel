@@ -209,7 +209,7 @@
 <br>
 
  <details>
-   <summary> Others </summary>
+   <summary> Others Stack </summary>
  
 <br>
  
