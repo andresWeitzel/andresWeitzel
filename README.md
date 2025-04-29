@@ -186,8 +186,14 @@
   <img width="40" height="38" alt="Postman Icon" src="./assets/icons/devops/png/postman.png" />
   <img width="38" height="36" alt="Prometheus Icon" src="./assets/icons/devops/png/prometheus.png" />
   <img width="38" height="36" alt="Gitlab Icon" src="./assets/icons/devops/png/gitlab.png" />
+  <img width="38" height="36" alt="Apache Tomcat Icon" src="./assets/icons/devops/png/apache-tomcat.png" />
   <img width="35" height="33" alt="Drawio Icon" src="./assets/icons/devops/png/drawio.png" />
   <img width="38" height="36" alt="Grafana Icon" src="./assets/icons/devops/png/grafana.png" />
+  <img width="38" height="36" alt="Sublime Icon" src="./assets/icons/devops/png/sublime.png" />
+  <img width="38" height="36" alt="AWS Icon" src="./assets/icons/devops/png/aws.png" />
+  <img width="38" height="36" alt="Linux Icon" src="./assets/icons/devops/png/linux.png" />
+  <img width="38" height="36" alt="Sonarqube Icon" src="./assets/icons/devops/png/sonarqube.png" />
+  <img width="38" height="36" alt="Kubernate Icon" src="./assets/icons/devops/png/kubernates.png" />
 <div>
 
 <!------FIN DEVOPS STACK------>
