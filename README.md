@@ -127,8 +127,9 @@
   <img width="43" height="43" alt="Redux Icon" src="./assets/icons/frontend/png/redux.png" />
   <img width="38" height="37" alt="Angular Material Icon" src="./assets/icons/frontend/png/angular-material.png" />
   <img width="38" height="36" alt="ReactJS Icon" src="./assets/icons/frontend/png/react-js.png" />
-  <img width="38" height="38" alt="Next.js Icon" src="./assets/icons/frontend/png/nextjs.png" />
+  <img width="36" height="36" alt="Next.js Icon" src="./assets/icons/frontend/png/nextjs.png" />
   <img width="45" height="45" alt="jQuery Icon" src="./assets/icons/frontend/png/jquery.png" />
+  <img width="42" height="40" alt="VSC Icon" src="./assets/icons/devops/png/vsc.png" />
   <img width="40" height="40" alt="Material UI Icon" src="./assets/icons/frontend/png/material-ui.png" />
   <img width="45" height="43" alt="Highcharts Icon" src="./assets/icons/frontend/png/highchart.png" />
   <img width="40" height="40" alt="Angular Icon" src="./assets/icons/frontend/png/angular.png" />
@@ -192,15 +193,11 @@
   <img width="34" height="32" alt="Linux Icon" src="./assets/icons/devops/png/linux.png" />
   <img width="38" height="36" alt="Sonarqube Icon" src="./assets/icons/devops/png/sonarqube.png" />
   <img width="36" height="34" alt="Kubernate Icon" src="./assets/icons/devops/png/kubernetes.png" />
-  <img width="40" height="38" alt="VSC Icon" src="./assets/icons/devops/png/vsc.png" />
   <img width="34" height="32" alt="Gradle Icon" src="./assets/icons/devops/png/gradle.png" />
   <img width="36" height="34" alt="Docker Icon" src="./assets/icons/devops/png/docker.png" />
   <img width="36" height="34" alt="Bitbucket Icon" src="./assets/icons/devops/png/bitbucket.png" />
-  <img width="36" height="34" alt="Jira Icon" src="./assets/icons/devops/png/jira.png" />
-  <img width="36" height="34" alt="Confluence Icon" src="./assets/icons/devops/png/confluence.png" />
   <img width="36" height="34" alt="Datadog Icon" src="./assets/icons/devops/png/datadog.png" />
   <img width="36" height="34" alt="Heroku Icon" src="./assets/icons/devops/png/heroku.png" />
-  <img width="36" height="34" alt="Swagger Icon" src="./assets/icons/devops/png/swagger.png" />
   <img width="36" height="34" alt="OpenAPI Icon" src="./assets/icons/devops/png/openapi.png" />
   <img width="38" height="36" alt="AWS Icon" src="./assets/icons/devops/png/aws.png" />
   <img width="38" height="36" alt="Circle CI Icon" src="./assets/icons/devops/png/ci-circle.png" />
