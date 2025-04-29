@@ -208,6 +208,12 @@
 
 <br>
 
+<details>
+ <summary> Others </summary>
+ 
+ <br>
+ 
+
 <!------AWS STACK------>
 
 * AWS Stack
@@ -283,6 +289,10 @@
 </div>
 
 <!------FIN EMBEDDED SYSTEM STACK------>
+
+<br>
+
+</details>
 
 <!---------FIN STACKS TECHNICAL EXPERIENCE --------->
 
