@@ -208,12 +208,11 @@
 
 <br>
 
-<details>
- <summary> Others </summary>
+ <details>
+   <summary> Others </summary>
  
- <br>
+<br>
  
-
 <!------AWS STACK------>
 
 * AWS Stack
@@ -292,7 +291,7 @@
 
 <br>
 
-</details>
+  </details>
 
 <!---------FIN STACKS TECHNICAL EXPERIENCE --------->
 
