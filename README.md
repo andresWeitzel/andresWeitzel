@@ -136,7 +136,6 @@
   <img width="40" height="40" alt="GSAP Icon" src="./assets/icons/frontend/png/gsap.png" />
   <img width="33" height="33" alt="Thymeleaf Icon" src="./assets/icons/backend/java/png/thymeleaf.png" />
   <img width="40" height="40" alt="Vitest Icon" src="./assets/icons/frontend/png/vitest.png" />
-  <img width="45" height="45" alt="Primefaces Icon" src="./assets/icons/backend/java/png/primefaces.png" />
 </div>
 
 <!------FIN FRONTEND STACK------>
