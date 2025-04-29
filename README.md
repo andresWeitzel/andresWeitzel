@@ -149,6 +149,7 @@
 <div style="display: inline-block;">
    <img width="40" height="40" alt="Nodejs Icon" src="./assets/icons/backend/javascript-typescript/png/nodejs.png" />
    <img width="38" height="36" alt="Spring Boot Icon" src="./assets/icons/backend/java/png/spring-boot.png" />
+   <img width="38" height="36" alt="Spring Cloud Icon" src="./assets/icons/backend/java/png/spring-cloud.png" />
    <img width="38" height="36" alt="Spring Batch Icon" src="./assets/icons/backend/java/png/spring-batch.png" />
    <img width="40" height="36" alt="Spring Security Icon" src="./assets/icons/backend/java/png/spring-security.png" />
    <img width="40" height="38" alt="Spring WebFlux Icon" src="./assets/icons/backend/java/png/spring-webflux.png" />
@@ -172,21 +173,24 @@
 
 <br>
 
-<!------WEBSERVICE STACK------>
+<!------DEVOPS STACK------>
 
-* WebService Stack
+* Devops Stack
 
 <div style="display: inline-block;">
-  <img width="42" height="42" src="./assets/img/technology-stack/webservice/microservices.png" />
-  <img width="42" height="42" src="./assets/img/technology-stack/webservice/apirest.jpg" />
-  <img width="50" height="50" src="./assets/img/technology-stack/webservice/swagger.png" />
-  <img width="45" height="45" src="./assets/img/technology-stack/webservice/openapi.png" />
-  <img width="50" height="45" src="./assets/img/technology-stack/webservice/springcloud.png" />
-  <img width="45" height="45" src="./assets/img/technology-stack/webservice/grafana.png" />
-  <img width="45" height="45" src="./assets/img/technology-stack/webservice/prometheus.png" />
+  <img width="38" height="36" alt="Openshift Icon" src="./assets/icons/devops/png/openshift.png" />
+  <img width="38" height="36" alt="Npm Icon" src="./assets/icons/devops/png/npm.png" />
+  <img width="38" height="36" alt="Maven Icon" src="./assets/icons/devops/png/maven.png" />
+  <img width="38" height="36" alt="Jenkins Icon" src="./assets/icons/devops/png/jenkins.png" />
+  <img width="38" height="36" alt="Git Icon" src="./assets/icons/devops/png/git.png" />
+  <img width="38" height="36" alt="Postman Icon" src="./assets/icons/devops/png/postman.png" />
+  <img width="38" height="36" alt="Prometheus Icon" src="./assets/icons/devops/png/prometheus.png" />
+  <img width="38" height="36" alt="Gitlab Icon" src="./assets/icons/devops/png/gitlab.png" />
+  <img width="38" height="36" alt="Drawio Icon" src="./assets/icons/devops/png/drawio.png" />
+  <img width="38" height="36" alt="Grafana Icon" src="./assets/icons/devops/png/grafana.png" />
 <div>
 
-<!------FIN WEBSERVICE STACK------>
+<!------FIN DEVOPS STACK------>
 
 <br>
 
