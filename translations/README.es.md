@@ -151,46 +151,65 @@
 * Backend Stack
 
 <div style="display: inline-block;">
-  <img width="40" height="40" alt="Nodejs Icon" src="../assets/icons/backend/javascript-typescript/png/nodejs.png" />
-  <img width="38" height="36" alt="Spring Boot Icon" src="../assets/icons/backend/java/png/spring-boot.png" />
-  <img width="38" height="36" alt="Spring Batch Icon" src="../assets/icons/backend/java/png/spring-batch.png" />
-  <img width="40" height="36" alt="Spring Security Icon" src="../assets/icons/backend/java/png/spring-security.png" />
-  <img width="40" height="38" alt="Spring WebFlux Icon" src="../assets/icons/backend/java/png/spring-webflux.png" />
-  <img width="42" height="40" alt="Spring Tool Suite Icon" src="../assets/icons/backend/java/png/sts.png" />
-  <img width="36" height="34" alt="JUnit Icon" src="../assets/icons/backend/java/png/junit.png" />
-  <img width="35" height="35" alt="NestJS Icon" src="../assets/icons/backend/javascript-typescript/png/nestjs.png" />
-  <img width="45" height="45" alt="Java Icon" src="../assets/icons/backend/java/png/java.png" />
-  <img width="45" height="44" alt="JSF Icon" src="../assets/icons/backend/java/png/jsf.png" />
-  <img width="36" height="36" alt="Log4j Icon" src="../assets/icons/backend/java/png/log-four-j.png" />
-  <img width="38" height="36" alt="TypeScript Icon" src="../assets/icons/backend/javascript-typescript/png/typescript.png" />
-  <img width="38" height="38" alt="Sequelize Icon" src="../assets/icons/backend/javascript-typescript/png/sequelize.png" />
-  <img width="42" height="42" alt="Netbeans Icon" src="../assets/icons/backend/java/png/netbeans.png" />
-  <img width="35" height="35" alt="Eclipse Icon" src="../assets/icons/backend/java/png/eclipse.png" />
-  <img width="38" height="38" alt="Typeorm Icon" src="../assets/icons/backend/javascript-typescript/png/typeorm.png" />
-  <img width="38" height="38" alt="Express-js Icon" src="../assets/icons/backend/javascript-typescript/png/express-js.png" />
-  <img width="35" height="35" alt="Hibernate Icon" src="../assets/icons/backend/java/png/hibernate.png" />
-  <img width="42" height="42" alt="Primefaces Icon" src="../assets/icons/backend/java/png/primefaces.png" />
+ <img width="40" height="40" alt="Nodejs Icon" src="../assets/icons/backend/javascript-typescript/png/nodejs.png" />
+ <img width="38" height="36" alt="Spring Boot Icon" src="../assets/icons/backend/java/png/spring-boot.png" />
+ <img width="38" height="36" alt="Spring Cloud Icon" src="../assets/icons/backend/java/png/spring-cloud.png" />
+ <img width="38" height="36" alt="Spring Batch Icon" src="../assets/icons/backend/java/png/spring-batch.png" />
+ <img width="40" height="36" alt="Spring Security Icon" src="../assets/icons/backend/java/png/spring-security.png" />
+ <img width="40" height="38" alt="Spring WebFlux Icon" src="../assets/icons/backend/java/png/spring-webflux.png" />
+ <img width="42" height="40" alt="Spring Tool Suite Icon" src="../assets/icons/backend/java/png/sts.png" />
+ <img width="36" height="34" alt="JUnit Icon" src="../assets/icons/backend/java/png/junit.png" />
+ <img width="35" height="35" alt="NestJS Icon" src="../assets/icons/backend/javascript-typescript/png/nestjs.png" />
+ <img width="34" height="34" alt="Maven Icon" src="../assets/icons/devops/png/maven.png" />
+ <img width="38" height="36" alt="Apache Tomcat Icon" src="../assets/icons/devops/png/apache-tomcat.png" />
+ <img width="45" height="45" alt="Java Icon" src="../assets/icons/backend/java/png/java.png" />
+ <img width="45" height="44" alt="JSF Icon" src="../assets/icons/backend/java/png/jsf.png" />
+ <img width="36" height="36" alt="Log4j Icon" src="../assets/icons/backend/java/png/log-four-j.png" />
+ <img width="38" height="36" alt="TypeScript Icon" src="../assets/icons/backend/javascript-typescript/png/typescript.png" />
+ <img width="38" height="38" alt="Sequelize Icon" src="../assets/icons/backend/javascript-typescript/png/sequelize.png" />
+ <img width="42" height="42" alt="Netbeans Icon" src="../assets/icons/backend/java/png/netbeans.png" />
+ <img width="35" height="35" alt="Eclipse Icon" src="../assets/icons/backend/java/png/eclipse.png" />
+ <img width="38" height="38" alt="Typeorm Icon" src="../assets/icons/backend/javascript-typescript/png/typeorm.png" />
+ <img width="38" height="38" alt="Express-js Icon" src="../assets/icons/backend/javascript-typescript/png/express-js.png" />
+ <img width="35" height="35" alt="Hibernate Icon" src="../assets/icons/backend/java/png/hibernate.png" />
 <div>
 <!------FIN BACKEND STACK------>
 
-<br>
+</br>
 
-<!------WEBSERVICE STACK------>
+<!------DEVOPS STACK------>
 
-* WebService Stack
+* Devops Stack
 
 <div style="display: inline-block;">
-  <img width="42" height="42" src="../assets/img/technology-stack/webservice/microservices.png" />
-  <img width="42" height="42" src="../assets/img/technology-stack/webservice/apirest.jpg" />
-  <img width="50" height="50" src="../assets/img/technology-stack/webservice/swagger.png" />
-  <img width="45" height="45" src="../assets/img/technology-stack/webservice/openapi.png" />
-  <img width="50" height="45" src="../assets/img/technology-stack/webservice/springcloud.png" />
-  <img width="45" height="45" src="../assets/img/technology-stack/webservice/grafana.png" />
-  <img width="45" height="45" src="../assets/img/technology-stack/webservice/prometheus.png" />
+ <img width="38" height="36" alt="Openshift Icon" src="../assets/icons/devops/png/openshift.png" />
+ <img width="38" height="36" alt="Npm Icon" src="../assets/icons/devops/png/npm.png" />
+ <img width="38" height="38" alt="Jenkins Icon" src="../assets/icons/devops/png/jenkins.png" />
+ <img width="40" height="38" alt="Git Icon" src="../assets/icons/devops/png/git.png" />
+ <img width="40" height="38" alt="Postman Icon" src="../assets/icons/devops/png/postman.png" />
+ <img width="38" height="36" alt="Prometheus Icon" src="../assets/icons/devops/png/prometheus.png" />
+ <img width="38" height="36" alt="Gitlab Icon" src="../assets/icons/devops/png/gitlab.png" />
+ <img width="33" height="31" alt="Drawio Icon" src="../assets/icons/devops/png/drawio.png" />
+ <img width="36" height="34" alt="Grafana Icon" src="../assets/icons/devops/png/grafana.png" />
+ <img width="34" height="32" alt="Linux Icon" src="../assets/icons/devops/png/linux.png" />
+ <img width="38" height="36" alt="Sonarqube Icon" src="../assets/icons/devops/png/sonarqube.png" />
+ <img width="36" height="34" alt="Kubernate Icon" src="../assets/icons/devops/png/kubernetes.png" />
+ <img width="34" height="32" alt="Gradle Icon" src="../assets/icons/devops/png/gradle.png" />
+ <img width="36" height="34" alt="Docker Icon" src="../assets/icons/devops/png/docker.png" />
+ <img width="36" height="34" alt="Bitbucket Icon" src="../assets/icons/devops/png/bitbucket.png" />
+ <img width="36" height="34" alt="Datadog Icon" src="../assets/icons/devops/png/datadog.png" />
+ <img width="36" height="34" alt="Heroku Icon" src="../assets/icons/devops/png/heroku.png" />
+ <img width="36" height="34" alt="OpenAPI Icon" src="../assets/icons/devops/png/openapi.png" />
+ <img width="38" height="36" alt="AWS Icon" src="../assets/icons/devops/png/aws.png" />
+ <img width="38" height="36" alt="Circle CI Icon" src="../assets/icons/devops/png/ci-circle.png" />
+ <img width="38" height="36" alt="Github Icon" src="../assets/icons/devops/png/github.png" />
 <div>
 
-<!------FIN WEBSERVICE STACK------>
+<!------FIN DEVOPS STACK------>
 
+<details>
+   <summary> Otros Stack </summary>
+ 
 <br>
 
 <!------AWS STACK------>
@@ -265,6 +284,10 @@
 </div>
 
 <!------FIN EMBEDDED SYSTEM STACK------>
+
+<br>
+
+</details>
 
 <!-----FIN EXPERIENCIA TÉCNICA ------->
 
