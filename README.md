@@ -141,6 +141,7 @@
 
 <!------FIN FRONTEND STACK------>
 
+</br>
 
 <!------BACKEND STACK------>
 
@@ -173,6 +174,8 @@
 <div>
 <!------FIN BACKEND STACK------>
 
+</br>
+
 <!------DEVOPS STACK------>
 
 * Devops Stack
@@ -203,7 +206,7 @@
 
 <!------FIN DEVOPS STACK------>
 
-<br>
+</br>
 
 <details>
    <summary> Others Stack </summary>
