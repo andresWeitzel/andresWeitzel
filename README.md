@@ -157,6 +157,8 @@
    <img width="42" height="40" alt="Spring Tool Suite Icon" src="./assets/icons/backend/java/png/sts.png" />
    <img width="36" height="34" alt="JUnit Icon" src="./assets/icons/backend/java/png/junit.png" />
    <img width="35" height="35" alt="NestJS Icon" src="./assets/icons/backend/javascript-typescript/png/nestjs.png" />
+   <img width="34" height="34" alt="Maven Icon" src="./assets/icons/devops/png/maven.png" />
+   <img width="38" height="36" alt="Apache Tomcat Icon" src="./assets/icons/devops/png/apache-tomcat.png" />
    <img width="45" height="45" alt="Java Icon" src="./assets/icons/backend/java/png/java.png" />
    <img width="45" height="44" alt="JSF Icon" src="./assets/icons/backend/java/png/jsf.png" />
    <img width="36" height="36" alt="Log4j Icon" src="./assets/icons/backend/java/png/log-four-j.png" />
@@ -181,13 +183,11 @@
 <div style="display: inline-block;">
   <img width="38" height="36" alt="Openshift Icon" src="./assets/icons/devops/png/openshift.png" />
   <img width="38" height="36" alt="Npm Icon" src="./assets/icons/devops/png/npm.png" />
-  <img width="34" height="34" alt="Maven Icon" src="./assets/icons/devops/png/maven.png" />
   <img width="38" height="38" alt="Jenkins Icon" src="./assets/icons/devops/png/jenkins.png" />
   <img width="40" height="38" alt="Git Icon" src="./assets/icons/devops/png/git.png" />
   <img width="40" height="38" alt="Postman Icon" src="./assets/icons/devops/png/postman.png" />
   <img width="38" height="36" alt="Prometheus Icon" src="./assets/icons/devops/png/prometheus.png" />
   <img width="38" height="36" alt="Gitlab Icon" src="./assets/icons/devops/png/gitlab.png" />
-  <img width="38" height="36" alt="Apache Tomcat Icon" src="./assets/icons/devops/png/apache-tomcat.png" />
   <img width="33" height="31" alt="Drawio Icon" src="./assets/icons/devops/png/drawio.png" />
   <img width="36" height="34" alt="Grafana Icon" src="./assets/icons/devops/png/grafana.png" />
   <img width="34" height="32" alt="Linux Icon" src="./assets/icons/devops/png/linux.png" />
