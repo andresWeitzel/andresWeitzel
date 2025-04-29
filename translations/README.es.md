@@ -207,10 +207,12 @@
 
 <!------FIN DEVOPS STACK------>
 
+</br>
+
 <details>
    <summary> Otros Stack </summary>
  
-<br>
+</br>
 
 <!------AWS STACK------>
 
