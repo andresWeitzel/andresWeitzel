@@ -515,7 +515,7 @@
  
 <div align="center">
   
-## <img width="48" height="48"  src="https://www.aaditritechnology.com/images/aws-gif-compressor.gif" /> Amazon Web Services 
+## <img width="40" height="40"  src="../assets/gifs/stacks/aws.gif" /> Amazon Web Services 
 
 </div>  
 
@@ -523,9 +523,9 @@
 
 <div align="center">
   
-<a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
+  <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
   <img src="../assets/img/projects-developments/aws-img.jpg" >
-</a>
+  </a>
 
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   
@@ -545,7 +545,7 @@
  
 <div align="center">
   
-  ## <img width="40" height="38" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservicios
+  ##  <img width="35" height="35" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservicios
 
 </div>  
 
@@ -576,7 +576,7 @@
  
 <div align="center">
   
-  ##  <img width="45" height="40" src="../assets/gifs/stacks/graphql.gif" />   GraphQL & Microservicios
+  ##  <img width="35" height="35" src="../assets/gifs/stacks/graphql.gif" />  GraphQL & Microservicios
 
 </div>  
 
@@ -607,7 +607,7 @@
  
 <div align="center">
   
-  ##  <img width="48" height="42" src="../assets/gifs/stacks/grpc.gif"/>  RPC & Microservices
+  ##  <img width="35" height="35" src="../assets/gifs/stacks/grpc.gif" />  RPC & Microservicios
 
 </div>  
 
@@ -639,7 +639,7 @@
  
 <div align="center">
   
-  ##  <img width="55" height="38" src="../assets/gifs/stacks/web-app.gif" /> Aplicaciones Web 
+  ##  <img width="35" height="35" src="../assets/gifs/stacks/web-app.gif" /> Aplicaciones Web 
 
 </div>  
 
@@ -670,7 +670,7 @@
  
 <div align="center">
   
-## <img width="52" height="35" src="../assets/gifs/stacks/websites.gif"/> Sitios Web
+## <img width="35" height="35" src="../assets/gifs/stacks/websites.gif"/> Sitios Web
 
 </div>  
 
@@ -701,7 +701,7 @@
  
 <div align="center">
   
-## <img width="45" height="32" src="../assets/gifs/stacks/desktop-app.gif"/> Aplicaciones de Escritorio
+## <img width="35" height="35" src="../assets/gifs/stacks/desktop-app.gif"/> Aplicaciones de Escritorio
 
 
 </div>  
@@ -717,7 +717,7 @@
  ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Desktop_App)
   
   
-  </div>
+</div>
 <!------FIN DESKTOP APP.------>
 
 
@@ -733,7 +733,7 @@
  
 <div align="center">
   
-## <img width="55" height="40" src="../assets/gifs/stacks/database.gif"/> Bases de Datos
+## <img width="35" height="35" src="../assets/gifs/stacks/database.gif"/> Bases de Datos
 
 </div>  
 
@@ -763,7 +763,7 @@
  
 <div align="center">
   
-## <img width="40" height="38" src="../assets/gifs/stacks/embedded-system.gif"/>  Sistemas Embebidos
+## <img width="35" height="35" src="../assets/gifs/stacks/embedded-system.gif"/>  Sistemas Embebidos
 
 </div>  
 
