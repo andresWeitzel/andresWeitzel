@@ -12,7 +12,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics/metrics.plugin.habits.charts.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it

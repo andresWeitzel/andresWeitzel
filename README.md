@@ -49,7 +49,7 @@
  <!------RECENT ACTIVITIES------>
 <div style="display: inline-block;">
   
-![Metrics](./metrics.plugin.activity.svg)
+![Metrics](./metrics/metrics.plugin.activity.svg)
 
 </div>
 <!------FIN RECENT ACTIVITIES------>
@@ -59,7 +59,7 @@
  <!------FEATURED REPOSITORIES------>
 <div style="display: inline-block;">
   
-![Featured-repositories](./metrics.plugin.featured.repositories.svg)
+![Featured-repositories](./metrics/metrics.plugin.featured.repositories.svg)
 
 </div>
 <!------FIN FEATURED REPOSITORIES------>

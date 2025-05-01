@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.featured.repositories.svg
+        filename: metrics/metrics.plugin.featured.repositories.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_repositories: yes
