@@ -40,7 +40,7 @@
  <!------GENERALES METRICS------>
 <div style="display: inline-block;">
   
-![Metrics](../github-metrics.svg)
+![Metrics](../metrics/github-metrics.svg)
 
 </div>
 <!------FIN GENERALES METRICS------>

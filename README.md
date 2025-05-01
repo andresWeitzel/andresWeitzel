@@ -39,7 +39,7 @@
  <!------GENERALES METRICS------>
 <div style="display: inline-block;">
   
-![Metrics](./github-metrics.svg)
+![Metrics](./metrics/github-metrics.svg)
 
 </div>
 <!------FIN GENERALES METRICS------>
@@ -524,7 +524,7 @@
   
 <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
   <img src="./assets/img/projects-developments/aws-img.jpg" >
-  </a>
+</a>
 
  ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   

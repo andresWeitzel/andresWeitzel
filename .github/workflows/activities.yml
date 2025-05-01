@@ -2,8 +2,7 @@ name: Activities-Charts
 on:
   # Schedule updates 
   schedule: [{cron: "0 23 * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
-  push: {branches: ["master", "main"]}
+  # Lines below let you run workflow manually
   workflow_dispatch:
 jobs:
   github-metrics:

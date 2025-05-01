@@ -2,8 +2,7 @@ name: Notable contributions
 on:
   # Schedule updates
   schedule: [{cron: "0 23 * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
-  push: {branches: ["master", "main"]}
+  # Lines below let you run workflow manually
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -12,7 +11,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.notable.indepth.svg
+          filename: metrics/metrics.plugin.notable.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
