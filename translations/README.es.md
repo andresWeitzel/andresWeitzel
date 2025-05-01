@@ -515,7 +515,7 @@
  
 <div align="center">
   
-## <img width="40" height="35"  src="./assets/gifs/stacks/aws.gif" /> Amazon Web Services 
+## <img width="40" height="35"  src="../assets/gifs/stacks/aws.gif" /> Amazon Web Services 
 
 </div>  
 
@@ -524,7 +524,7 @@
 <div align="center">
   
 <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img src="./assets/img/projects-developments/aws-img.jpg" >
+  <img src="../assets/img/projects-developments/aws-img.jpg" >
 </a>
 
  ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
@@ -545,7 +545,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="30" src="./assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
+  ##  <img width="35" height="30" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
 
 </div>  
 
@@ -576,7 +576,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="./assets/gifs/stacks/graphql.gif" />  GraphQL & Microservices
+  ##  <img width="35" height="35" src="../assets/gifs/stacks/graphql.gif" />  GraphQL & Microservices
 
 </div>  
 
@@ -607,7 +607,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
+  ##  <img width="35" height="35" src="../assets/gifs/stacks/grpc.gif" />  RPC & Microservices
 
 </div>  
 
@@ -639,7 +639,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="30" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
+  ##  <img width="35" height="30" src="../assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -670,7 +670,7 @@
  
 <div align="center">
   
-## <img width="35" height="30" src="./assets/gifs/stacks/websites.gif" /> Web Sites
+## <img width="35" height="30" src="../assets/gifs/stacks/websites.gif" /> Web Sites
 
 </div>  
 
@@ -701,7 +701,7 @@
  
 <div align="center">
   
-## <img width="35" height="30" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
+## <img width="35" height="30" src="../assets/gifs/stacks/desktop-app.gif" /> Desktop App
 
 
 </div>  
@@ -733,7 +733,7 @@
  
 <div align="center">
   
-## <img width="35" height="30" src="./assets/gifs/stacks/database.gif"/> Databases
+## <img width="35" height="30" src="../assets/gifs/stacks/database.gif"/> Databases
 
 </div>  
 
@@ -763,7 +763,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="./assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
+## <img width="35" height="35" src="../assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
 
 </div>  
 
