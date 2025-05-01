@@ -514,7 +514,7 @@
  
 <div align="center">
   
-## <img width="40" height="40"  src="./assets/gifs/stacks/aws.gif" /> Amazon Web Services 
+## <img width="40" height="35"  src="./assets/gifs/stacks/aws.gif" /> Amazon Web Services 
 
 </div>  
 
@@ -544,7 +544,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="./assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
+  ##  <img width="35" height="30" src="./assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
 
 </div>  
 
@@ -637,7 +637,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
+  ##  <img width="35" height="30" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -668,7 +668,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="./assets/gifs/stacks/websites.gif" /> Web Sites
+## <img width="35" height="30" src="./assets/gifs/stacks/websites.gif" /> Web Sites
 
 </div>  
 
@@ -699,7 +699,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
+## <img width="35" height="30" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
 
 
 </div>  
@@ -731,7 +731,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="./assets/gifs/stacks/database.gif"/> Databases
+## <img width="35" height="30" src="./assets/gifs/stacks/database.gif"/> Databases
 
 </div>  
 

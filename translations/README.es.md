@@ -1,4 +1,4 @@
- <!----------Presentation---------------->
+<!----------Presentation---------------->
 <div align="center" width="100%">
 <img width="100%" height="50%"  src="../assets/gifs/social-networks/central-network.gif" />
 </div>
@@ -515,7 +515,7 @@
  
 <div align="center">
   
-## <img width="40" height="40"  src="../assets/gifs/stacks/aws.gif" /> Amazon Web Services 
+## <img width="40" height="35"  src="./assets/gifs/stacks/aws.gif" /> Amazon Web Services 
 
 </div>  
 
@@ -523,11 +523,11 @@
 
 <div align="center">
   
-  <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img src="../assets/img/projects-developments/aws-img.jpg" >
-  </a>
+<a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
+  <img src="./assets/img/projects-developments/aws-img.jpg" >
+</a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
   
   
   </div>
@@ -545,7 +545,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservicios
+  ##  <img width="35" height="30" src="./assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
 
 </div>  
 
@@ -557,7 +557,7 @@
   <img src="../assets/img/projects-developments/api-rest.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)
   
   
   </div>
@@ -576,7 +576,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="../assets/gifs/stacks/graphql.gif" />  GraphQL & Microservicios
+  ##  <img width="35" height="35" src="./assets/gifs/stacks/graphql.gif" />  GraphQL & Microservices
 
 </div>  
 
@@ -588,7 +588,7 @@
   <img src="../assets/img/projects-developments/graphql.png" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
   
   
   </div>
@@ -607,7 +607,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="../assets/gifs/stacks/grpc.gif" />  RPC & Microservicios
+  ##  <img width="35" height="35" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
 
 </div>  
 
@@ -619,7 +619,7 @@
   <img src="../assets/img/projects-developments/RPC.jpg" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/RPC_Microservices_Projects)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/RPC_Microservices_Projects)
   
   
   </div>
@@ -639,7 +639,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="../assets/gifs/stacks/web-app.gif" /> Aplicaciones Web 
+  ##  <img width="35" height="30" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -651,7 +651,7 @@
   <img src="../assets/img/projects-developments/web-app.jpg" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_App)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_App)
   
   
   </div>
@@ -670,7 +670,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="../assets/gifs/stacks/websites.gif"/> Sitios Web
+## <img width="35" height="30" src="./assets/gifs/stacks/websites.gif" /> Web Sites
 
 </div>  
 
@@ -682,7 +682,7 @@
   <img src="../assets/img/projects-developments/webSites.jpg" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_Sites)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_Sites)
   
   
   </div>
@@ -701,7 +701,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="../assets/gifs/stacks/desktop-app.gif"/> Aplicaciones de Escritorio
+## <img width="35" height="30" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
 
 
 </div>  
@@ -714,7 +714,7 @@
   <img src="../assets/img/projects-developments/desktop-app.jpg" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Desktop_App)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Desktop_App)
   
   
 </div>
@@ -733,7 +733,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="../assets/gifs/stacks/database.gif"/> Bases de Datos
+## <img width="35" height="30" src="./assets/gifs/stacks/database.gif"/> Databases
 
 </div>  
 
@@ -745,7 +745,7 @@
   <img src="../assets/img/projects-developments/database.jpg" >
   </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Database_Projects)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Database_Projects)
   
   
   </div>
@@ -763,7 +763,7 @@
  
 <div align="center">
   
-## <img width="35" height="35" src="../assets/gifs/stacks/embedded-system.gif"/>  Sistemas Embebidos
+## <img width="35" height="35" src="./assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
 
 </div>  
 
@@ -775,7 +775,7 @@
   <img src="../assets/img/projects-developments/embeddedSystem.jpg" >
 </a>
 
- ## [[`Repositorio Proyectos`]](https://github.com/andresWeitzel/Proyectos_Embedded_System)
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Embedded_System)
   
   
   </div>
