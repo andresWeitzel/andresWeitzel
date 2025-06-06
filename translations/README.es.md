@@ -331,6 +331,30 @@
 
 <!------FIN AMAZON WEB SERVICES LIST------>
 
+<!------APLICACIONES WEB LIST------>
+
+<details >
+ <summary> Aplicaciones Web </summary>
+ 
+ <br>
+ 
+   - [Portfolio Desarrollo de Software](https://github.com/andresWeitzel/Portfolio_Software_Developer)
+   - [MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
+   - [Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
+   - [Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React)
+   - [MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado)
+   - [Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB)
+   - [Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app)
+   - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap)
+   - Otros. 
+   - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Web_App)
+
+<br>
+
+</details>
+
+<!------FIN APLICACIONES WEB LIST------>
+
 
 <!------API REST-MICROSERVICIOS------>
 
@@ -396,30 +420,6 @@
 
 <!------FIN RPC-MICROSERVICIOS------>
 
-
-<!------APLICACIONES WEB LIST------>
-
-<details >
- <summary> Aplicaciones Web </summary>
- 
- <br>
- 
-   - [Portfolio Desarrollo de Software](https://github.com/andresWeitzel/Portfolio_Software_Developer)
-   - [MicroFrontEnd y Módulo npm para la implementación de Modelos de IA con NLP](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
-   - [Aplicación Web para la Gestión de Productos de Microelectrónica](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
-   - [Aplicación Web MicroFrontEnd Microelectrónica](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React)
-   - [MicroFrontEnd acerca de Productos de Supermercado](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado)
-   - [Aplicación Web ElectroThings](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB)
-   - [Aplicación Web IotProductosJsp_app](https://github.com/andresWeitzel/IotProductosJsp_app)
-   - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap)
-   - Otros. 
-   - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Proyectos_Web_App)
-
-<br>
-
-</details>
-
-<!------FIN APLICACIONES WEB LIST------>
 
 
 <!------SITIOS WEB LIST------>
@@ -540,6 +540,36 @@
 <br>
 <br>
 
+ <!------INICIO PROYECTOS WEB APP.------>
+ 
+<div align="center">
+  
+  ##  <img width="35" height="30" src="../assets/gifs/stacks/web-app.gif" /> Web Applications
+
+</div>  
+
+<br>
+
+<div align="center">
+  
+  <a href="https://github.com/andresWeitzel/Proyectos_Web_App" target="_blank">
+  <img src="../assets/img/projects-developments/web-app.jpg" >
+  </a>
+
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_App)
+  
+  
+  </div>
+<!------FIN PROYECTOS WEB APP.------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
  <!------INICIO PROYECTOS API-REST-MICROSERV.------>
  
@@ -635,35 +665,7 @@
 
 
 
- <!------INICIO PROYECTOS WEB APP.------>
- 
-<div align="center">
-  
-  ##  <img width="35" height="30" src="../assets/gifs/stacks/web-app.gif" /> Web Applications
 
-</div>  
-
-<br>
-
-<div align="center">
-  
-  <a href="https://github.com/andresWeitzel/Proyectos_Web_App" target="_blank">
-  <img src="../assets/img/projects-developments/web-app.jpg" >
-  </a>
-
- ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Web_App)
-  
-  
-  </div>
-<!------FIN PROYECTOS WEB APP.------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
  <!------INICIO WEB SITES.------>
