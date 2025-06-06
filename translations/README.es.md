@@ -386,6 +386,25 @@
 
 <!------FIN API REST-MICROSERVICIOS------>
 
+<!------PROCESSING MESSAGING NOTIF LIST------>
+
+<details >
+ <summary> Procesamiento, Mensajería y Notificaciones </summary>
+ 
+ <br>
+ 
+   - [Credit Risk Analysis Batch](https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch)
+   - [Spring Batch Processing Payments. ](https://github.com/andresWeitzel/Spring_Batch_Processing_Payments)
+   - [User Management Email API. ](https://github.com/andresWeitzel/email-api-service-MailPit)
+   - [Emails Notifications MailHog. ](https://github.com/andresWeitzel/emails-notifications-MailHog)
+   - [`Repositorio central de los Proyectos`](https://github.com/andresWeitzel/Processing_Messaging_Notification_Projects)
+
+<br>
+
+</details>
+
+<!------FIN PROCESSING MESSAGING NOTIF LIST------>
+
 <!------GRAPHQL-MICROSERVICIOS------>
 
 <details >
@@ -592,6 +611,36 @@
   
   </div>
 <!------FIN PROYECTOS  API-REST-MICROSERV.------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ <!------INICIO PROYECTOS PROCESSING MESSAGING NOTIF.------>
+ 
+<div align="center">
+  
+  ##  <img width="35" height="30" src="../assets/gifs/stacks/notification.gif" /> Procesamiento, Mensajería y Notificaciones
+
+</div>  
+
+<br>
+
+<div align="center">
+  
+  <a href="https://github.com/andresWeitzel/Processing_Messaging_Notification_Projects" target="_blank">
+  <img src="../assets/img/projects-developments/processing-notification.png" >
+  </a>
+
+ ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Processing_Messaging_Notification_Projects)
+  
+  
+  </div>
+<!------FIN PROYECTOS PROCESSING MESSAGING NOTIF------>
 
 
 <br>
