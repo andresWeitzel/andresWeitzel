@@ -21,7 +21,7 @@
  
 <div align="left">
 
-* Full Stack Web Developer.
+* Full Stack Software Developer.
 * Passionate about Programming, Computer Science, Robotics, Telecommunications, Electronics and Other Areas.
 * My first program was in C programming the PIC16F84A type of Microcontroller.
 * I would like to be able to contribute, in the near future, in the area of Artificial Intelligence and Microelectronics to help prevent and cure chronic diseases in Animals and Human Beings.
@@ -330,6 +330,30 @@
 
 <!------FIN AMAZON WEB SERVICES LIST------>
 
+<!------APLICACIONES WEB LIST------>
+
+<details >
+ <summary> Web Applications </summary>
+ 
+ <br>
+ 
+   - [Software Development Portfolio](https://github.com/andresWeitzel/Portfolio_Software_Developer)
+   - [MicroFrontEnd and npm Module for the implementation of AI Models with NLP. ](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
+   - [Web Application for Microelectronics Product Management. ](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
+   - [MicroFrontEnd Microelectronics Web Application](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React)
+   - [MicroFrontEnd about Supermarket Products](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado)
+   - [ElectroThings Web Application](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB)
+   - [IotProductosJsp_app Web Application](https://github.com/andresWeitzel/IotProductosJsp_app)
+   - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap)
+   - Others. 
+   - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Web_App)
+
+<br>
+
+</details>
+
+<!------FIN APLICACIONES WEB LIST------>
+
 
 <!------API REST-MICROSERVICIOS------>
 
@@ -360,6 +384,9 @@
 </details>
 
 <!------FIN API REST-MICROSERVICIOS------>
+
+
+
 
 <!------GRAPHQL-MICROSERVICIOS------>
 
@@ -396,29 +423,6 @@
 <!------FIN RPC-MICROSERVICIOS------>
 
 
-<!------APLICACIONES WEB LIST------>
-
-<details >
- <summary> Web Applications </summary>
- 
- <br>
- 
-   - [Software Development Portfolio](https://github.com/andresWeitzel/Portfolio_Software_Developer)
-   - [MicroFrontEnd and npm Module for the implementation of AI Models with NLP. ](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
-   - [Web Application for Microelectronics Product Management. ](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
-   - [MicroFrontEnd Microelectronics Web Application](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React)
-   - [MicroFrontEnd about Supermarket Products](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado)
-   - [ElectroThings Web Application](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB)
-   - [IotProductosJsp_app Web Application](https://github.com/andresWeitzel/IotProductosJsp_app)
-   - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap)
-   - Others. 
-   - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Web_App)
-
-<br>
-
-</details>
-
-<!------FIN APLICACIONES WEB LIST------>
 
 
 <!------SITIOS WEB LIST------>
@@ -539,6 +543,36 @@
 <br>
 <br>
 
+ <!------INICIO PROYECTOS WEB APP.------>
+ 
+<div align="center">
+  
+  ##  <img width="35" height="30" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
+
+</div>  
+
+<br>
+
+<div align="center">
+  
+  <a href="https://github.com/andresWeitzel/Proyectos_Web_App" target="_blank">
+  <img src="./assets/img/projects-developments/web-app.jpg" >
+  </a>
+
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Web_App)
+  
+  
+  </div>
+<!------FIN PROYECTOS WEB APP.------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
  <!------INICIO PROYECTOS API-REST-MICROSERV.------>
  
@@ -569,6 +603,8 @@
 <br>
 <br>
 <br>
+
+
 
 
  <!------INICIO PROYECTOS GRAPHQL-MICROSERV.------>
@@ -632,36 +668,6 @@
 <br>
 <br>
 
-
- <!------INICIO PROYECTOS WEB APP.------>
- 
-<div align="center">
-  
-  ##  <img width="35" height="30" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
-
-</div>  
-
-<br>
-
-<div align="center">
-  
-  <a href="https://github.com/andresWeitzel/Proyectos_Web_App" target="_blank">
-  <img src="./assets/img/projects-developments/web-app.jpg" >
-  </a>
-
- ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Web_App)
-  
-  
-  </div>
-<!------FIN PROYECTOS WEB APP.------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
  <!------INICIO WEB SITES.------>

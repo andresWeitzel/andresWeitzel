@@ -21,7 +21,7 @@
  
 <div align="left">
 
-* Desarrollador Web Full Stack.
+* Desarrollador de Software Full Stack.
 * Apasionado por la  Programación, Informática, Robótica, Telecomunicaciones, Electrónica y Otras Áreas.
 * Mi primer programa fue en C programando el tipo de Microcontrolador PIC16F84A.
 * Me gustaría poder contribuir, en un futuro cercano, en el área de la Inteligencia Artifical y Microelectrónica para ayudar a prevenir y curar enfermedades crónicas en Animales y Seres Humanos.
