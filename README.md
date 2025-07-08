@@ -1,14 +1,14 @@
  <!----------Presentation---------------->
-<div align="center" width="100%">
-<img width="100%" height="50%"  src="./assets/gifs/social-networks/central-network.gif" />
+<div align="center" >
+<img src="./assets/gifs/social-networks/central-network.gif" />
 </div>
 
 <div align="right">
     <a href="./translations/README.es.md" target="_blank">
-      <img src="./assets/img/translation/arg-flag.jpg" width="10%" height="10%" />
+      <img src="./assets/img/translation/arg-flag.jpg" width="65" height="40" />
   </a> 
    <a href="https://github.com/andresWeitzel/andresWeitzel" target="_blank">
-      <img src="./assets/img/translation/eeuu-flag.jpg" width="10%" height="10%" />
+      <img src="./assets/img/translation/eeuu-flag.jpg" width="65" height="40" />
   </a> 
 </div>
 
