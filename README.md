@@ -561,36 +561,6 @@
 <br>
 <br>
 
- <!------INICIO PROYECTOS WEB APP.------>
- 
-<div align="center">
-  
-  ##  <img width="35" height="30" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
-
-</div>  
-
-<br>
-
-<div align="center">
-  
-  <a href="https://github.com/andresWeitzel/Proyectos_Web_App" target="_blank">
-  <img src="./assets/img/projects-developments/web-app.jpg" >
-  </a>
-
- ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Web_App)
-  
-  
-  </div>
-<!------FIN PROYECTOS WEB APP.------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
  <!------INICIO PROYECTOS API-REST-MICROSERV.------>
  
@@ -613,6 +583,7 @@
   
   </div>
 <!------FIN PROYECTOS  API-REST-MICROSERV.------>
+
 
 
 <br>
@@ -644,7 +615,6 @@
   </div>
 <!------FIN PROYECTOS PROCESSING MESSAGING NOTIF------>
 
-
 <br>
 <br>
 <br>
@@ -652,14 +622,11 @@
 <br>
 <br>
 
-
-
-
- <!------INICIO PROYECTOS GRAPHQL-MICROSERV.------>
+ <!------INICIO PROYECTOS WEB APP.------>
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="./assets/gifs/stacks/graphql.gif" />  GraphQL & Microservices
+  ##  <img width="35" height="30" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -667,46 +634,15 @@
 
 <div align="center">
   
-  <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios" target="_blank">
-  <img src="./assets/img/projects-developments/graphql.png" >
+  <a href="https://github.com/andresWeitzel/Proyectos_Web_App" target="_blank">
+  <img src="./assets/img/projects-developments/web-app.jpg" >
   </a>
 
- ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_Web_App)
   
   
   </div>
-<!------FIN PROYECTOS GRAPHQL-MICROSERV.------>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
- <!------INICIO PROYECTOS RPC-MICROSERV.------>
- 
-<div align="center">
-  
-  ##  <img width="35" height="35" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
-
-</div>  
-
-<br>
-
-<div align="center">
-  
-  <a href="https://github.com/andresWeitzel/RPC_Microservices_Projects" target="_blank">
-  <img src="./assets/img/projects-developments/RPC.jpg" >
-  </a>
-
- ## [[`Projects Repository`]](https://github.com/andresWeitzel/RPC_Microservices_Projects)
-  
-  
-  </div>
-<!------FIN PROYECTOS RPC-MICROSERV.------>
+<!------FIN PROYECTOS WEB APP.------>
 
 
 <br>
@@ -773,6 +709,7 @@
 <!------FIN DESKTOP APP.------>
 
 
+
 <br>
 <br>
 <br>
@@ -802,6 +739,71 @@
   
   </div>
 <!------FIN DATABASE.------>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+ <!------INICIO PROYECTOS GRAPHQL-MICROSERV.------>
+ 
+<div align="center">
+  
+  ##  <img width="35" height="35" src="./assets/gifs/stacks/graphql.gif" />  GraphQL & Microservices
+
+</div>  
+
+<br>
+
+<div align="center">
+  
+  <a href="https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios" target="_blank">
+  <img src="./assets/img/projects-developments/graphql.png" >
+  </a>
+
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
+  
+  
+  </div>
+<!------FIN PROYECTOS GRAPHQL-MICROSERV.------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+ <!------INICIO PROYECTOS RPC-MICROSERV.------>
+ 
+<div align="center">
+  
+  ##  <img width="35" height="35" src="./assets/gifs/stacks/grpc.gif" />  RPC & Microservices
+
+</div>  
+
+<br>
+
+<div align="center">
+  
+  <a href="https://github.com/andresWeitzel/RPC_Microservices_Projects" target="_blank">
+  <img src="./assets/img/projects-developments/RPC.jpg" >
+  </a>
+
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/RPC_Microservices_Projects)
+  
+  
+  </div>
+<!------FIN PROYECTOS RPC-MICROSERV.------>
 
 <br>
 <br>
