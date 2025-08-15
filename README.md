@@ -330,31 +330,6 @@
 
 <!------FIN AMAZON WEB SERVICES LIST------>
 
-<!------APLICACIONES WEB LIST------>
-
-<details >
- <summary> Web Applications </summary>
- 
- <br>
- 
-   - [Software Development Portfolio](https://github.com/andresWeitzel/Portfolio_Software_Developer)
-   - [MicroFrontEnd and npm Module for the implementation of AI Models with NLP. ](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
-   - [Web Application for Microelectronics Product Management. ](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
-   - [MicroFrontEnd Microelectronics Web Application](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React)
-   - [MicroFrontEnd about Supermarket Products](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado)
-   - [ElectroThings Web Application](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB)
-   - [IotProductosJsp_app Web Application](https://github.com/andresWeitzel/IotProductosJsp_app)
-   - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap)
-   - Others. 
-   - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Web_App)
-
-<br>
-
-</details>
-
-<!------FIN APLICACIONES WEB LIST------>
-
-
 <!------API REST-MICROSERVICIOS------>
 
 <details >
@@ -384,6 +359,33 @@
 </details>
 
 <!------FIN API REST-MICROSERVICIOS------>
+
+<!------APLICACIONES WEB LIST------>
+
+<details >
+ <summary> Web Applications </summary>
+ 
+ <br>
+ 
+   - [Software Development Portfolio](https://github.com/andresWeitzel/Portfolio_Software_Developer)
+   - [MicroFrontEnd and npm Module for the implementation of AI Models with NLP. ](https://github.com/andresWeitzel/Microfront_IA-NLP_React)
+   - [Web Application for Microelectronics Product Management. ](https://github.com/andresWeitzel/AppMicroelect_SpringBoot_Thymeleaf)
+   - [MicroFrontEnd Microelectronics Web Application](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React)
+   - [MicroFrontEnd about Supermarket Products](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_Supermercado)
+   - [ElectroThings Web Application](https://github.com/andresWeitzel/AppElectroThings_Angular_SpringBoot_MongoDB)
+   - [IotProductosJsp_app Web Application](https://github.com/andresWeitzel/IotProductosJsp_app)
+   - [WebAppAngularBootstrap](https://github.com/andresWeitzel/WebAppAngularBootstrap)
+   - Others. 
+   - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_Web_App)
+
+<br>
+
+</details>
+
+<!------FIN APLICACIONES WEB LIST------>
+
+
+
 
 <!------PROCESSING MESSAGING NOTIF LIST------>
 
