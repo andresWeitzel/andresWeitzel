@@ -360,6 +360,26 @@
 
 <!------FIN API REST-MICROSERVICIOS------>
 
+<!------START PROCESSING, MESSAGING AND NOTIFICATION------>
+
+
+<details >
+ <summary> Processing, Messaging and Notification </summary>
+ 
+ <br>
+ 
+   - [Credit Risk Analysis Batch](https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch)
+   - [Spring Batch Processing Payments](https://github.com/andresWeitzel/Spring_Batch_Processing_Payments)
+   - [User Management Email API](https://github.com/andresWeitzel/email-api-service-MailPit)
+   - [Emails Notifications MailHog](https://github.com/andresWeitzel/emails-notifications-MailHog)
+   - [`Central Project Repository`](https://github.com/andresWeitzel/Processing_Messaging_Notification_Projects)
+
+<br>
+
+</details>
+
+<!------FIN PROCESSING, MESSAGING AND NOTIFICATION------>
+
 <!------APLICACIONES WEB LIST------>
 
 <details >
@@ -385,65 +405,6 @@
 <!------FIN APLICACIONES WEB LIST------>
 
 
-
-
-<!------PROCESSING MESSAGING NOTIF LIST------>
-
-<details >
- <summary> Processing, Messaging and Notification </summary>
- 
- <br>
- 
-   - [Credit Risk Analysis Batch](https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch)
-   - [Spring Batch Processing Payments. ](https://github.com/andresWeitzel/Spring_Batch_Processing_Payments)
-   - [User Management Email API. ](https://github.com/andresWeitzel/email-api-service-MailPit)
-   - [Emails Notifications MailHog. ](https://github.com/andresWeitzel/emails-notifications-MailHog)
-   - [`Central Project Repository`](https://github.com/andresWeitzel/Processing_Messaging_Notification_Projects)
-
-<br>
-
-</details>
-
-<!------FIN PROCESSING MESSAGING NOTIF LIST------>
-
-
-<!------GRAPHQL-MICROSERVICIOS------>
-
-<details >
- <summary> GraphQL & Microservices </summary>
- 
- <br>
- 
-  - [Microservice for Cisco device management](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL)
-  - Others. 
-  - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
-
-<br>
-
-</details>
-
-<!------FIN GRAPHQL-MICROSERVICIOS------>
-
-<!------RPC-MICROSERVICIOS------>
-
-<details >
- <summary> RPC & Microservices </summary>
- 
- <br>
- 
-  - [gRPC protobuf api for the integration of IPWHOIS.IO](https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs)
-  - Others.
-  - [`Central Project Repository`](https://github.com/andresWeitzel/RPC_Microservices_Projects)
-
-<br>
-
-</details>
-
-<!------FIN RPC-MICROSERVICIOS------>
-
-
-
-
 <!------SITIOS WEB LIST------>
 
 <details>
@@ -460,6 +421,7 @@
 
 </details>
 <!------FIN SITIOS WEB LIST------>
+
 
 <!------APP DESKTOP LIST------>
 
@@ -505,6 +467,43 @@
 </details>
 
 <!------FIN BASE DE DATOS------>
+
+
+
+
+<!------GRAPHQL-MICROSERVICIOS------>
+
+<details >
+ <summary> GraphQL & Microservices </summary>
+ 
+ <br>
+ 
+  - [Microservice for Cisco device management](https://github.com/andresWeitzel/Microservicio_Cisco_Devices_GraphQL)
+  - Others. 
+  - [`Central Project Repository`](https://github.com/andresWeitzel/Proyectos_GraphQL_Microservicios)
+
+<br>
+
+</details>
+
+<!------FIN GRAPHQL-MICROSERVICIOS------>
+
+<!------RPC-MICROSERVICIOS------>
+
+<details >
+ <summary> RPC & Microservices </summary>
+ 
+ <br>
+ 
+  - [gRPC protobuf api for the integration of IPWHOIS.IO](https://github.com/andresWeitzel/gRPC_IP_Geolocation_API_Integration_Nodejs)
+  - Others.
+  - [`Central Project Repository`](https://github.com/andresWeitzel/RPC_Microservices_Projects)
+
+<br>
+
+</details>
+
+<!------FIN RPC-MICROSERVICIOS------>
 
 
 
