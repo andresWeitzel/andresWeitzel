@@ -46,15 +46,6 @@
 
 <br>
 
- <!------RECENT ACTIVITIES------>
-<div style="display: inline-block;">
-  
-![Metrics](./metrics/metrics.plugin.activity.svg)
-
-</div>
-<!------FIN RECENT ACTIVITIES------>
-
-<br>
 
  <!------FEATURED REPOSITORIES------>
 <div style="display: inline-block;">
