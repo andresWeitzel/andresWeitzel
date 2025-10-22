@@ -395,6 +395,24 @@
 
 <!------FIN APLICACIONES WEB LIST------>
 
+<!------START ARTIFICIAL INTELLIGENCE LIST------>
+
+<details >
+ <summary> Artificial Intelligence </summary>
+ 
+ <br>
+ 
+   - [MobileNET CNN Tensorflow Module](https://github.com/andresWeitzel/Modulo_MobileNET_CNN_Tensorflow)
+   - [GPT-J-6B NLP Module](https://github.com/andresWeitzel/Modulo_GPT-J-6B_NLP)
+   - Others. 
+   - [`Central Project Repository`](https://github.com/andresWeitzel/Artificial_Intelligence_Projects)
+
+<br>
+
+</details>
+
+<!------END ARTIFICIAL INTELLIGENCE LIST------>
+
 
 <!------SITIOS WEB LIST------>
 
@@ -634,6 +652,37 @@
   
   </div>
 <!------FIN PROYECTOS WEB APP.------>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+ <!------START ARTIFICIAL INTELLIGENCE------>
+ 
+<div align="center">
+  
+  ##  <img width="35" height="30" src="./assets/gifs/stacks/ia-brain.gif" /> Artificial Intelligence
+
+</div>  
+
+<br>
+
+<div align="center">
+  
+  <a href="https://github.com/andresWeitzel/Artificial_Intelligence_Projects" target="_blank">
+  <img src="./assets/img/projects-developments/ia.png" >
+  </a>
+
+ ## [[`Projects Repository`]](https://github.com/andresWeitzel/Artificial_Intelligence_Projects)
+  
+  
+  </div>
+<!------END ARTIFICIAL INTELLIGENCE LIST.------>
 
 
 <br>
