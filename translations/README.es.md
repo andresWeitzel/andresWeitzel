@@ -580,7 +580,7 @@
 <div align="center">
   
   <a href="https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios" target="_blank">
-  <img src="../assets/img/projects-developments/api-rest.png" >
+  <img src="../assets/img/projects-developments/api-rest.jpg" >
   </a>
 
  ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Api_Rest_Microservicios)
