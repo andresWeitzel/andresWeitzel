@@ -135,7 +135,7 @@
 
 <!------BACKEND STACK------>
 
-* Backend Stack
+* Backend Stack 
 
 <div style="display: inline-block;">
    <img width="40" height="40" alt="Nodejs Icon" src="./assets/icons/backend/javascript-typescript/png/nodejs.png" />
