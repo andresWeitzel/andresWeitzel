@@ -550,7 +550,7 @@
 <div align="center">
   
 <a href="https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services" target="_blank">
-  <img src="../assets/img/projects-developments/aws-img.jpg" >
+  <img src="../assets/img/projects-developments/aws.png" >
 </a>
 
  ## [[`Repositorio de Proyectos`]](https://github.com/andresWeitzel/Proyectos_Amazon_Web_Services)
