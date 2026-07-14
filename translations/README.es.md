@@ -770,7 +770,7 @@
  
 <div align="center">
   
-  ##  <img width="35" height="35" src="../assets/gifs/stacks/graphql.gif" /> <img width="35" height="35" src="../assets/gifs/stacks/grpc.gif" />  GraphQL & RPC
+  ##  <img width="35" height="35" src="../assets/gifs/stacks/graphql.gif" />  GraphQL & RPC
 
 </div>  
 
