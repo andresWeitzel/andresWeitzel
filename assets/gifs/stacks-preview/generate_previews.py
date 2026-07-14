@@ -8,10 +8,12 @@ from __future__ import annotations
 import math
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageEnhance, ImageFilter
+from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter
 
 OUT_DIR = Path(__file__).resolve().parent
 SIZE = 200
+OUT_SIZE = 96  # tamaño final del GIF (compacto, nítido en títulos)
+CROP_PAD = 6
 FRAMES = 64
 DURATION_MS = 70
 BG = (4, 9, 20)
@@ -45,11 +47,12 @@ def rot_x(x, y, z, ang):
     return x, y * ca - z * sa, y * sa + z * ca
 
 
-def project(x, y, z, cx=None, cy=None, scale=2.35):
+def project(x, y, z, cx=None, cy=None, scale=2.55):
     if cx is None:
         cx = SIZE / 2
     if cy is None:
-        cy = SIZE / 2 + 4
+        # un poco más abajo para alinear ópticamente con texto del título
+        cy = SIZE / 2 + 10
     # Vista frontal (cámara mirando de frente, eje -Z)
     px = cx + x * scale
     py = cy - y * scale
@@ -119,27 +122,27 @@ class Scene:
 
     def render(self, t):
         img = Image.new("RGB", (SIZE, SIZE), BG)
-        # ambient vignette glow under object
+        # ambient vignette glow under object (más cerca del icono)
         glow = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
         gd = ImageDraw.Draw(glow)
         pulse = 0.55 + 0.45 * (0.5 + 0.5 * math.sin(t * 2 * math.pi))
         cx = SIZE / 2
-        cy = SIZE / 2 + 70
-        gd.ellipse([cx - 70, cy - 18, cx + 70, cy + 18], fill=with_alpha(CYAN_MID, int(55 * pulse)))
-        glow = glow.filter(ImageFilter.GaussianBlur(12))
+        cy = SIZE / 2 + 52
+        gd.ellipse([cx - 48, cy - 12, cx + 48, cy + 12], fill=with_alpha(CYAN_MID, int(50 * pulse)))
+        glow = glow.filter(ImageFilter.GaussianBlur(9))
         img = Image.alpha_composite(img.convert("RGBA"), glow).convert("RGB")
 
-        # pedestal rings
+        # pedestal rings (compactos)
         ped = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
         pd = ImageDraw.Draw(ped)
-        for i, (rx, ry, a) in enumerate([(58, 15, 110), (44, 11, 160), (30, 8, 200)]):
+        for i, (rx, ry, a) in enumerate([(40, 10, 120), (30, 7, 170), (20, 5, 210)]):
             col = mix(CYAN_DEEP, CYAN, 0.45 + 0.2 * pulse)
             pd.ellipse([cx - rx, cy - ry, cx + rx, cy + ry], outline=with_alpha(col, a), width=2)
         # orbiting pedestal spark
         a = t * 2 * math.pi
-        sx = cx + 58 * math.cos(a)
-        sy = cy + 15 * math.sin(a) * 0.35
-        pd.ellipse([sx - 2.5, sy - 2.5, sx + 2.5, sy + 2.5], fill=with_alpha(CYAN_SOFT, 240))
+        sx = cx + 40 * math.cos(a)
+        sy = cy + 10 * math.sin(a) * 0.35
+        pd.ellipse([sx - 2, sy - 2, sx + 2, sy + 2], fill=with_alpha(CYAN_SOFT, 240))
         ped = ped.filter(ImageFilter.GaussianBlur(0.4))
         img = Image.alpha_composite(img.convert("RGBA"), ped)
 
@@ -163,7 +166,7 @@ class Scene:
 
 
 def hover(t):
-    return 2.0 * math.sin(t * 2 * math.pi)
+    return 1.2 * math.sin(t * 2 * math.pi)
 
 
 def spin(t):
@@ -499,13 +502,53 @@ FRAMES_FN = {
 }
 
 
+def union_content_bbox(frames, bg=BG, thresh=18):
+    """Bounding box del contenido visible en todos los frames."""
+    min_x, min_y = SIZE, SIZE
+    max_x, max_y = -1, -1
+    blank = Image.new("RGB", (SIZE, SIZE), bg)
+    for frame in frames:
+        diff = ImageChops.difference(frame, blank).convert("L")
+        mask = diff.point(lambda p: 255 if p > thresh else 0)
+        bbox = mask.getbbox()
+        if not bbox:
+            continue
+        x0, y0, x1, y1 = bbox
+        min_x = min(min_x, x0)
+        min_y = min(min_y, y0)
+        max_x = max(max_x, x1 - 1)
+        max_y = max(max_y, y1 - 1)
+    if max_x < 0:
+        return 0, 0, SIZE - 1, SIZE - 1
+    return min_x, min_y, max_x, max_y
+
+
+def crop_square(frames, pad=CROP_PAD):
+    x0, y0, x1, y1 = union_content_bbox(frames)
+    x0 = max(0, x0 - pad)
+    y0 = max(0, y0 - pad)
+    x1 = min(SIZE - 1, x1 + pad)
+    y1 = min(SIZE - 1, y1 + pad)
+    side = max(x1 - x0 + 1, y1 - y0 + 1)
+    # centrar el crop en el contenido
+    cx = (x0 + x1) / 2
+    cy = (y0 + y1) / 2
+    left = int(round(cx - side / 2))
+    top = int(round(cy - side / 2))
+    left = max(0, min(left, SIZE - side))
+    top = max(0, min(top, SIZE - side))
+    box = (left, top, left + side, top + side)
+    return [f.crop(box).resize((OUT_SIZE, OUT_SIZE), Image.Resampling.LANCZOS) for f in frames]
+
+
 def make_gif(name: str, frame_fn) -> Path:
     frames_rgb = [frame_fn(i / FRAMES) for i in range(FRAMES)]
-    sample = Image.new("RGB", (SIZE * 2, SIZE * 2), BG)
+    frames_rgb = crop_square(frames_rgb)
+    sample = Image.new("RGB", (OUT_SIZE * 2, OUT_SIZE * 2), BG)
     sample.paste(frames_rgb[0], (0, 0))
-    sample.paste(frames_rgb[FRAMES // 3], (SIZE, 0))
-    sample.paste(frames_rgb[2 * FRAMES // 3], (0, SIZE))
-    sample.paste(frames_rgb[-1], (SIZE, SIZE))
+    sample.paste(frames_rgb[FRAMES // 3], (OUT_SIZE, 0))
+    sample.paste(frames_rgb[2 * FRAMES // 3], (0, OUT_SIZE))
+    sample.paste(frames_rgb[-1], (OUT_SIZE, OUT_SIZE))
     palette = sample.convert("P", palette=Image.ADAPTIVE, colors=160)
     frames = [f.quantize(palette=palette, dither=Image.Dither.NONE) for f in frames_rgb]
     out = OUT_DIR / f"{name}-preview.gif"
@@ -531,7 +574,7 @@ def main():
     cards = "\n".join(
         f"""
         <figure>
-          <img src="{p.name}" width="150" height="150" alt="{p.stem}" />
+          <img src="{p.name}" width="72" height="72" alt="{p.stem}" />
           <figcaption>{p.stem.replace('-preview', '')}</figcaption>
         </figure>"""
         for p in paths
