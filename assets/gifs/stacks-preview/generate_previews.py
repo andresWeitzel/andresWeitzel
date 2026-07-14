@@ -45,15 +45,15 @@ def rot_x(x, y, z, ang):
     return x, y * ca - z * sa, y * sa + z * ca
 
 
-def project(x, y, z, cx=None, cy=None, scale=2.15):
+def project(x, y, z, cx=None, cy=None, scale=2.35):
     if cx is None:
         cx = SIZE / 2
     if cy is None:
-        cy = SIZE / 2 + 6
-    # soft isometric
-    px = cx + (x - z) * scale * 0.86
-    py = cy + (x + z) * scale * 0.48 - y * scale
-    depth = x + z + y * 0.2
+        cy = SIZE / 2 + 4
+    # Vista frontal (cámara mirando de frente, eje -Z)
+    px = cx + x * scale
+    py = cy - y * scale
+    depth = z
     return px, py, depth
 
 
@@ -176,11 +176,10 @@ def rock(t, amp=0.22):
 
 def icon_motion(t):
     """
-    Giro completo 360° (1 vuelta por loop), diagonal hacia la izquierda.
-    yaw da la vuelta entera; pitch mantiene la inclinación isométrica.
+    Vista de frente (vertical) + giro 360° sobre el eje Y.
     """
-    yaw = -0.55 + t * 2 * math.pi  # 360° cerrados al reiniciar el GIF
-    pitch = 0.34
+    yaw = t * 2 * math.pi
+    pitch = 0.0
     lift = hover(t)
     return yaw, pitch, lift
 
