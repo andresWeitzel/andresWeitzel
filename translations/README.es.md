@@ -525,7 +525,7 @@
  
 <div align="center">
   
-## <img width="58" height="58"  src="../assets/gifs/stacks/aws.gif" /> Amazon Web Services 
+## <img width="48" height="48"  src="../assets/gifs/stacks/aws.gif" /> Amazon Web Services 
 
 </div>  
 
@@ -555,7 +555,7 @@
  
 <div align="center">
   
-  ##  <img width="58" height="58" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
+  ##  <img width="48" height="48" src="../assets/gifs/stacks/api-rest.gif" />  Api-Rest & Microservices
 
 </div>  
 
@@ -585,7 +585,7 @@
  
 <div align="center">
   
-  ##  <img width="58" height="58" src="../assets/gifs/stacks/notification.gif" /> Procesamiento, Mensajería y Notificaciones
+  ##  <img width="48" height="48" src="../assets/gifs/stacks/notification.gif" /> Procesamiento, Mensajería y Notificaciones
 
 </div>  
 
@@ -614,7 +614,7 @@
  
 <div align="center">
   
-  ##  <img width="58" height="58" src="../assets/gifs/stacks/web-app.gif" /> Web Applications
+  ##  <img width="48" height="48" src="../assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -645,7 +645,7 @@
  
 <div align="center">
   
-  ##  <img width="58" height="58" src="../assets/gifs/stacks/ia-brain.gif" /> Inteligencia Artificial
+  ##  <img width="48" height="48" src="../assets/gifs/stacks/ia-brain.gif" /> Inteligencia Artificial
 
 </div>  
 
@@ -677,7 +677,7 @@
  
 <div align="center">
   
-## <img width="58" height="58" src="../assets/gifs/stacks/websites.gif" /> Web Sites
+## <img width="48" height="48" src="../assets/gifs/stacks/websites.gif" /> Web Sites
 
 </div>  
 
@@ -708,7 +708,7 @@
  
 <div align="center">
   
-## <img width="58" height="58" src="../assets/gifs/stacks/desktop-app.gif" /> Desktop App
+## <img width="48" height="48" src="../assets/gifs/stacks/desktop-app.gif" /> Desktop App
 
 
 </div>  
@@ -740,7 +740,7 @@
  
 <div align="center">
   
-## <img width="58" height="58" src="../assets/gifs/stacks/database.gif"/> Databases
+## <img width="48" height="48" src="../assets/gifs/stacks/database.gif"/> Databases
 
 </div>  
 
@@ -770,7 +770,7 @@
  
 <div align="center">
   
-  ##  <img width="58" height="58" src="../assets/gifs/stacks/graphql.gif" />  GraphQL & RPC
+  ##  <img width="48" height="48" src="../assets/gifs/stacks/graphql.gif" />  GraphQL & RPC
 
 </div>  
 
@@ -800,7 +800,7 @@
  
 <div align="center">
   
-## <img width="58" height="58" src="../assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
+## <img width="48" height="48" src="../assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
 
 </div>  
 
