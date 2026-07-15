@@ -8,7 +8,7 @@ from __future__ import annotations
 import math
 from pathlib import Path
 
-from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter
+from PIL import Image, ImageDraw, ImageEnhance, ImageFilter
 
 OUT_DIR = Path(__file__).resolve().parent
 SIZE = 200
@@ -121,16 +121,18 @@ class Scene:
         self.add_face(pts, fill, CYAN)
 
     def render(self, t):
-        img = Image.new("RGB", (SIZE, SIZE), BG)
-        # ambient vignette glow under object (más cerca del icono)
-        glow = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
-        gd = ImageDraw.Draw(glow)
+        # Fondo transparente para que el GIF se integre en el README
+        img = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
         pulse = 0.55 + 0.45 * (0.5 + 0.5 * math.sin(t * 2 * math.pi))
         cx = SIZE / 2
         cy = SIZE / 2 + 52
+
+        # ambient vignette glow under object (más cerca del icono)
+        glow = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
+        gd = ImageDraw.Draw(glow)
         gd.ellipse([cx - 48, cy - 12, cx + 48, cy + 12], fill=with_alpha(CYAN_MID, int(50 * pulse)))
         glow = glow.filter(ImageFilter.GaussianBlur(9))
-        img = Image.alpha_composite(img.convert("RGBA"), glow).convert("RGB")
+        img = Image.alpha_composite(img, glow)
 
         # pedestal rings (compactos)
         ped = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
@@ -144,7 +146,7 @@ class Scene:
         sy = cy + 10 * math.sin(a) * 0.35
         pd.ellipse([sx - 2, sy - 2, sx + 2, sy + 2], fill=with_alpha(CYAN_SOFT, 240))
         ped = ped.filter(ImageFilter.GaussianBlur(0.4))
-        img = Image.alpha_composite(img.convert("RGBA"), ped)
+        img = Image.alpha_composite(img, ped)
 
         # draw faces back-to-front
         layer = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
@@ -162,7 +164,10 @@ class Scene:
         glow2 = ImageEnhance.Brightness(glow2).enhance(1.35)
         out = Image.alpha_composite(img, glow2)
         out = Image.alpha_composite(out, layer)
-        return ImageEnhance.Contrast(out.convert("RGB")).enhance(1.08)
+        # limpia alpha baja para un fondo GIF limpio
+        alpha = out.getchannel("A").point(lambda a: 0 if a < 18 else a)
+        out.putalpha(alpha)
+        return out
 
 
 def hover(t):
@@ -502,14 +507,13 @@ FRAMES_FN = {
 }
 
 
-def union_content_bbox(frames, bg=BG, thresh=18):
-    """Bounding box del contenido visible en todos los frames."""
+def union_content_bbox(frames, alpha_thresh=18):
+    """Bounding box del contenido visible (por canal alpha) en todos los frames."""
     min_x, min_y = SIZE, SIZE
     max_x, max_y = -1, -1
-    blank = Image.new("RGB", (SIZE, SIZE), bg)
     for frame in frames:
-        diff = ImageChops.difference(frame, blank).convert("L")
-        mask = diff.point(lambda p: 255 if p > thresh else 0)
+        alpha = frame.getchannel("A")
+        mask = alpha.point(lambda a: 255 if a > alpha_thresh else 0)
         bbox = mask.getbbox()
         if not bbox:
             continue
@@ -541,17 +545,89 @@ def crop_square(frames, pad=CROP_PAD):
     return [f.crop(box).resize((OUT_SIZE, OUT_SIZE), Image.Resampling.LANCZOS) for f in frames]
 
 
+TRANSPARENT_KEY = (255, 0, 255)  # magenta clave (fuera de la paleta cyan del icono)
+ALPHA_CUTOFF = 40  # más estricto: evita franjas oscuras semi-transparentes
+
+
+def rgba_to_keyed_rgb(im_rgba: Image.Image) -> Image.Image:
+    """Pasa RGBA a RGB con magenta en zonas transparentes (sin franjas negras)."""
+    alpha = im_rgba.getchannel("A")
+    # binario: o se ve o es transparente (nada de alpha intermedia oscura)
+    mask = alpha.point(lambda a: 255 if a >= ALPHA_CUTOFF else 0)
+    rgb = Image.new("RGB", im_rgba.size, TRANSPARENT_KEY)
+    rgb.paste(im_rgba.convert("RGB"), mask=mask)
+    return rgb
+
+
+def build_shared_palette(rgb_frames: list[Image.Image]) -> Image.Image:
+    """Una sola paleta para todos los frames (transparencia estable)."""
+    n = min(4, len(rgb_frames))
+    step = max(1, len(rgb_frames) // n)
+    samples = [rgb_frames[i * step] for i in range(n)]
+    w, h = samples[0].size
+    sheet = Image.new("RGB", (w * n, h), TRANSPARENT_KEY)
+    for i, sample in enumerate(samples):
+        sheet.paste(sample, (i * w, 0))
+    # 255 colores + 1 reservado conceptualmente para transparencia
+    return sheet.quantize(colors=255, method=Image.Quantize.MEDIANCUT, dither=Image.Dither.NONE)
+
+
+def find_key_index(pal_img: Image.Image) -> int:
+    palette = pal_img.getpalette() or []
+    best_i, best_d = 0, 10**9
+    for i in range(min(256, len(palette) // 3)):
+        r, g, b = palette[i * 3], palette[i * 3 + 1], palette[i * 3 + 2]
+        d = abs(r - TRANSPARENT_KEY[0]) + abs(g - TRANSPARENT_KEY[1]) + abs(b - TRANSPARENT_KEY[2])
+        if d < best_d:
+            best_d = d
+            best_i = i
+    return best_i
+
+
+def force_transparency_index0(frame: Image.Image, key_idx: int) -> Image.Image:
+    """
+    Deja la transparencia siempre en el índice 0.
+    Así todos los frames comparten el mismo transparency=0 y no hay destellos negros.
+    """
+    if key_idx == 0:
+        frame.info["transparency"] = 0
+        return frame
+
+    pal = frame.getpalette()
+    data = bytearray(frame.tobytes())
+    # intercambiar índices key_idx <-> 0 en los píxeles
+    for i, v in enumerate(data):
+        if v == 0:
+            data[i] = key_idx
+        elif v == key_idx:
+            data[i] = 0
+
+    # intercambiar colores en la paleta
+    if pal and len(pal) >= (key_idx + 1) * 3:
+        for c in range(3):
+            pal[c], pal[key_idx * 3 + c] = pal[key_idx * 3 + c], pal[c]
+
+    out = Image.frombytes("P", frame.size, bytes(data))
+    out.putpalette(pal)
+    out.info["transparency"] = 0
+    return out
+
+
 def make_gif(name: str, frame_fn) -> Path:
-    frames_rgb = [frame_fn(i / FRAMES) for i in range(FRAMES)]
-    frames_rgb = crop_square(frames_rgb)
-    sample = Image.new("RGB", (OUT_SIZE * 2, OUT_SIZE * 2), BG)
-    sample.paste(frames_rgb[0], (0, 0))
-    sample.paste(frames_rgb[FRAMES // 3], (OUT_SIZE, 0))
-    sample.paste(frames_rgb[2 * FRAMES // 3], (0, OUT_SIZE))
-    sample.paste(frames_rgb[-1], (OUT_SIZE, OUT_SIZE))
-    palette = sample.convert("P", palette=Image.ADAPTIVE, colors=160)
-    frames = [f.quantize(palette=palette, dither=Image.Dither.NONE) for f in frames_rgb]
+    frames_rgba = [frame_fn(i / FRAMES) for i in range(FRAMES)]
+    frames_rgba = crop_square(frames_rgba)
+    keyed = [rgba_to_keyed_rgb(f) for f in frames_rgba]
+    shared = build_shared_palette(keyed)
+    key_idx = find_key_index(shared)
+
+    frames = []
+    for rgb in keyed:
+        q = rgb.quantize(palette=shared, dither=Image.Dither.NONE)
+        frames.append(force_transparency_index0(q, key_idx))
+
     out = OUT_DIR / f"{name}-preview.gif"
+    for f in frames:
+        f.info["transparency"] = 0
     frames[0].save(
         out,
         save_all=True,
@@ -560,6 +636,8 @@ def make_gif(name: str, frame_fn) -> Path:
         loop=0,
         optimize=False,
         disposal=2,
+        transparency=0,
+        background=0,  # evita destello negro al limpiar cada frame
     )
     return out
 
@@ -591,12 +669,12 @@ def main():
     .grid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(170px,1fr)); gap:20px; margin-top:28px; }}
     figure {{ margin:0; text-align:center; background:#0c1428; border:1px solid #1d3a5c; border-radius:12px; padding:18px 10px 12px; }}
     figcaption {{ margin-top:10px; font-size:13px; color:#9ec9ea; }}
-    img {{ background:#060c1c; border-radius:8px; }}
+    img {{ background: transparent; border-radius: 8px; }}
   </style>
 </head>
 <body>
-  <h1>Preview GIFs — 3D pulido</h1>
-  <p>Solo muestras. Caras sólidas con sombreado, pedestal glow, hover y giro lento sin salto. No reemplazan <code>assets/gifs/stacks/</code>.</p>
+  <h1>Preview GIFs — 3D transparente</h1>
+  <p>Fondo transparente + vista frontal + giro 360°. Se aplican a <code>assets/gifs/stacks/</code>.</p>
   <div class="grid">{cards}</div>
 </body>
 </html>
