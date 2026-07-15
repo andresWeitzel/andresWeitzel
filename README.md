@@ -619,7 +619,7 @@
  
 <div align="center">
   
-  ##  <img width="48" height="48" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
+  ##  <img width="40" height="48" src="./assets/gifs/stacks/web-app.gif" /> Web Applications
 
 </div>  
 
@@ -650,7 +650,7 @@
  
 <div align="center">
   
-  ##  <img width="48" height="48" src="./assets/gifs/stacks/ia-brain.gif" /> Artificial Intelligence
+  ##  <img width="40" height="40" src="./assets/gifs/stacks/ia-brain.gif" /> Artificial Intelligence
 
 </div>  
 
@@ -682,7 +682,7 @@
  
 <div align="center">
   
-## <img width="48" height="48" src="./assets/gifs/stacks/websites.gif" /> Web Sites
+## <img width="42" height="48" src="./assets/gifs/stacks/websites.gif" /> Web Sites
 
 </div>  
 
@@ -713,7 +713,7 @@
  
 <div align="center">
   
-## <img width="48" height="48" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
+## <img width="40" height="48" src="./assets/gifs/stacks/desktop-app.gif" /> Desktop App
 
 
 </div>  
@@ -746,7 +746,7 @@
  
 <div align="center">
   
-## <img width="48" height="48" src="./assets/gifs/stacks/database.gif"/> Databases
+## <img width="48" height="40" src="./assets/gifs/stacks/database.gif"/> Databases
 
 </div>  
 
@@ -780,7 +780,7 @@
  
 <div align="center">
   
-  ##  <img width="48" height="48" src="./assets/gifs/stacks/graphql.gif" />  GraphQL & RPC
+  ##  <img width="42" height="40" src="./assets/gifs/stacks/graphql.gif" />  GraphQL & RPC
 
 </div>  
 
@@ -810,7 +810,7 @@
  
 <div align="center">
   
-## <img width="48" height="48" src="./assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
+## <img width="40" height="40" src="./assets/gifs/stacks/embedded-system.gif"/>  Embedded Systems
 
 </div>  
 
